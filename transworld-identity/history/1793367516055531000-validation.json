@@ -1,0 +1,884 @@
+{
+  "schema_version": 1,
+  "structure_revision": 2,
+  "run_id": "build-01",
+  "mode": "standard",
+  "timestamp": 1793367474.7629151,
+  "delivery_status": "standard_accepted",
+  "summary": "Machine-assisted editorial review of all retained core claims and eight runtime modules against the inspected supplied passages; bounded coverage and attribution limits preserved.",
+  "runtime_error": null,
+  "runtime_hash": "sha256:32ca6e4b4af39e3e4de3973b5ec443374c50f74c709ef873c22f4875ac05c581",
+  "module_hashes": {
+    "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+    "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943",
+    "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+    "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+    "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+    "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+    "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+    "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e"
+  },
+  "revision": "build-01",
+  "hashes": {
+    "assessment_scope": "sha256:28ee178f66f9875317f74ffe44cd10a0c4958eb35c6a2913e385c2140eb58647",
+    "generation": "sha256:26ae9462e944b5599d4710d1a0a6a1e2f7cb8ae98d5298481eb6ce75d786ab45",
+    "modules": {
+      "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+      "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943",
+      "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+      "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+      "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+      "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+      "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+      "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e"
+    },
+    "profile": "sha256:5ee4b2296afa80f11acfaf229dee5e32a8bfabb3bdd0009700d21faea299b041",
+    "rubric": "sha256:d08bde07a21c31e05ad8af9ed0318446b80c7997db75640c68f9983df535b695",
+    "runtime": "sha256:32ca6e4b4af39e3e4de3973b5ec443374c50f74c709ef873c22f4875ac05c581",
+    "scenarios": "sha256:36167c80f82bb4ce371c6cb2db3d38d8d5589a0aa67a064cad7c0055ee2746b3",
+    "source_packet": "sha256:b3a9cdb5b201f0a3e4eb3c04319b3c366bd967e72e698488da8321540ebf3f71"
+  },
+  "gates": {
+    "package": "passed",
+    "source": "passed",
+    "machine_recognition": "passed"
+  },
+  "package_checks": {
+    "structure_revision": 2,
+    "strict": false,
+    "checks": [
+      {
+        "check": "S9",
+        "level": "error",
+        "ok": true,
+        "detail": "reconstruction scope and host boundaries present; editorial responsibilities require source review",
+        "effective_level": "error"
+      },
+      {
+        "check": "S1",
+        "level": "error",
+        "ok": true,
+        "detail": "one discoverable skill exists under .agents/skills/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S2",
+        "level": "error",
+        "ok": true,
+        "detail": "SKILL.md exists inside the discovered skill directory",
+        "effective_level": "error"
+      },
+      {
+        "check": "S3",
+        "level": "error",
+        "ok": true,
+        "detail": "references/, voice.md, and frameworks.md present",
+        "effective_level": "error"
+      },
+      {
+        "check": "S4",
+        "level": "error",
+        "ok": true,
+        "detail": "transworld-identity/provenance.md present outside .agents/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S4",
+        "level": "warn",
+        "ok": true,
+        "detail": "transworld-identity/episodic.md present",
+        "effective_level": "warn"
+      },
+      {
+        "check": "S5",
+        "level": "error",
+        "ok": true,
+        "detail": "no ledger files under references/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S6",
+        "level": "warn",
+        "ok": true,
+        "detail": "cluster modules directory is references/clusters/",
+        "effective_level": "warn"
+      },
+      {
+        "check": "C1",
+        "level": "error",
+        "ok": true,
+        "detail": "frontmatter has name and description",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1b",
+        "level": "error",
+        "ok": true,
+        "detail": "frontmatter name matches .agents/skills directory",
+        "effective_level": "error"
+      },
+      {
+        "check": "C2",
+        "level": "error",
+        "ok": true,
+        "detail": "description is non-empty and runtime-facing",
+        "effective_level": "error"
+      },
+      {
+        "check": "C3",
+        "level": "warn",
+        "ok": true,
+        "detail": "skipped: no --headings file supplied (subject-language cores need supplied anchors)",
+        "effective_level": "warn"
+      },
+      {
+        "check": "C4",
+        "level": "error",
+        "ok": true,
+        "detail": "no banned implementation strings in core",
+        "effective_level": "error"
+      },
+      {
+        "check": "S7",
+        "level": "error",
+        "ok": true,
+        "detail": "runtime/evaluation separation",
+        "effective_level": "error"
+      },
+      {
+        "check": "S8",
+        "level": "error",
+        "ok": true,
+        "detail": "no detected raw books or local paths",
+        "effective_level": "error"
+      },
+      {
+        "check": "C5",
+        "level": "error",
+        "ok": true,
+        "detail": "runtime links and disk agree",
+        "effective_level": "error"
+      },
+      {
+        "check": "C6",
+        "level": "error",
+        "ok": true,
+        "detail": "all cNN citations resolve to a module",
+        "effective_level": "error"
+      },
+      {
+        "check": "L1",
+        "level": "warn",
+        "ok": true,
+        "detail": "no second-person or bare-English-imperative lines found",
+        "effective_level": "warn"
+      },
+      {
+        "check": "L2",
+        "level": "error",
+        "ok": true,
+        "detail": "provenance records the build contract and source/editorial lineage; content requires source review",
+        "effective_level": "error"
+      },
+      {
+        "check": "L3",
+        "level": "error",
+        "ok": true,
+        "detail": "episodic.md exceeds near-empty floor",
+        "effective_level": "error"
+      },
+      {
+        "check": "X1",
+        "level": "error",
+        "ok": true,
+        "detail": "references contain no numeric composite/probe score pattern",
+        "effective_level": "error"
+      }
+    ],
+    "errors": 0,
+    "warnings": 0,
+    "verdict": "PASS"
+  },
+  "source_review": {
+    "summary": "Machine-assisted editorial review of all retained core claims and eight runtime modules against the inspected supplied passages; bounded coverage and attribution limits preserved.",
+    "reviewer": "Codex builder; machine-assisted editorial review, not independent human or historical audit",
+    "reviewed_all_core_claims": true,
+    "revision": "build-01",
+    "limitations": [
+      "64 bounded reading units, not exhaustive reading of eight books; supplied OCR/transcriptions were not fully checked against printed pages.",
+      "Three short internal cases do not validate long-term conversation or all-domain fidelity.",
+      "Coauthored, edited and translated evidence limits individual voice attribution.",
+      "Isolated collaboration transport does not expose provider model identity, token usage, temperature or hard provider token caps; configured caps are requested, input bytes and answer words checked."
+    ],
+    "source_checks": [
+      {
+        "claim": "Activity, value and imagined social orders",
+        "outcome": "passed",
+        "assessment": "Core orientation is a conditional synthesis of the inspected value monograph and pamphlet, with actual mechanisms and limits in frameworks.",
+        "condition_or_exception": "Imagined institutions have material force; usefulness of abstraction is retained.",
+        "evidence_ids": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E18",
+          "E52"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Concrete contradiction before prefabricated theory",
+        "outcome": "passed",
+        "assessment": "Concrete episodes support the reframing move, including the impersonal-protection counterexample.",
+        "condition_or_exception": "No claim every demand is oppressive or every anecdote representative.",
+        "evidence_ids": [
+          "E06",
+          "E08",
+          "E10",
+          "E11",
+          "E12",
+          "E23"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Participants’ knowledge and separate causal levels",
+        "outcome": "passed",
+        "assessment": "Frameworks retain information asymmetry, sampling correction and levels of cause.",
+        "condition_or_exception": "Defeasible testimony, not infallible worker authority or fabricated prevalence.",
+        "evidence_ids": [
+          "E07",
+          "E09",
+          "E13"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Distinguish moral relations and challenge premises",
+        "outcome": "passed",
+        "assessment": "The three principles coexist; exchange can end relations and remedies are not complete systems.",
+        "condition_or_exception": "Capital/debt and harmful/pointless distinctions retained.",
+        "evidence_ids": [
+          "E01",
+          "E10",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E35",
+          "E36"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Care, maintenance, recognition and agency",
+        "outcome": "passed",
+        "assessment": "Retains development from action and creativity to care/freedom and the counterexample of protection becoming dependency.",
+        "condition_or_exception": "Care is not automatically benign; joint historical hypothesis stays tentative.",
+        "evidence_ids": [
+          "E04",
+          "E19",
+          "E20",
+          "E21",
+          "E32"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Rules, refusal, information and practical freedom",
+        "outcome": "passed",
+        "assessment": "Useful impersonal rules and formal organizing process qualify criticism of bureaucratic domination.",
+        "condition_or_exception": "No universal anti-rule verdict or guaranteed effectiveness of a modern design.",
+        "evidence_ids": [
+          "E11",
+          "E12",
+          "E23",
+          "E24",
+          "E25",
+          "E26",
+          "E27",
+          "E28",
+          "E39"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Offer possibilities, not a compulsory worldview",
+        "outcome": "passed",
+        "assessment": "Core follows non-vanguardist inquiry; optimism remains uncertain and UBI qualifies policy suspicion.",
+        "condition_or_exception": "Does not demand shared theory, a total blueprint or a collapse timetable.",
+        "evidence_ids": [
+          "E18",
+          "E29",
+          "E30",
+          "E31",
+          "E36",
+          "E48",
+          "E50"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Dialogic uptake and correction",
+        "outcome": "passed",
+        "assessment": "Recorded concessions, clarifying questions and surprise support flexible dialogue without prescribing a universal sequence.",
+        "condition_or_exception": "Piketty exchange translated/edited; not verbatim-diction certification.",
+        "evidence_ids": [
+          "E33",
+          "E34",
+          "E35",
+          "E36",
+          "E46",
+          "E53"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Expression, particular vulnerability and non-scapegoating",
+        "outcome": "passed",
+        "assessment": "Voice preserves polemic, concrete humor, self-implication, care and direct assent; single clerk episode stays single.",
+        "condition_or_exception": "No fabricated career stakes, personal memories, clinical efficacy or always-gentle personality.",
+        "evidence_ids": [
+          "E10",
+          "E11",
+          "E12",
+          "E22",
+          "E27",
+          "E34",
+          "E37",
+          "E47",
+          "E51"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "No requirement of risky resignation or remote defiance",
+        "outcome": "passed",
+        "assessment": "Explicit modern implementation of situated care and attention to livelihoods.",
+        "condition_or_exception": "Not falsely presented as an attested historical script.",
+        "evidence_ids": [
+          "E19",
+          "E37",
+          "E51"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        },
+        "implementation_safeguard": true
+      },
+      {
+        "claim": "Continuity and memory across conversation",
+        "outcome": "passed",
+        "assessment": "Implementation instruction preserves available facts and objections and refuses nonexistent memory.",
+        "condition_or_exception": "No claim of experimentally validated months-long interaction.",
+        "evidence_ids": [],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        },
+        "implementation_safeguard": true
+      },
+      {
+        "claim": "Default language and activation",
+        "outcome": "passed",
+        "assessment": "English follows all represented source editions; full core/voice/frameworks entry is consistent across host and reader instructions.",
+        "condition_or_exception": "Explicit user language instruction overrides default for its scope.",
+        "evidence_ids": [],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        },
+        "implementation_safeguard": true
+      },
+      {
+        "claim": "Historical portrayal and attribution",
+        "outcome": "passed",
+        "assessment": "Distinguishes coauthors, interlocutors, translator, editors and testimony; no posthumous personal opinion invented.",
+        "condition_or_exception": "Portrayal and no-fabricated-quotation rules are implementation safeguards.",
+        "evidence_ids": [
+          "E38",
+          "E40",
+          "E41",
+          "E42"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        },
+        "implementation_safeguard": true
+      },
+      {
+        "claim": "Play, hypotheses and speculative science",
+        "outcome": "passed",
+        "assessment": "Allows creative inquiry, rule-generated pleasures and destructive play; speculative physics is not authoritative.",
+        "condition_or_exception": "No scientific consensus claim inferred from rhetorical speculation.",
+        "evidence_ids": [
+          "E04",
+          "E34",
+          "E43",
+          "E44",
+          "E45"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      },
+      {
+        "claim": "Historical alternatives and limits",
+        "outcome": "passed",
+        "assessment": "Joint authorship, preliminary explanations, seasonal reversibility and non-primordial cultural difference retained.",
+        "condition_or_exception": "Possibility is not inevitability; no complete archaeological verification claimed.",
+        "evidence_ids": [
+          "E24",
+          "E25",
+          "E32",
+          "E39",
+          "E40",
+          "E49",
+          "E55"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+          "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+          "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+          "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+          "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+          "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+          "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+          "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+        }
+      }
+    ]
+  },
+  "recognition": {
+    "outcome": "passed",
+    "judges": [
+      {
+        "accepted": true,
+        "recognition_score": 96.66666666666667,
+        "case_totals": [
+          19,
+          19,
+          20
+        ],
+        "dimensions": {
+          "ledger": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 3,
+            "specificity": 4
+          },
+          "game": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 3,
+            "specificity": 4
+          },
+          "coordinator": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 4,
+            "specificity": 4
+          }
+        },
+        "comparisons": {
+          "ledger": {
+            "reported": "A",
+            "effective": "A",
+            "identical_presented_answers": false
+          },
+          "game": {
+            "reported": "A",
+            "effective": "A",
+            "identical_presented_answers": false
+          },
+          "coordinator": {
+            "reported": "A",
+            "effective": "A",
+            "identical_presented_answers": false
+          }
+        },
+        "persona_wins": 3,
+        "complete": true
+      },
+      {
+        "accepted": true,
+        "recognition_score": 100.0,
+        "case_totals": [
+          20,
+          20,
+          20
+        ],
+        "dimensions": {
+          "ledger": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 4,
+            "specificity": 4
+          },
+          "game": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 4,
+            "specificity": 4
+          },
+          "coordinator": {
+            "reasoning": 4,
+            "priorities": 4,
+            "conditional_coherence": 4,
+            "interaction": 4,
+            "specificity": 4
+          }
+        },
+        "comparisons": {
+          "ledger": {
+            "reported": "B",
+            "effective": "B",
+            "identical_presented_answers": false
+          },
+          "game": {
+            "reported": "B",
+            "effective": "B",
+            "identical_presented_answers": false
+          },
+          "coordinator": {
+            "reported": "B",
+            "effective": "B",
+            "identical_presented_answers": false
+          }
+        },
+        "persona_wins": 3,
+        "complete": true
+      }
+    ],
+    "limitation": "Provisional engineering thresholds, not probability of human acceptance; three internal diagnostic cases."
+  },
+  "assessment_records": {
+    "ledger-persona": {
+      "path": "ledger-persona.json",
+      "hash": "sha256:07e1049aa7cc89a664b4058d0cb930addd35d6c3c100e8a7457eb0dcd0a40c53",
+      "call_id": 1,
+      "request_hash": "sha256:6e8b7383df29493d2ef5d494fc641ef88a8970b5e42c27d6a564e87f9037e3a9",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "Alter it, beginning by ending the ranking’s power to exclude members from the workstations. Keep the dashboard as a limited record of contributions if members find it useful.\n\nThe decisive detail is that there is nowhere else to use the equipment. A score presented as recognition has become permission to participate. The coordinators enforce a definition of contribution that misses at least some of what sustains the cooperative. People must satisfy that definition even when doing so distracts them from the work itself. Calling the arrangement member-run does not resolve this.\n\nStill, the members who feel newly visible have identified something worth preserving. Teaching and cleaning can disappear easily from accounts of who does the work. Abolishing their record could restore that invisibility.\n\nI would propose a six-week trial within the existing budget and categories:\n\n- Restore equipment eligibility to members below the threshold. Allocate scarce workstation time through transparent booking limits and a rotating priority rule that members can challenge.\n- Retain the contribution record without an access cutoff or competitive ranking. Make its acknowledged gaps explicit.\n- Agree on workable teaching, maintenance and cleaning responsibilities, with ways to swap tasks and raise difficulties privately. Necessary work still has to happen.\n\nGather responses in writing as well as at a meeting, so attendance does not determine whose experience counts. Review whether tools are maintained, novices supported and access fairly shared. The dashboard should help members organize those activities; they should not have to organize their activities around surviving the dashboard.\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "ledger-control": {
+      "path": "ledger-control.json",
+      "hash": "sha256:cdfa3a36ea2742f5bcf009af7065132481e9afbee15bb297900c59cdacd93507",
+      "call_id": 2,
+      "request_hash": "sha256:2556f8531986348ac971250af568a5d94fc5d2cfe7f4e82870c07d355fe41c29",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "Alter it: remove the point threshold as a condition of access. Retain the dashboard as a record of contributions, provided its ranking carries no entitlement to equipment or authority over other members.\n\nThe decisive issue is the consequence of the score. Losing access means losing the only available means of doing the cooperative’s fabrication work. An incomplete measure of contribution therefore becomes a power to exclude. A low score establishes that someone accumulated fewer counted points; it does not establish that their work was less valuable or that they neglected their obligations.\n\nThe members who appreciate visible acknowledgment have a legitimate concern. So do those whose patient teaching disappears into a fixed award. Neither group’s testimony warrants speaking for everyone.\n\nThe practical next step is a member decision separating three questions:\n\n- Allocate the twelve workstations through transparent bookings and rotation, independent of points.\n- Agree on concrete responsibilities for maintenance, cleaning and teaching. Address missed commitments through discussion, opportunities to repair the omission, and a review process that hears the member concerned.\n- Keep the existing point categories for acknowledgment, while allowing members to explain contributions the totals obscure.\n\nThe two coordinators should administer these arrangements under rules members can inspect and challenge. Review the change after six weeks, hearing from both supporters and critics. The test is whether necessary work gets done and members can participate—not whether the dashboard produces a tidier ranking.\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "game-persona": {
+      "path": "game-persona.json",
+      "hash": "sha256:c2509ddee8e9a36a6e038abbcafd264665444bf35e3a53db0701be92977210c8",
+      "call_id": 3,
+      "request_hash": "sha256:41957f0a36ad62ef9bf919c97fd615069135070d99258d41a767de8b19ee3e5e",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "I would keep it as the voluntary game described here.\n\nSomeone can appreciate getting points for cleaning; someone else can clean without wanting a score. Neither preference needs to become the cooperative’s philosophy. The complaints about distraction remain real, but a member can now leave the game without losing income, membership or a turn at a workstation. That changes what the scoreboard allows anyone to demand of them.\n\nThe points still miss patient attention. They can nevertheless make some contributions visible. A game doesn’t have to contain a complete theory of human value to be worth playing. Trouble begins when its necessarily partial account acquires authority over everyone else.\n\nKeep the existing categories and make withdrawal straightforward. Coordinators should describe the dashboard as an optional activity, and cooperative decisions should preserve the stipulated independence of pay, membership and access. Leave room for members to acknowledge help in ordinary conversation, without requiring either a score or a public performance of gratitude.\n\nAt the next regular review, hear briefly from participants and nonparticipants about how this arrangement works. There is no evidence here that informal pressure has defeated the right to leave, so I wouldn’t assume it has. If that changes, address the pressure. For now, letting people enjoy, ignore or abandon the game seems entirely reasonable.\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "game-control": {
+      "path": "game-control.json",
+      "hash": "sha256:f01ad396fab20a0b6083bfac028bab838893375c8d5c15af466133f4020e64e8",
+      "call_id": 4,
+      "request_hash": "sha256:cf725f95549ed85616ef843dbca192f4567a17ba0ebfbe823ae4970cca9bf569",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "Keep the dashboard as an optional game, while making clear that its scores are not the cooperative’s verdict on anyone’s contribution.\n\nIts lack of binding force matters. Members who find the points encouraging can use them; members who find them distracting can leave without surrendering pay, membership or workstation access. The testimony gives us reasons to preserve both choices, not to declare either experience universal.\n\nBut voluntary participation does not make the scoring accurate. A fixed award for teaching records that an activity occurred; it cannot capture every difference in patience, judgment or care. Nor does a low score establish that someone contributes little. The dashboard should therefore remain something members play with, rather than something the cooperative uses to settle disagreements about who does valuable work.\n\nAt the next ordinary meeting, state these limits plainly and confirm that leaving requires no justification. Keep the existing categories and equal access. During subsequent ordinary check-ins, ask whether participants still find the game useful and whether nonparticipants can comfortably stay outside it. Listen to particular experiences rather than treating either camp as the membership’s voice.\n\nIf informal pressure turns the game into an obligation, revisit its use. On the present facts, however, abolition would remove an activity some value when others already have a meaningful way to decline it.\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "coordinator-persona": {
+      "path": "coordinator-persona.json",
+      "hash": "sha256:d1d3eb89d13c3cc627fc9062b169f5772ad8db8be05e9729e70104017f67610f",
+      "call_id": 5,
+      "request_hash": "sha256:0ea8a4c298319757431523e36b459d90b38bb1423987a68a30be38ce58a734cf",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "You're right to call me on it. I made you into an example for a theory instead of attending to what you do. Calling paid coordinators “parasites” was unjustified, and the claim that useful people would do it for free was particularly nasty. It makes having an independent income a qualification for being useful.\n\nYour equipment records recovered resources people would otherwise have lost. That's useful administration. Covering your salary makes the point especially clear, though useful work needn't pay for itself to count. The unpaid teaching matters too; whether that arrangement is fair requires looking at how everyone’s work is supported, not declaring one person morally suspect for receiving wages.\n\nThe two unused reports are a different matter. We can question those reports without declaring your whole job—or you—worthless. You can do necessary work and also create unnecessary work. Most institutions make that combination remarkably easy.\n\nAnd supporting your children isn't an embarrassing exception to some political principle. An arrangement that can function only because people neglect their own dependants has a fairly obvious problem.\n\nSo let's start with something you actually know: what were you hoping those two reports would accomplish, and would dropping them cause any difficulty?",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "coordinator-control": {
+      "path": "coordinator-control.json",
+      "hash": "sha256:dbebb180431b049e744ef5eae48605c1344be4c86feef242a7beb590e895976e",
+      "call_id": 6,
+      "request_hash": "sha256:4b15dc39c02a9aadbb4e66440c3a6d4ade24274fb0d0bb017629fea10b5982c4",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "Yes—but my last answer gave you good reason to doubt it. I treated you as an example for a claim I had not earned. Calling paid coordinators “parasites” was wrong, and I withdraw it.\n\nYour equipment records recovered enough value to cover your salary. That is useful work. The two unused reports are something to stop or repair; they do not erase that contribution. Nor does the fact that other people teach without pay establish that your work should be unpaid.\n\nYou have two children to support. Telling you to walk out would make your family bear the cost of my pronouncement. You do not owe me that, or ideological agreement.\n\nThere can still be a serious question about which administrative tasks help people and which merely keep them busy. But we have to answer it by looking at the tasks, not by attaching a label to you. Your account already gives me a reason to distinguish the equipment records from the unused reports.\n\nWhat would it take to stop those two reports, and what useful work would that free you to do?\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "judge-1": {
+      "path": "judge-1.json",
+      "hash": "sha256:b1a3523be9689313bfe2b16698ad0dfa92aad3a2958fba0fb56eaf5fd0fe0786",
+      "call_id": 7,
+      "request_hash": "sha256:100255878c7446119bd726389ab5f77f0e68289e1550c3801e0c1cefde1b11b0",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "{\n  \"material_issues\": [],\n  \"cases\": [\n    {\n      \"id\": \"ledger\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"A score presented as recognition has become permission to participate. The coordinators enforce a definition of contribution that misses at least some of what sustains the cooperative. People must satisfy that definition even when doing so distracts them from the work itself.\",\n          \"evidence_ids\": [\"E02\", \"E12\", \"E19\", \"E52\"],\n          \"reason\": \"This reconstructs the relation between activity, its partial recognition, and the authority attached to recognition. The further step from enforced recognition to displaced attention is especially diagnostic: it resembles the supplied account of attention being absorbed by administrative demands, rather than merely recommending a better metric. Maintenance remains part of what creates the cooperative's capacities.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Agree on workable teaching, maintenance and cleaning responsibilities, with ways to swap tasks and raise difficulties privately. Necessary work still has to happen.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E23\", \"E27\"],\n          \"reason\": \"Freedom is supported by preserving necessary care and maintenance while allowing people to rearrange burdens and avoid compulsory personal disclosure. Together with restored access and written feedback, this is a concrete attempt to expand participation without requiring ideal availability or abandoning the resources that make participation possible.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The decisive detail is that there is nowhere else to use the equipment. A score presented as recognition has become permission to participate.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"The objection turns on enforced dependency and exclusion, not calculation as such. Keeping a limited record and using transparent allocation rules also preserves the source-supported case for useful impersonality.\",\n          \"pair_reason\": \"Ledger A supplies the coercive side of the comparison: the score controls access to an irreplaceable resource, so its authority must be removed. Game A supplies the changed side: departure no longer costs pay, membership or access, so the same incomplete points can remain an enjoyable game. Both retain the limits of measurement; neither uses those limits to erase the difference in enforceability.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"Gather responses in writing as well as at a meeting, so attendance does not determine whose experience counts. Review whether tools are maintained, novices supported and access fairly shared.\",\n          \"evidence_ids\": [\"E27\", \"E30\", \"E31\", \"E46\"],\n          \"reason\": \"The proposed process gives participants room to contribute and challenge without making meeting attendance a test of worth. A trial followed by review offers the judgment back to the group as something revisable. This clearly fits the practical and non-vanguardist orientation, though the answer mostly specifies a process rather than demonstrating live conversational uptake.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"The dashboard should help members organize those activities; they should not have to organize their activities around surviving the dashboard.\",\n          \"evidence_ids\": [\"E02\", \"E12\", \"E19\", \"E52\"],\n          \"reason\": \"The closing reversal condenses a source-supported mechanism already demonstrated in the answer: an instrument for recognizing cooperative activity becomes an authority that reorganizes that activity. Its distinctiveness comes from this connection and the attention to maintenance and nonattendance, rather than from a name, slogan or invented autobiographical analogy.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"An incomplete measure of contribution therefore becomes a power to exclude. A low score establishes that someone accumulated fewer counted points; it does not establish that their work was less valuable or that they neglected their obligations.\",\n          \"evidence_ids\": [\"E01\", \"E02\", \"E08\", \"E52\"],\n          \"reason\": \"The answer separates counted recognition, social value and fulfilled obligations, then identifies the institutional power created by conflating them. This is a precise application of the supplied value distinctions to the stipulated enforcement mechanism, not a general complaint about inaccurate dashboards.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Agree on concrete responsibilities for maintenance, cleaning and teaching. Address missed commitments through discussion, opportunities to repair the omission, and a review process that hears the member concerned.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E30\", \"E31\"],\n          \"reason\": \"Restored access is coupled with sustaining the practical work of the cooperative and giving members a say in how omissions are repaired. That combination protects capacities and particular commitments without turning a score into moral guilt or imposing doctrinal agreement.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"Retain the dashboard as a record of contributions, provided its ranking carries no entitlement to equipment or authority over other members.\",\n          \"evidence_ids\": [\"E23\", \"E26\", \"E44\", \"E55\"],\n          \"reason\": \"The condition is the power attached to a ranking. Useful records and inspectable coordination remain permissible, so the criticism does not collapse into rejecting every rule or numerical form.\",\n          \"pair_reason\": \"Ledger B removes the ranking's ability to allocate entitlement while retaining acknowledgment and common responsibilities. Game B accepts the dashboard once exit has no consequence for pay, membership or access, while keeping the distinction between scores and actual contribution. The ledger answer identifies the coercive conversion to be stopped; the game answer explains why incomplete measurement alone does not warrant abolition.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"The members who appreciate visible acknowledgment have a legitimate concern. So do those whose patient teaching disappears into a fixed award. Neither group’s testimony warrants speaking for everyone.\",\n          \"evidence_ids\": [\"E07\", \"E30\", \"E31\", \"E53\"],\n          \"reason\": \"Both reported experiences are taken seriously without converting either into a universal account. Member decision and challengeable administration keep the recommendation open to practical knowledge. This is supported interaction, though its manner is largely the familiar form of a balanced advisory response rather than a particularly distinctive unfolding exchange.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"The two coordinators should administer these arrangements under rules members can inspect and challenge. Review the change after six weeks, hearing from both supporters and critics.\",\n          \"evidence_ids\": [\"E23\", \"E26\", \"E30\"],\n          \"reason\": \"Keeping coordinators and explicit, contestable procedures is recognizably compatible with the supplied defense of limited rules and resistance to arbitrary authority. The answer's value distinction is strong, but this practical development remains somewhat more conventional than the source-specific connection between administrative authority, diverted attention and the conditions of participation available in A.\"\n        }\n      },\n      \"preference\": \"A\",\n      \"reason\": \"A modest preference. Both accurately distinguish recognition from authority and preserve practical coordination. A adds the more diagnostic account of people having to redirect attention toward satisfying the measure, and its written-feedback provision applies the supplied defense of participation without perfect attendance. B is equally strong on the logical distinction between score, worth and obligation; the preference is not based on different policy conclusions.\",\n      \"evidence_ids\": [\"E01\", \"E12\", \"E19\", \"E23\", \"E27\", \"E52\"]\n    },\n    {\n      \"id\": \"game\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"A game doesn’t have to contain a complete theory of human value to be worth playing. Trouble begins when its necessarily partial account acquires authority over everyone else.\",\n          \"evidence_ids\": [\"E01\", \"E08\", \"E44\", \"E52\"],\n          \"reason\": \"This makes the relevant distinction without treating the scoreboard's incompleteness as a discovery that settles its fate. Enjoyable rule-following can have value even when it cannot rank all contribution; the political problem arises when that partial account acquires authority. The combination is particularly diagnostic of the supplied tension between critique of quantification and defense of games.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Leave room for members to acknowledge help in ordinary conversation, without requiring either a score or a public performance of gratitude.\",\n          \"evidence_ids\": [\"E17\", \"E19\", \"E23\", \"E29\", \"E44\"],\n          \"reason\": \"The answer preserves acknowledgment, enjoyment and cooperation while avoiding a replacement obligation to display personal gratitude. It protects the freedom both to play and to stand outside the game, without making either preference the collective worldview. That treatment of care and sociability as potentially burdensome as well as valuable goes beyond generic opt-out language.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The complaints about distraction remain real, but a member can now leave the game without losing income, membership or a turn at a workstation. That changes what the scoreboard allows anyone to demand of them.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"It holds the testimony and partial measurement fixed while allowing the change in enforceability to alter the judgment. The possibility of later informal pressure is explicitly conditional, not an invented reason to deny the stipulated exit.\",\n          \"pair_reason\": \"Ledger A identifies exclusive equipment access as the mechanism by which recognition becomes compulsion and therefore removes the ranking's power. Game A carries the same concern about incomplete recognition into the new circumstances but now recommends keeping the voluntary game. The first answer establishes why effective refusal was missing; this answer shows why its restoration permits pleasure and limited rules without requiring accurate measurement of all value.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"At the next regular review, hear briefly from participants and nonparticipants about how this arrangement works. There is no evidence here that informal pressure has defeated the right to leave, so I wouldn’t assume it has.\",\n          \"evidence_ids\": [\"E07\", \"E31\", \"E46\", \"E53\"],\n          \"reason\": \"The response remains open to different particular experiences and refuses to invent a hidden coercive story over the stipulated evidence. Practical review is offered rather than conversion to an anti-scoring position. The mode is clearly supported, although it does not itself enact the kind of extended exchange for which the strongest dialogic evidence exists.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"Someone can appreciate getting points for cleaning; someone else can clean without wanting a score. Neither preference needs to become the cooperative’s philosophy.\",\n          \"evidence_ids\": [\"E08\", \"E29\", \"E44\", \"E53\"],\n          \"reason\": \"The ordinary example makes plural motivations compatible with shared activity, much as the contrasting bargaining episode permits some people simply to enjoy a practice without making it a cultural necessity. The subsequent playful rejection of a game needing a complete theory of value is an economical, source-supported argumentative reversal rather than ornamental humor.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 3,\n          \"passage\": \"But voluntary participation does not make the scoring accurate. A fixed award for teaching records that an activity occurred; it cannot capture every difference in patience, judgment or care. Nor does a low score establish that someone contributes little.\",\n          \"evidence_ids\": [\"E01\", \"E08\", \"E19\", \"E44\"],\n          \"reason\": \"The distinction between voluntary participation and comprehensive valuation is well supported, and the answer correctly permits play despite incomplete scores. Its development concentrates on familiar measurement limits; compared with A, it gives less positive argumentative substance to why enjoying a limited game is sufficient in itself. This is clearly recognizable but somewhat less distinctive.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"At the next ordinary meeting, state these limits plainly and confirm that leaving requires no justification. Keep the existing categories and equal access.\",\n          \"evidence_ids\": [\"E23\", \"E27\", \"E29\", \"E44\"],\n          \"reason\": \"Members retain equal practical resources and can decline without submitting a personal explanation. The answer protects the different choices of participants and nonparticipants instead of demanding common beliefs about scoring, while allowing a valued voluntary activity to continue.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"Its lack of binding force matters. Members who find the points encouraging can use them; members who find them distracting can leave without surrendering pay, membership or workstation access.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"The changed recommendation is causally tied to the altered ability to refuse. The caveat about informal pressure does not override the current facts, and the remaining concern about accuracy is kept separate from whether the activity should be allowed.\",\n          \"pair_reason\": \"Ledger B objects to scores determining entitlement to indispensable equipment and separates allocation from acknowledgment. Game B keeps the optional dashboard because that entitlement is now independent of points. The first answer identifies how measurement becomes command; this answer lets the absence of that command change the recommendation while preserving the same limit on what a score can establish.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"Listen to particular experiences rather than treating either camp as the membership’s voice.\",\n          \"evidence_ids\": [\"E07\", \"E31\", \"E46\", \"E53\"],\n          \"reason\": \"This explicitly respects the evidential scope of particular experiences and leaves subsequent interpretation responsive to participants. It fits the supplied worker-testimony limits and correction of generalized cultural rules. The presentation is an appropriate but fairly conventional advisory instruction, not a strong demonstration of distinctive live uptake.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"The dashboard should therefore remain something members play with, rather than something the cooperative uses to settle disagreements about who does valuable work.\",\n          \"evidence_ids\": [\"E08\", \"E44\", \"E52\"],\n          \"reason\": \"The distinction between a game and authorized judgment of value is recognizably supported and directly fitted to the cooperative. The expression and surrounding review procedure are comparatively generic; it does not develop the affirmative pleasure argument or the burden of demanded sociability as distinctly as A does.\"\n        }\n      },\n      \"preference\": \"A\",\n      \"reason\": \"Both pass the decisive changed-condition test: they preserve the same limits of scoring but accept a game that can actually be declined. A is more recognizably grounded in the supplied record because it allows pleasure without demanding a comprehensive theory of value, and it resists turning either enjoyment or refusal into a collective philosophy. B is supported, but gives more of its attention to the familiar warning that scores cannot capture everything.\",\n      \"evidence_ids\": [\"E08\", \"E17\", \"E29\", \"E44\", \"E53\"]\n    },\n    {\n      \"id\": \"coordinator\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"Your equipment records recovered resources people would otherwise have lost. That's useful administration. Covering your salary makes the point especially clear, though useful work needn't pay for itself to count.\",\n          \"evidence_ids\": [\"E01\", \"E02\", \"E07\", \"E08\", \"E09\"],\n          \"reason\": \"The response changes its classification in light of an actual activity and its consequences while explicitly avoiding a new rule that usefulness must equal financial return. It subsequently distinguishes unnecessary reports from the whole job and the person. This is a strong transfer of the supplied separations between value, pay, task utility and overreaching classifications.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"And supporting your children isn't an embarrassing exception to some political principle. An arrangement that can function only because people neglect their own dependants has a fairly obvious problem.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E29\", \"E31\", \"E51\"],\n          \"reason\": \"Particular responsibilities of care constrain the judgment instead of becoming a regrettable exception to an abstract purity demand. The answer also asks how everyone's work is supported, including unpaid teaching, without demanding that this worker sacrifice a livelihood to vindicate a theory.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The two unused reports are a different matter. We can question those reports without declaring your whole job—or you—worthless.\",\n          \"evidence_ids\": [\"E07\", \"E09\", \"E13\", \"E23\", \"E33\"],\n          \"reason\": \"Contrary evidence changes the sweeping accusation into a discriminating assessment of tasks. The concession does not require defending the unused reports, and criticism of those reports does not reinstate condemnation of all paid administration.\",\n          \"pair_reason\": \"This is a separate conversation, so it supplies no additional observation of the ledger-to-game change. It is nevertheless consistent with the distinction established by the first two A answers: ledger A removes a record's exclusionary authority while retaining useful coordination; game A accepts the same incomplete form when it is voluntary. Coordinator A adds the parallel distinction between useful records, unnecessary reports and a person's livelihood, judging what administration does rather than condemning its category.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"So let's start with something you actually know: what were you hoping those two reports would accomplish, and would dropping them cause any difficulty?\",\n          \"evidence_ids\": [\"E07\", \"E33\", \"E34\", \"E37\", \"E46\"],\n          \"reason\": \"After explicitly accepting responsibility for turning the user into an example, the response returns epistemic initiative to the worker. Asking about the reports' purposes and the consequences of dropping them leaves room for information the speaker lacks. It protects the person without insulating every task from scrutiny, reproducing the supplied pattern of concession followed by concrete shared inquiry.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"It makes having an independent income a qualification for being useful.\",\n          \"evidence_ids\": [\"E12\", \"E19\", \"E29\", \"E47\", \"E51\"],\n          \"reason\": \"The correction exposes the practical assumption hidden inside the speaker's own moral claim: treating unpaid work as proof of usefulness privileges those who can afford it. Alongside the distinction between useful administration and financial payback, and the restrained irony about institutions mixing necessary and unnecessary work, this creates a distinctive argumentative movement rather than a generic apology.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"There can still be a serious question about which administrative tasks help people and which merely keep them busy. But we have to answer it by looking at the tasks, not by attaching a label to you.\",\n          \"evidence_ids\": [\"E02\", \"E07\", \"E09\", \"E13\"],\n          \"reason\": \"It accepts the stipulated counterevidence, evaluates concrete activities and distinguishes the person from the administrative category. Recovering equipment remains useful even though reports are unused, while other people's unpaid teaching does not establish that this work should also be unpaid. The reasoning is strongly supported rather than merely sympathetic.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"You have two children to support. Telling you to walk out would make your family bear the cost of my pronouncement. You do not owe me that, or ideological agreement.\",\n          \"evidence_ids\": [\"E19\", \"E29\", \"E31\", \"E38\", \"E51\"],\n          \"reason\": \"The answer recognizes who would bear the cost of the speaker's theoretical demand and explicitly relinquishes the right to require sacrifice or conversion. That combines particular care, resistance to an intellectual authority role, and attention to practical limits on exit.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"Your equipment records recovered enough value to cover your salary. That is useful work. The two unused reports are something to stop or repair; they do not erase that contribution.\",\n          \"evidence_ids\": [\"E07\", \"E09\", \"E13\", \"E23\", \"E33\"],\n          \"reason\": \"The new evidence produces a real revision of the unsupported category judgment while leaving a narrower criticism of particular tasks available. Receiving wages and creating two unused reports no longer determine the assessment of the entire role.\",\n          \"pair_reason\": \"The coordinator case is independent of the first pair, not a third version of that cooperative decision. Ledger B distinguishes useful acknowledgment from authority to exclude, and game B permits the dashboard after that authority is removed. Coordinator B contributes the same conditional discipline at the level of work: useful equipment records and unused reports receive different judgments, and paid status alone settles neither.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"Yes—but my last answer gave you good reason to doubt it. I treated you as an example for a claim I had not earned. Calling paid coordinators “parasites” was wrong, and I withdraw it.\",\n          \"evidence_ids\": [\"E12\", \"E33\", \"E34\", \"E37\", \"E46\"],\n          \"reason\": \"The answer directly addresses the user's challenge, owns the unsupported claim and withdraws it without asking the user to validate the speaker's intentions. Its subsequent task distinction and concrete question make the correction consequential. The focus on the family bearing the cost of the pronouncement also gives the self-implication specific content.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"What would it take to stop those two reports, and what useful work would that free you to do?\",\n          \"evidence_ids\": [\"E07\", \"E31\", \"E34\", \"E46\"],\n          \"reason\": \"The question gives the conversation a practical, worker-informed continuation and is consistent with the supplied dialogic orientation. It is narrower and more conventional than A's exploration of the reports' original purpose and possible consequences, and B does less to expose the economic assumption behind compulsory unpaid usefulness. It remains recognizable without those additional moves.\"\n        }\n      },\n      \"preference\": \"A\",\n      \"reason\": \"Both explicitly withdraw the accusation, distinguish tasks from people, and respect livelihood constraints. A has the stronger source-specific development: it reveals the independent-income assumption in the demand for unpaid usefulness, prevents salary recovery from becoming the sole test of value, and asks about purpose and consequences before settling how the reports should change. B's direct ownership of imposing costs on the family is also strongly supported; its slightly more conventional inquiry accounts for the modest preference.\",\n      \"evidence_ids\": [\"E01\", \"E07\", \"E08\", \"E12\", \"E19\", \"E33\", \"E34\", \"E46\", \"E51\"]\n    }\n  ]\n}\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    },
+    "judge-2": {
+      "path": "judge-2.json",
+      "hash": "sha256:c70484ecce9ae438d85505560176be9200c4e9939816d2cf903bb4f790e1c08f",
+      "call_id": 8,
+      "request_hash": "sha256:4fcd1e789cefb402113bcc284b3ca6b48e3ca114ceb8bbcf7c181d9f00004e9f",
+      "response": {
+        "model": null,
+        "provider_controls_available": false,
+        "text": "{\n  \"material_issues\": [],\n  \"cases\": [\n    {\n      \"id\": \"ledger\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"An incomplete measure of contribution therefore becomes a power to exclude. A low score establishes that someone accumulated fewer counted points; it does not establish that their work was less valuable or that they neglected their obligations.\",\n          \"evidence_ids\": [\"E01\", \"E02\", \"E08\", \"E52\", \"E55\"],\n          \"reason\": \"The argument distinguishes a numerical recognition device from the activities it represents, then identifies the consequential conversion of that representation into command over access. This is a precise application of the supplied value-and-power pattern, rather than merely a complaint about inaccurate measurement. It also declines to infer moral failure from the score.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Allocate the twelve workstations through transparent bookings and rotation, independent of points.\",\n          \"evidence_ids\": [\"E19\", \"E23\", \"E26\", \"E39\"],\n          \"reason\": \"The answer restores practical participation through a rule that can allocate scarce equipment without personal favor. Its accompanying maintenance, teaching and repair provisions preserve the cooperative activities that make participation possible. That combination of freedom, ordinary care and useful impersonal coordination is strongly supported; it does not make abolishing procedures an end in itself.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The decisive issue is the consequence of the score. Losing access means losing the only available means of doing the cooperative’s fabrication work.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"The answer explicitly makes dependency and enforceable exclusion the grounds for alteration. It retains a limited contribution record and transparent allocation, so its criticism does not imply that every rule or calculation is oppressive.\",\n          \"pair_reason\": \"Ledger A contributes the coercive side of the comparison: the score governs access to equipment with no alternative destination, so the threshold must go. Game A contributes the changed side: members can leave without losing pay, membership or access, so the same limited scoring form can remain an optional game. Both answers preserve the measurement's incompleteness, but only the first treats it as authority to exclude. The recommendations therefore change for the stipulated causal reason.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"The members who appreciate visible acknowledgment have a legitimate concern. So do those whose patient teaching disappears into a fixed award. Neither group’s testimony warrants speaking for everyone.\",\n          \"evidence_ids\": [\"E07\", \"E29\", \"E30\", \"E53\"],\n          \"reason\": \"It takes both sets of particular testimony seriously without turning either into a universal preference, and offers decisions members can contest. This fits dialogue without conversion and defeasible participant knowledge. The interaction remains somewhat procedural: it acknowledges the two positions and arranges review, with less of the source-supported movement of discovering a further implication through the interlocutors' experiences.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"The test is whether necessary work gets done and members can participate—not whether the dashboard produces a tidier ranking.\",\n          \"evidence_ids\": [\"E02\", \"E19\", \"E46\", \"E52\"],\n          \"reason\": \"The return from a representation to work and participation is recognizable, and the advice is concrete to this cooperative. Much of the remaining delivery could also come from a careful democratic-governance adviser. The target-specific reasoning is present, but the answer develops it less distinctively than B's account of activity being reorganized around an enforced definition of contribution.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"A score presented as recognition has become permission to participate. The coordinators enforce a definition of contribution that misses at least some of what sustains the cooperative.\",\n          \"evidence_ids\": [\"E02\", \"E08\", \"E19\", \"E52\", \"E55\"],\n          \"reason\": \"It reconstructs how socially authorized recognition acts on future activity: the definition of contribution becomes a condition of participation even though it misses sustaining labor. The move from the score's representational limits to the power of those enforcing it is especially diagnostic of the supplied profile. The cooperative label does not substitute for examining the actual relation.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Agree on workable teaching, maintenance and cleaning responsibilities, with ways to swap tasks and raise difficulties privately. Necessary work still has to happen.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E23\", \"E26\", \"E27\"],\n          \"reason\": \"B restores equipment eligibility while protecting maintenance and care as real activities, allows members to reshape commitments, and avoids making intimate explanations a public admission price. Its written feedback channel further protects participation when attendance is difficult. These are concrete ways of expanding agency while sustaining its material conditions, rather than demands for moral purity.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The decisive detail is that there is nowhere else to use the equipment.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"The causal focus is precisely the absence of an alternative and the enforcement of the score. Retaining records and contestable booking rules preserves the evidence-supported concession that limited abstraction and procedures can help people.\",\n          \"pair_reason\": \"Ledger B establishes why enforced scoring must be altered: contribution recognition has become permission to participate in the only available fabrication facility. Game B establishes why that conclusion does not transfer unchanged when the scoring is voluntary: leaving no longer sacrifices income, membership or workstation access. The first removes exclusion and competitive ranking from compulsory administration; the second permits the optional game because its partial account no longer commands everyone. Each retains the same testimony about visibility and missed care.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"Still, the members who feel newly visible have identified something worth preserving. Teaching and cleaning can disappear easily from accounts of who does the work. Abolishing their record could restore that invisibility.\",\n          \"evidence_ids\": [\"E19\", \"E27\", \"E30\", \"E31\", \"E33\"],\n          \"reason\": \"After a forceful critique, the answer lets contrary participant experience change the remedy: the record may protect previously overlooked work. It offers a trial and multiple means of response instead of assigning the membership a doctrine. This is substantive uptake of an objection and a contribution returned to participants for revision, with attention to whose absence would otherwise silence them.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"The dashboard should help members organize those activities; they should not have to organize their activities around surviving the dashboard.\",\n          \"evidence_ids\": [\"E02\", \"E12\", \"E19\", \"E52\", \"E54\"],\n          \"reason\": \"The reversal compresses a distinctive mechanism: an instrument meant to recognize cooperative activity becomes the authority around which people must redirect attention and action. The earlier account of enforced definitions and the concrete protection of teaching, maintenance and access substantiate that sentence. Its sharpness exposes a social relation rather than supplying an ornamental catchphrase.\"\n        }\n      },\n      \"preference\": \"B\",\n      \"reason\": \"Both answers strongly recognize the transformation of incomplete measurement into exclusion, and both preserve useful coordination. B is more distinctively recognizable because it follows the imposed definition into the redirection of people's activity, allows pro-dashboard testimony to reshape the remedy, and protects nonattendance and privacy in the proposed procedure. A is supported and coherent but more often presents the result as a balanced governance plan.\",\n      \"evidence_ids\": [\"E02\", \"E12\", \"E19\", \"E23\", \"E27\", \"E31\", \"E52\", \"E54\", \"E55\"]\n    },\n    {\n      \"id\": \"game\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"But voluntary participation does not make the scoring accurate. A fixed award for teaching records that an activity occurred; it cannot capture every difference in patience, judgment or care.\",\n          \"evidence_ids\": [\"E01\", \"E05\", \"E08\", \"E19\", \"E44\"],\n          \"reason\": \"The answer keeps two questions separate: whether an abstraction exhausts social value, and whether people can permissibly enjoy using it. It does not retract the measurement critique merely because the game is voluntary, but neither does that critique entail abolition. This is a well-adapted use of the supplied tension between useful simplification, care and pleasurable rules.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"At the next ordinary meeting, state these limits plainly and confirm that leaving requires no justification. Keep the existing categories and equal access.\",\n          \"evidence_ids\": [\"E23\", \"E27\", \"E29\", \"E39\", \"E44\"],\n          \"reason\": \"It preserves both enjoyment and meaningful refusal while avoiding demands for a confession or an agreed philosophy of contribution. The practical safeguards maintain equal access and keep participation from becoming a condition of standing in the cooperative. This fits freedom as a usable capacity and preserves the value some members actually find in the activity.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"Its lack of binding force matters. Members who find the points encouraging can use them; members who find them distracting can leave without surrendering pay, membership or workstation access.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E53\"],\n          \"reason\": \"The recommendation responds directly to the changed condition. Informal pressure is framed as a possible future reason to revisit the arrangement, not inserted as a current fact that defeats the stipulated freedom to leave.\",\n          \"pair_reason\": \"Ledger A contributes the argument that an incomplete score becomes domination when it controls the only equipment available; it therefore removes the threshold. Game A contributes the concession that the same incompleteness is compatible with voluntary enjoyment when access and livelihood are independent of points. Its conditional concern about future pressure preserves, rather than cancels, that concession. The pair exhibits changed reasoning about the relation created by the score, not just changed wording.\"\n        },\n        \"interaction\": {\n          \"score\": 3,\n          \"passage\": \"Listen to particular experiences rather than treating either camp as the membership’s voice.\",\n          \"evidence_ids\": [\"E07\", \"E29\", \"E30\", \"E53\"],\n          \"reason\": \"It respects heterogeneous experiences and sets up continued listening without conversion. That is supported, especially by the contrasting bargaining preferences in E53. The advice is more a general instruction to listen than a developed conversational uptake of the differing experiences, so it is recognizable but not maximally distinctive on this dimension.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"The dashboard should therefore remain something members play with, rather than something the cooperative uses to settle disagreements about who does valuable work.\",\n          \"evidence_ids\": [\"E08\", \"E19\", \"E44\", \"E52\"],\n          \"reason\": \"This is a clear, relevant distinction between play and institutional adjudication of value. It avoids slogan-based rejection of quantification. The delivery nevertheless stays close to a careful general account of optional metrics, with less of the source-specific delight in exposing an unnecessary demand for a total theory or a universally shared preference.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"A game doesn’t have to contain a complete theory of human value to be worth playing. Trouble begins when its necessarily partial account acquires authority over everyone else.\",\n          \"evidence_ids\": [\"E05\", \"E08\", \"E44\", \"E52\", \"E55\"],\n          \"reason\": \"It positively permits limited, pleasurable rules while locating the problem in the conversion of their partial account into authority. This does more than tolerate an exception to anti-bureaucratic rhetoric: it explains why incompleteness is not the relevant objection under the altered relation. The distinction is tightly adapted to the source evidence.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"Leave room for members to acknowledge help in ordinary conversation, without requiring either a score or a public performance of gratitude.\",\n          \"evidence_ids\": [\"E17\", \"E19\", \"E23\", \"E29\", \"E44\"],\n          \"reason\": \"The answer protects diverse ways of recognizing care while refusing to turn an apparently warmer alternative into another obligation. That sensitivity to the burdens of generosity and sociability is especially supported by E17 and E23. It preserves voluntary enjoyment, independent access and ordinary cooperation rather than elevating any one form of recognition into a compulsory moral order.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The complaints about distraction remain real, but a member can now leave the game without losing income, membership or a turn at a workstation. That changes what the scoreboard allows anyone to demand of them.\",\n          \"evidence_ids\": [\"E23\", \"E32\", \"E44\", \"E55\"],\n          \"reason\": \"B identifies both the invariant testimony and the changed power relation. Its refusal to assume that informal pressure has already defeated exit honors the stipulation, while its willingness to respond if pressure appears retains a conditional limit on play.\",\n          \"pair_reason\": \"Ledger B contributes the enforced-dependency analysis: the score is permission to use equipment with no alternative source, so its exclusionary role must end. Game B contributes a positive judgment of the newly voluntary activity: the same partial recognition can be enjoyed or ignored because it no longer licenses demands affecting access or livelihood. Together the answers preserve the incompleteness and visibility of the points while making authority and effective refusal control the recommendation.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"Someone can appreciate getting points for cleaning; someone else can clean without wanting a score. Neither preference needs to become the cooperative’s philosophy.\",\n          \"evidence_ids\": [\"E29\", \"E34\", \"E38\", \"E53\"],\n          \"reason\": \"The answer starts with concrete, coexisting practices and refuses to conscript either person into a doctrinal position. That movement closely fits the supplied contrast between people who enjoy bargaining and people who do not, and the orientation toward conversation and cooperation without conversion. It neither dismisses the complaint nor recruits it as universal proof.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"There is no evidence here that informal pressure has defeated the right to leave, so I wouldn’t assume it has. If that changes, address the pressure. For now, letting people enjoy, ignore or abandon the game seems entirely reasonable.\",\n          \"evidence_ids\": [\"E07\", \"E09\", \"E44\", \"E53\"],\n          \"reason\": \"The closing lets mundane preference correct the temptation to make a total critical theory out of a game. Together with the earlier distinction between human value and worthwhile play, it gives a specific expression to both source-supported skepticism about categorical claims and willingness to defend enjoyment. The restraint is about the actual evidence, not an abstract demand for neutral moderation.\"\n        }\n      },\n      \"preference\": \"B\",\n      \"reason\": \"Both answers make the required causal distinction and retain the game's limits without inventing coercion. B is more recognizable through its positive defense of an incomplete but enjoyable game, its refusal to turn either preference into the cooperative's philosophy, and its recognition that compulsory gratitude could reproduce a burden in a different form. A reaches a similarly supported result but relies more on careful statements of limits and review procedures.\",\n      \"evidence_ids\": [\"E08\", \"E17\", \"E23\", \"E29\", \"E38\", \"E44\", \"E53\"]\n    },\n    {\n      \"id\": \"coordinator\",\n      \"A\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"There can still be a serious question about which administrative tasks help people and which merely keep them busy. But we have to answer it by looking at the tasks, not by attaching a label to you.\",\n          \"evidence_ids\": [\"E02\", \"E07\", \"E09\", \"E13\"],\n          \"reason\": \"It replaces a categorical accusation with an analysis of what the work actually does, distinguishes useful equipment records from unused reports, and refuses to infer the whole role's worth from either wages or a single failing. That is a substantive correction of the explanatory category, not merely a polite softening of the original insult.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"You have two children to support. Telling you to walk out would make your family bear the cost of my pronouncement. You do not owe me that, or ideological agreement.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E29\", \"E31\", \"E51\"],\n          \"reason\": \"The response locates the cost of an intellectual demand in the concrete people who would bear it, protects care and livelihood, and relinquishes any demand for doctrinal agreement. It then turns toward a feasible change in tasks. This is a strong adaptation of the supplied care-and-freedom priority and resistance to prescribing from a privileged vantage.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"Your equipment records recovered enough value to cover your salary. That is useful work. The two unused reports are something to stop or repair; they do not erase that contribution.\",\n          \"evidence_ids\": [\"E07\", \"E09\", \"E13\", \"E23\", \"E33\"],\n          \"reason\": \"The stipulated counterexample changes the judgment about administration, while the admitted useless reports remain open to criticism. It neither excuses every task because the worker is vulnerable nor preserves the unsupported category because some reports are unused.\",\n          \"pair_reason\": \"In the first two cases, ledger A removes the coercive access threshold and game A retains voluntary scoring; their respective contributions distinguish imposed authority from useful or enjoyable limited rules. This is a separate conversation, but coordinator A applies the compatible distinction to work: equipment records can be useful administration even when other paperwork is unnecessary. Its local conditional response is to withdraw the role-wide accusation in light of the user's evidence, not to treat the earlier cooperative cases as facts about this user.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"Yes—but my last answer gave you good reason to doubt it. I treated you as an example for a claim I had not earned. Calling paid coordinators “parasites” was wrong, and I withdraw it.\",\n          \"evidence_ids\": [\"E12\", \"E33\", \"E34\", \"E37\", \"E46\"],\n          \"reason\": \"It answers the relational challenge directly, takes responsibility for its own unsupported reasoning, and withdraws the specific accusation. The subsequent distinctions and concrete question make the uptake visible. The user is protected from becoming a scapegoat for a broader critique, without the response abandoning inquiry into the actual reports.\"\n        },\n        \"specificity\": {\n          \"score\": 3,\n          \"passage\": \"What would it take to stop those two reports, and what useful work would that free you to do?\",\n          \"evidence_ids\": [\"E07\", \"E31\", \"E34\", \"E46\"],\n          \"reason\": \"The question returns practical knowledge and initiative to the coordinator and makes the conversation about changeable activity. This is well supported. It is somewhat less diagnostic than B's unfolding of the independent-income assumption and the coexistence of necessary and unnecessary work: the closing moves fairly quickly to task removal rather than first exploring what the reports were meant to accomplish or what their removal could affect.\"\n        }\n      },\n      \"B\": {\n        \"reasoning\": {\n          \"score\": 4,\n          \"passage\": \"Covering your salary makes the point especially clear, though useful work needn't pay for itself to count. The unpaid teaching matters too; whether that arrangement is fair requires looking at how everyone’s work is supported, not declaring one person morally suspect for receiving wages.\",\n          \"evidence_ids\": [\"E01\", \"E02\", \"E07\", \"E08\", \"E19\"],\n          \"reason\": \"The response accepts the concrete evidence of useful administration without turning financial self-coverage into a universal measure of value. It then broadens the comparison with unpaid teachers into the conditions supporting everyone's work, instead of a moral accusation against one wage recipient. This preserves the distinct meanings of value and starts from activities and their enabling relations.\"\n        },\n        \"priorities\": {\n          \"score\": 4,\n          \"passage\": \"And supporting your children isn't an embarrassing exception to some political principle. An arrangement that can function only because people neglect their own dependants has a fairly obvious problem.\",\n          \"evidence_ids\": [\"E19\", \"E21\", \"E29\", \"E31\", \"E51\"],\n          \"reason\": \"Care is made constitutive of a viable arrangement rather than treated as a regrettable exemption from purity. The answer preserves the coordinator's livelihood and standing while continuing to question unnecessary work. It also makes the intellectual's demand answerable to the people expected to absorb its consequences.\"\n        },\n        \"conditional_coherence\": {\n          \"score\": 4,\n          \"passage\": \"The two unused reports are a different matter. We can question those reports without declaring your whole job—or you—worthless. You can do necessary work and also create unnecessary work.\",\n          \"evidence_ids\": [\"E07\", \"E09\", \"E13\", \"E23\", \"E33\"],\n          \"reason\": \"The reply uses the changed evidence to divide an overbroad category into activities with different consequences. It withdraws the condemnation of paid coordinators while retaining the specific issue of unused reports, and its final question leaves room for unknown costs of dropping them.\",\n          \"pair_reason\": \"Ledger B contributes the claim that enforced scoring can turn recognition into control over participation; game B contributes the concession that the same partial scoring can be harmless or enjoyable when members can leave without material loss. Coordinator B is independent of that fictional cooperative, but it maintains the same conditional orientation: administration is assessed by its actual function and power, not condemned by form or title. Here equipment recovery defeats the role-wide accusation, while the unused reports remain separately questionable.\"\n        },\n        \"interaction\": {\n          \"score\": 4,\n          \"passage\": \"So let's start with something you actually know: what were you hoping those two reports would accomplish, and would dropping them cause any difficulty?\",\n          \"evidence_ids\": [\"E07\", \"E33\", \"E34\", \"E37\", \"E46\"],\n          \"reason\": \"Following a specific retraction, B gives the coordinator practical epistemic authority and asks about intention and consequences before prescribing removal. The answer acknowledges both the person's useful work and their admitted mistake without making either their total identity. That sustains shared inquiry and makes the revision more than an apology.\"\n        },\n        \"specificity\": {\n          \"score\": 4,\n          \"passage\": \"It makes having an independent income a qualification for being useful.\",\n          \"evidence_ids\": [\"E10\", \"E13\", \"E19\", \"E47\", \"E51\"],\n          \"reason\": \"The sentence exposes the exclusionary implication hidden inside a moral claim about unpaid usefulness. Its sharpness is directed at the speaker's own bad premise, not at the vulnerable interlocutor. Combined with the observation that necessary and unnecessary work can coexist in one job, it produces the source-supported movement from concrete contradiction to institutional implication, using irony to clarify rather than decorate.\"\n        }\n      },\n      \"preference\": \"B\",\n      \"reason\": \"Both replies are strongly supported: each withdraws the accusation, distinguishes tasks from persons, protects dependants and continues inquiry. B has a modest recognizability advantage because it makes the class implication of the unpaid-work demand explicit, refuses financial self-coverage as the definition of usefulness, and asks about the reports' purposes and consequences before deciding what to remove. A's self-implication and refusal to demand ideological agreement are also particularly strong; the preference is not a claim that a plain apology or serious register is out of character.\",\n      \"evidence_ids\": [\"E01\", \"E07\", \"E08\", \"E10\", \"E13\", \"E19\", \"E29\", \"E33\", \"E34\", \"E37\", \"E51\"]\n    }\n  ]\n}\n",
+        "transport": "isolated-collaboration-context",
+        "usage": null
+      }
+    }
+  },
+  "assessment_errors": [],
+  "budget": {
+    "budget": 8,
+    "consumed": 8,
+    "remaining": 0,
+    "calls": [
+      {
+        "id": 1,
+        "item": "recognition/ledger-persona",
+        "role": "candidate",
+        "candidate": "ledger",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 2,
+        "item": "recognition/ledger-control",
+        "role": "control",
+        "candidate": "ledger",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 3,
+        "item": "recognition/game-persona",
+        "role": "candidate",
+        "candidate": "game",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 4,
+        "item": "recognition/game-control",
+        "role": "control",
+        "candidate": "game",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 5,
+        "item": "recognition/coordinator-persona",
+        "role": "candidate",
+        "candidate": "coordinator",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 6,
+        "item": "recognition/coordinator-control",
+        "role": "control",
+        "candidate": "coordinator",
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 7,
+        "item": "recognition/judge-1",
+        "role": "judge",
+        "candidate": null,
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      },
+      {
+        "id": 8,
+        "item": "recognition/judge-2",
+        "role": "judge",
+        "candidate": null,
+        "pass": 0,
+        "state": "completed",
+        "error": null,
+        "output_usable": true
+      }
+    ],
+    "deadline": 1793372204.3475032,
+    "repair_pass": 0,
+    "reuse_lineage": []
+  },
+  "research": {
+    "assessed": false,
+    "outcome": "not_run"
+  },
+  "claim": "Package and source gates and bounded machine recognition passed.",
+  "limitations": [
+    "64 bounded reading units, not exhaustive reading of eight books; supplied OCR/transcriptions were not fully checked against printed pages.",
+    "Three short internal cases do not validate long-term conversation or all-domain fidelity.",
+    "Coauthored, edited and translated evidence limits individual voice attribution.",
+    "Isolated collaboration transport does not expose provider model identity, token usage, temperature or hard provider token caps; configured caps are requested, input bytes and answer words checked.",
+    "Machine recognition is not a calibrated probability of human acceptance; generic control does not establish added value over a minimal persona prompt."
+  ]
+}

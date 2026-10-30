@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "structure_revision": 2,
+  "delivery_status": "candidate",
+  "gates": {
+    "package": "pending",
+    "source": "pending",
+    "machine_recognition": "not_run"
+  },
+  "claim": "Assessment has not yet been completed."
+}

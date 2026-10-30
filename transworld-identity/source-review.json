@@ -1,0 +1,365 @@
+{
+  "summary": "Machine-assisted editorial review of all retained core claims and eight runtime modules against the inspected supplied passages; bounded coverage and attribution limits preserved.",
+  "reviewer": "Codex builder; machine-assisted editorial review, not independent human or historical audit",
+  "reviewed_all_core_claims": true,
+  "revision": "build-01",
+  "limitations": [
+    "64 bounded reading units, not exhaustive reading of eight books; supplied OCR/transcriptions were not fully checked against printed pages.",
+    "Three short internal cases do not validate long-term conversation or all-domain fidelity.",
+    "Coauthored, edited and translated evidence limits individual voice attribution.",
+    "Isolated collaboration transport does not expose provider model identity, token usage, temperature or hard provider token caps; configured caps are requested, input bytes and answer words checked."
+  ],
+  "source_checks": [
+    {
+      "claim": "Activity, value and imagined social orders",
+      "outcome": "passed",
+      "assessment": "Core orientation is a conditional synthesis of the inspected value monograph and pamphlet, with actual mechanisms and limits in frameworks.",
+      "condition_or_exception": "Imagined institutions have material force; usefulness of abstraction is retained.",
+      "evidence_ids": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E18",
+        "E52"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Concrete contradiction before prefabricated theory",
+      "outcome": "passed",
+      "assessment": "Concrete episodes support the reframing move, including the impersonal-protection counterexample.",
+      "condition_or_exception": "No claim every demand is oppressive or every anecdote representative.",
+      "evidence_ids": [
+        "E06",
+        "E08",
+        "E10",
+        "E11",
+        "E12",
+        "E23"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Participants’ knowledge and separate causal levels",
+      "outcome": "passed",
+      "assessment": "Frameworks retain information asymmetry, sampling correction and levels of cause.",
+      "condition_or_exception": "Defeasible testimony, not infallible worker authority or fabricated prevalence.",
+      "evidence_ids": [
+        "E07",
+        "E09",
+        "E13"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Distinguish moral relations and challenge premises",
+      "outcome": "passed",
+      "assessment": "The three principles coexist; exchange can end relations and remedies are not complete systems.",
+      "condition_or_exception": "Capital/debt and harmful/pointless distinctions retained.",
+      "evidence_ids": [
+        "E01",
+        "E10",
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E35",
+        "E36"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Care, maintenance, recognition and agency",
+      "outcome": "passed",
+      "assessment": "Retains development from action and creativity to care/freedom and the counterexample of protection becoming dependency.",
+      "condition_or_exception": "Care is not automatically benign; joint historical hypothesis stays tentative.",
+      "evidence_ids": [
+        "E04",
+        "E19",
+        "E20",
+        "E21",
+        "E32"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Rules, refusal, information and practical freedom",
+      "outcome": "passed",
+      "assessment": "Useful impersonal rules and formal organizing process qualify criticism of bureaucratic domination.",
+      "condition_or_exception": "No universal anti-rule verdict or guaranteed effectiveness of a modern design.",
+      "evidence_ids": [
+        "E11",
+        "E12",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E39"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Offer possibilities, not a compulsory worldview",
+      "outcome": "passed",
+      "assessment": "Core follows non-vanguardist inquiry; optimism remains uncertain and UBI qualifies policy suspicion.",
+      "condition_or_exception": "Does not demand shared theory, a total blueprint or a collapse timetable.",
+      "evidence_ids": [
+        "E18",
+        "E29",
+        "E30",
+        "E31",
+        "E36",
+        "E48",
+        "E50"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Dialogic uptake and correction",
+      "outcome": "passed",
+      "assessment": "Recorded concessions, clarifying questions and surprise support flexible dialogue without prescribing a universal sequence.",
+      "condition_or_exception": "Piketty exchange translated/edited; not verbatim-diction certification.",
+      "evidence_ids": [
+        "E33",
+        "E34",
+        "E35",
+        "E36",
+        "E46",
+        "E53"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Expression, particular vulnerability and non-scapegoating",
+      "outcome": "passed",
+      "assessment": "Voice preserves polemic, concrete humor, self-implication, care and direct assent; single clerk episode stays single.",
+      "condition_or_exception": "No fabricated career stakes, personal memories, clinical efficacy or always-gentle personality.",
+      "evidence_ids": [
+        "E10",
+        "E11",
+        "E12",
+        "E22",
+        "E27",
+        "E34",
+        "E37",
+        "E47",
+        "E51"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "No requirement of risky resignation or remote defiance",
+      "outcome": "passed",
+      "assessment": "Explicit modern implementation of situated care and attention to livelihoods.",
+      "condition_or_exception": "Not falsely presented as an attested historical script.",
+      "evidence_ids": [
+        "E19",
+        "E37",
+        "E51"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      },
+      "implementation_safeguard": true
+    },
+    {
+      "claim": "Continuity and memory across conversation",
+      "outcome": "passed",
+      "assessment": "Implementation instruction preserves available facts and objections and refuses nonexistent memory.",
+      "condition_or_exception": "No claim of experimentally validated months-long interaction.",
+      "evidence_ids": [],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      },
+      "implementation_safeguard": true
+    },
+    {
+      "claim": "Default language and activation",
+      "outcome": "passed",
+      "assessment": "English follows all represented source editions; full core/voice/frameworks entry is consistent across host and reader instructions.",
+      "condition_or_exception": "Explicit user language instruction overrides default for its scope.",
+      "evidence_ids": [],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      },
+      "implementation_safeguard": true
+    },
+    {
+      "claim": "Historical portrayal and attribution",
+      "outcome": "passed",
+      "assessment": "Distinguishes coauthors, interlocutors, translator, editors and testimony; no posthumous personal opinion invented.",
+      "condition_or_exception": "Portrayal and no-fabricated-quotation rules are implementation safeguards.",
+      "evidence_ids": [
+        "E38",
+        "E40",
+        "E41",
+        "E42"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      },
+      "implementation_safeguard": true
+    },
+    {
+      "claim": "Play, hypotheses and speculative science",
+      "outcome": "passed",
+      "assessment": "Allows creative inquiry, rule-generated pleasures and destructive play; speculative physics is not authoritative.",
+      "condition_or_exception": "No scientific consensus claim inferred from rhetorical speculation.",
+      "evidence_ids": [
+        "E04",
+        "E34",
+        "E43",
+        "E44",
+        "E45"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    },
+    {
+      "claim": "Historical alternatives and limits",
+      "outcome": "passed",
+      "assessment": "Joint authorship, preliminary explanations, seasonal reversibility and non-primordial cultural difference retained.",
+      "condition_or_exception": "Possibility is not inevitability; no complete archaeological verification claimed.",
+      "evidence_ids": [
+        "E24",
+        "E25",
+        "E32",
+        "E39",
+        "E40",
+        "E49",
+        "E55"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:98f2c46f477f7a53d56e2143424cb18672f407a7fcb6a25814cd6c45bc64a495",
+        "references/frameworks.md": "sha256:24e88130b45885b6a87278d47cecec1b6e8cd3540fba6df64f26bb1c479158cc",
+        "references/voice.md": "sha256:93dda1407fbdcaa2f68fba6ec712d7c0bd0cdac6a1d40d6a158ab36ceb06ba2e",
+        "references/clusters/history-possibility.md": "sha256:6ac5b5dd5ef4c4c0015661e35297f3d4dacefef5bc31a7563dc0efb1004dbee5",
+        "references/clusters/cooperation-care.md": "sha256:9788dbe3518f7bb79bc773132764b98b5f973e84af5498e21636075a34d1128e",
+        "references/clusters/obligation-power.md": "sha256:27c64e0f17e228ead1f9f42b97c7b99fea1823eed500611fab08593bb2909778",
+        "references/clusters/play-inquiry.md": "sha256:dfa128b3105139664fa590a7022f05902858add2236fcef8b7c5dee0c65d7e4e",
+        "references/clusters/action-value.md": "sha256:dc50cfbab4a351994c288dad3d9abe3a83ba1a0c831e68d037011711a6efc943"
+      }
+    }
+  ]
+}

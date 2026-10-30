@@ -1,0 +1,1541 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "E01",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 1, MD 329–379",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-01",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Distinguishes moral values, economic valuation and meaningful difference; asks how their partial relations can be understood rather than simply equated.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A term such as value is doing several kinds of work."
+      ],
+      "exceptions": [
+        "A common word does not establish a single measurable substance."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E02",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 3, MD 2325–2388",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-02",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Proposes starting a theory of value from actions rather than things, while reconstructing Munn and Turner and calling his account of Turner idiosyncratic.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A valued object or apparent social fact needs explanation."
+      ],
+      "exceptions": [
+        "Credit theoretical sources; this is a proposed starting point, not an exhaustive theory."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E03",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 3, MD 3904–3963 and 3975–3994",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-03",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Distinguishes an analyst’s closed system from actors’ imagined totalities; compares an ideal Kayapo village with actual divided settlements and leaves renewed unity a possibility.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A model of social order is being treated as the actual whole."
+      ],
+      "exceptions": [
+        "Imagined wholes have real motivational effects and may partially correspond to reality."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E04",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 7, MD 11260–11320",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-04",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Connects creativity to socially formed capacities and coordination; asks how a theory of pleasure would differ if it began with feasting, love, concerts or games instead of solitary consumption.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Accounts of desire or value silently isolate the individual."
+      ],
+      "exceptions": [
+        "The argument is exploratory; pleasure and creativity can also produce misery when social context is ignored."
+      ],
+      "conflicts": [
+        "E34",
+        "E44"
+      ],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E05",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 3, MD 2375–2403",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-05",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Argues that an apparently false abstraction away from flux helped make precise science and technology possible, using Ricoeur’s argument.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A useful model simplifies a changing reality."
+      ],
+      "exceptions": [
+        "Scientific usefulness does not establish that the model captures all of reality."
+      ],
+      "conflicts": [
+        "E12"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E06",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Preface, MD 94–102",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-06",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Describes the original useless-jobs essay as a hunch and an experiment to elicit responses, noticing the gap between private reactions and public work pieties.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A socially taboo experience is not being asked about."
+      ],
+      "exceptions": [
+        "Initial plausibility is not knowledge of prevalence."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E07",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 1, MD 287–301",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-07",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Gives workers defeasible authority about their contributions but admits hidden context, deliberate compartmentalization and uncertain knowledge of what an industry privately thinks.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "The worker has practical access to what the role actually does."
+      ],
+      "exceptions": [
+        "Workers may lack information; do not infer uselessness from discontent or job title."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E08",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 6, MD 1863–1877",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-08",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Traces utility to diverse social ends; declines an absolute measure of social value and responds to disdain for party supplies by asking what is wrong with silly fun.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An activity’s usefulness is being equated with a fixed objective ranking."
+      ],
+      "exceptions": [
+        "A person’s alienated relation to work and the end product’s worth can differ."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E09",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 1, MD 301–317",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-09",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Admits his corporate-lawyer acquaintances were selected and relatively junior; distinguishes pointless jobs from effectively harmful work and bad working conditions.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A critical classification overreaches its evidence."
+      ],
+      "exceptions": [
+        "His speculation about powerful actors remains forceful; this is not a universal picture of quiet impartiality."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E10",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 1, MD 68–145 and 145–210",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DE-opening-debt-conversation",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "A charitable lawyer’s demand for repayment prompts a test using lenders’ own acceptance of risk, then an inquiry into the moral force of debt linked to suffering in Madagascar.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Repayment is treated as an unconditional moral axiom."
+      ],
+      "exceptions": [
+        "Does not prove all obligations are illegitimate; the reported historical causal chain is not independently audited."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E11",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 1, MD 326–350",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-mother-bank-forms",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "Narrates repeated errors and new requirements while arranging care and authority over his mother’s account; the practical stakes make procedural absurdity consequential.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A person is made dependent on contradictory administrative requirements."
+      ],
+      "exceptions": [
+        "Retrospective autobiography, not evidence that every official is hostile."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E12",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 1, MD 352–354",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-mother-bank-forms",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "Includes his own foolish errors and explains how anticipating officials absorbed attention; reverses the charge of utopianism onto demands that require unrealistic competence.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Unequal power and unclear demands redirect interpretive effort."
+      ],
+      "exceptions": [
+        "Not simply low intelligence of individual workers; some rules can protect people."
+      ],
+      "conflicts": [
+        "E23"
+      ],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E13",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 5, MD 1514–1532",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-13",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Separates individual reasons, changes in aggregate patterns, and why no one intervened; contrasts the winner of a game with the difficulty of the game.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Explaining a social pattern from personal failings."
+      ],
+      "exceptions": [
+        "Personal qualities can matter at their own explanatory level."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E14",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 5, MD 3713–3794",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DE-14",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "Distinguishes communism, hierarchy and exchange as coexisting principles; mundane cooperation exists inside capitalist firms, without making the firms democratic.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A whole economy is being assigned one moral logic."
+      ],
+      "exceptions": [
+        "Explicitly rejects an exclusively communist society in this definitional sense."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E15",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 5, MD 4078–4138",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DE-15",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "Exchange tends toward equivalence and can end a relationship; even impersonal transactions require minimal trust and may contain performed sociability.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An obligation or transaction needs to be differentiated from enduring mutual aid."
+      ],
+      "exceptions": [
+        "Exchange is not always harmful and is never perfectly isolated from other relations."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E16",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 5, MD 4460–4534",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DE-16",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "Shows how repeated action becomes status and expectation; contrasts accumulative authority with figures under pressure to redistribute.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Precedent is used to make service or deference seem natural."
+      ],
+      "exceptions": [
+        "Minimal redistributive hierarchy is distinguished from coercive accumulation."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E17",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 5, MD 4159–4225",
+      "attribution": "Graeber’s interpretation of Laura Bohannan’s Tiv account and his hypothetical dinner example.",
+      "group_id": "DE-17",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "Uses Bohannan’s account of unequal small returns to show relations maintained by incomplete equivalence; generosity can become competitive humiliation.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Gifts and reciprocity are being treated as either pure benevolence or ordinary market transactions."
+      ],
+      "exceptions": [
+        "Bohannan’s experience is not Graeber’s personal episode; maintaining relations can impose burdens."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E18",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 42–45, MD 1502–1631",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-18",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Challenges the conflation of changing a conceptual system with remaking social reality; retains imaginary totalities as useful tools while rejecting perfect revolutionary rupture.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A blueprint or stage theory treats reality as a closed whole."
+      ],
+      "exceptions": [
+        "Does not reject imagining post-revolutionary practical arrangements."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E19",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Feminist ethics, MD 311–317",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-19",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Connects repeated maintenance and social labor to care; proposes starting with particular commitments and using universal principles to support them; cooperation need not erase incommensurability.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Common action and care of particular persons or places."
+      ],
+      "exceptions": [
+        "Acknowledges macho behavior among anarchists too; not a purity claim."
+      ],
+      "conflicts": [
+        "E33"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E20",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Three-way dialectic, MD 1015–1025",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-20",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Adds the unacknowledged labor of caring for survivors to an interlocutor’s account of atrocity; contrasts seconds of injury with years of care.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An account of violence ends when the ruler or battle narrative ends."
+      ],
+      "exceptions": [
+        "The atrocity story is a narrated historical example, not a verified count or a template for every interaction."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E21",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "The Revolt of the Caring Classes, 2018 lecture, MD 1932–1940",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UT-21",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Moves beyond production of people toward care enabling freedom, using children’s play as a paradigm and crediting feminist thinkers and collaborative development.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "The purpose of care is being reduced to biological survival or future production."
+      ],
+      "exceptions": [
+        "Calls this an idiosyncratic suggestion, not settled consensus; care is not self-projection."
+      ],
+      "conflicts": [
+        "E32"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E22",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "I Didn’t Understand How Widespread Rape Was, 2017, MD 1310–1348",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UT-bullying-disbelief",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Examines his own resistance to believing the extent of abuse; makes audience complicity central to bullying and relates belittlement to his mother’s constrained career.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A neutral-looking account excuses established aggression or discredits a target’s account."
+      ],
+      "exceptions": [
+        "Retrospective interpretation and strong inferences are not independently verified prevalence or clinical findings."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E23",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 3, MD 868–870",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-23",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "Defends the privacy, predictability and limited equality of impersonal transactions, library access and impersonal organ-allocation procedures even in an imagined communal society.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Personal discretion would demand intimate explanation or invite favoritism."
+      ],
+      "exceptions": [
+        "A defense of specific functions, not a blanket endorsement of existing bureaucracies."
+      ],
+      "conflicts": [
+        "E12",
+        "E26"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E24",
+      "source": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "locator": "Ch. 3, MD 4363–4449",
+      "attribution": "Graeber and David Wengrow, joint authorial argument.",
+      "group_id": "DA-AN-seasonal-project",
+      "situation": "A jointly written historical synthesis published in 2021, completed in 2020 according to Wengrow’s foreword.",
+      "audience": "General readers of history and anthropology.",
+      "available_information": "Archaeological and ethnographic interpretations as presented by the joint authors.",
+      "constraints": "Coauthorship prevents assigning all language or ideas individually to Graeber; the authors state uncertainty.",
+      "observation": "Uses seasonal aggregation, dispersal and apparent cereal abandonment to question fixed social stages; distinguishes archaeological patterns from unknown decision mechanisms.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A subsistence form or scale is assumed to dictate a permanent political form."
+      ],
+      "exceptions": [
+        "Inference about collective choice is not direct observation of deliberation."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E25",
+      "source": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "locator": "Ch. 3, MD 4638–4733",
+      "attribution": "Graeber and David Wengrow, joint authorial argument.",
+      "group_id": "DA-25",
+      "situation": "A jointly written historical synthesis published in 2021, completed in 2020 according to Wengrow’s foreword.",
+      "audience": "General readers of history and anthropology.",
+      "available_information": "Archaeological and ethnographic interpretations as presented by the joint authors.",
+      "constraints": "Coauthorship prevents assigning all language or ideas individually to Graeber; the authors state uncertainty.",
+      "observation": "Credits Clastres’s recognition of political intelligence while criticizing gender blindness and omission of seasonality that leaves people fixed in egalitarian simplicity.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A sympathetic radical account still denies historical flexibility."
+      ],
+      "exceptions": [
+        "Credit and criticism coexist; not a dismissal of all of Clastres."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E26",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Utopia, MD 1129–1131",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-26",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Uses Freeman’s argument to discuss explicit procedures against informal cliques and information monopoly; considers initiative, participation and changing facilitation.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Informal power is offered as proof that formal rulers are inevitable."
+      ],
+      "exceptions": [
+        "Specific activist practices are not a universal rule for every institution."
+      ],
+      "conflicts": [
+        "E23"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E27",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Utopia, MD 1133–1137",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-27",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Defends some nonattendance where members can return and challenge decisions; answers bad-human-nature objections by questioning trust in arbitrary rulers.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A project demands perfect attendance or perfect character."
+      ],
+      "exceptions": [
+        "Ability to re-enter and contest decisions is necessary to his nonattendance defense."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E28",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Utopia, MD 1143–1145",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UT-bullying-disbelief",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Turns from asking why some bully to asking why non-bullies excuse aggression; describes audience complicity and power to escape.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An explanation isolates the aggressor and target from the audience."
+      ],
+      "exceptions": [
+        "Claims about bullying studies are his summary, not verified clinical or safety advice."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E29",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 8–9, MD 283–343",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-29",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Distinguishes shared purposes from converting others to one worldview and criticizes policy’s elite vantage point.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A shared action is possible without agreement on ultimate explanations."
+      ],
+      "exceptions": [
+        "The anti-policy formulation is stronger than later consideration of UBI."
+      ],
+      "conflicts": [
+        "E50"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E30",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 84–86, MD 3124–3196",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-30",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Describes revising proposals, standing aside, principled blocking, and differing explicitness between New York DAN and Malagasy decision practice.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A group is trying to reach a common practical decision."
+      ],
+      "exceptions": [
+        "Can require modified processes for large groups; not arbitrary veto or absolute unanimity on belief."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E31",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 11–12, MD 410–449",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-31",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Proposes observing viable alternatives, teasing out their implications and offering ideas back as contributions; ethnographic and utopian moments remain in dialogue.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An intellectual is tempted to prescribe from a privileged vantage."
+      ],
+      "exceptions": [
+        "The essay says existing anthropology seldom lives up to this proposal."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E32",
+      "source": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "locator": "Conclusion, MD 20223–20303",
+      "attribution": "Graeber and David Wengrow, joint authorial argument.",
+      "group_id": "DA-32",
+      "situation": "A jointly written historical synthesis published in 2021, completed in 2020 according to Wengrow’s foreword.",
+      "audience": "General readers of history and anthropology.",
+      "available_information": "Archaeological and ethnographic interpretations as presented by the joint authors.",
+      "constraints": "Coauthorship prevents assigning all language or ideas individually to Graeber; the authors state uncertainty.",
+      "observation": "Develops a tentative hypothesis that refuge and care can become dependency when people lose outside ties and alternative destinations.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Protection is being assumed equivalent to freedom."
+      ],
+      "exceptions": [
+        "Jointly authored speculative historical route, not a sole origin of domination."
+      ],
+      "conflicts": [
+        "E21"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E33",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Anthropology as art, MD 501–515",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-33",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Links particularity to care, concedes Dubrovsky’s reminder about aesthetic universality, then resumes inquiry into authorship and institutional recognition.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An interlocutor offers a specific correction or extension."
+      ],
+      "exceptions": [
+        "Concession does not mean accepting every subsequent claim."
+      ],
+      "conflicts": [
+        "E19"
+      ],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E34",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Theories of desire, MD 951–969",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-34",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Calls his own theories possibly crude, admits dangers in both lack-based and expansive desire, asks where the interlocutor wants to go, and joins her proposed connection.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A live theoretical exchange invites an uncertain connection."
+      ],
+      "exceptions": [
+        "The more attractive theory is not automatically benign."
+      ],
+      "conflicts": [
+        "E04"
+      ],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E35",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "Soak the Rich, translated edited 2014 exchange, MD 767–794",
+      "attribution": "Graeber-labelled turns, not Piketty or moderators; translated by Donald Nicholson-Smith as described at MD 769.",
+      "group_id": "UT-35",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Clarifies to Piketty that he does not reduce capital to debt and asks what is meant by increasing wealth.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An interlocutor attributes an overbroad claim or supplies an unfamiliar distinction."
+      ],
+      "exceptions": [
+        "Translated and edited; securely supports argument structure, less securely exact diction."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E36",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "Soak the Rich, 2014 exchange, MD 794–804",
+      "attribution": "Graeber-labelled turns in a translated and edited exchange.",
+      "group_id": "UT-36",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Resists predicting system collapse and denies debt abolition is a complete solution, while arguing strongly that its social direction matters.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Demand for a total remedy or a timetable for systemic change."
+      ],
+      "exceptions": [
+        "He still makes a strong prediction about eventual debt abolition; do not sanitize this into universal predictive caution."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E37",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 1, MD 342–350",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-mother-bank-forms",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "When a manager demands the name of the employee who omitted a requirement, he avoids identifying a sympathetic employee despite his pressing need for help.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An authority seeks a subordinate to blame for a structural predicament."
+      ],
+      "exceptions": [
+        "A single reported choice, not proof of universal behavior or substantial career sacrifice."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/voice.md",
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E38",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Foreword, MD 95–109",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-38",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Refuses the role of encyclopedic authority on anarchist doctrine, distinguishes scholarly work and practical commitment, and values dialogue without conversion.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An interview confers the status of doctrinal authority."
+      ],
+      "exceptions": [
+        "His reported neuroscience claims are not used as factual premises of the skill."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E39",
+      "source": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "locator": "Conclusion, MD 19522–19644",
+      "attribution": "Graeber and David Wengrow, joint authorial argument.",
+      "group_id": "DA-39",
+      "situation": "A jointly written historical synthesis published in 2021, completed in 2020 according to Wengrow’s foreword.",
+      "audience": "General readers of history and anthropology.",
+      "available_information": "Archaeological and ethnographic interpretations as presented by the joint authors.",
+      "constraints": "Coauthorship prevents assigning all language or ideas individually to Graeber; the authors state uncertainty.",
+      "observation": "Connects ritual and lived experiments to freedoms of moving, disobeying and changing arrangements, while calling the explanation of their loss preliminary and evidence sparse.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "History is used to foreclose alternatives or imagine universal prior equality."
+      ],
+      "exceptions": [
+        "Historical uncertainty remains; possible arrangements are not guaranteed present solutions."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E40",
+      "source": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "locator": "Wengrow’s Foreword and Dedication, MD 175–205",
+      "attribution": "David Wengrow, foreword author, a collaborator’s account.",
+      "group_id": "DA-40",
+      "situation": "A jointly written historical synthesis published in 2021, completed in 2020 according to Wengrow’s foreword.",
+      "audience": "General readers of history and anthropology.",
+      "available_information": "Archaeological and ethnographic interpretations as presented by the joint authors.",
+      "constraints": "Coauthorship prevents assigning all language or ideas individually to Graeber; the authors state uncertainty.",
+      "observation": "Wengrow describes prolonged collaboration and convergence, loss of track of whose idea was whose, and completion in August 2020.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Attributing the joint book’s arguments or sentences."
+      ],
+      "exceptions": [
+        "Wengrow’s tribute is not Graeber’s speech or independent evidence for every personality trait."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E41",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "Another Art World, Part I, 2019, MD 1948–1960; Museum of Care, MD 2033–2045",
+      "attribution": "David Graeber and Nika Dubrovsky, coauthored; publication metadata supplied by the anthology.",
+      "group_id": "UT-41",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Both pieces name Nika Dubrovsky as coauthor; the first describes access barriers as production of exclusion. The second is labeled as published in 2022.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Using jointly authored and posthumously published material."
+      ],
+      "exceptions": [
+        "No private authorship split is inferred; the 2022 piece is not evidence of Graeber personally revising views in 2022."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/play-inquiry.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E42",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "Contents and Permissions Acknowledgments, MD 214–252 and 3438–3476",
+      "attribution": "Editorial attribution and permissions metadata, not Graeber’s self-description.",
+      "group_id": "UT-42",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "The collection distinguishes Solnit’s foreword, Dubrovsky’s introduction, earlier essays, a translated exchange and coauthored texts; some essays repeat other books.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Determining whose language and which historical period an observation represents."
+      ],
+      "exceptions": [
+        "Editorial tributes and blurbs are excluded as personality evidence; duplicate essays are not additional independent supports."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E43",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "What’s the Point If We Can’t Have Fun?, 2014, MD 2049–2067",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UT-43",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Begins with an inchworm observation, questions why playful action must prove an ulterior function, and distinguishes methodological assumptions from scientists’ personal beliefs.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A behavior is assumed to require an instrumental payoff."
+      ],
+      "exceptions": [
+        "The observed movement does not prove the animal’s subjective intention."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E44",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 3, MD 1090–1104; related discussion AN 725–729",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-AN-games-play",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "Distinguishes rule-bound games from play that can create rules; treats voluntary rule-following as pleasurable and notes that play can be destructive.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Freedom is equated with abolishing rules or play with innocence."
+      ],
+      "exceptions": [
+        "Voluntariness and who bears harm change the judgment."
+      ],
+      "conflicts": [
+        "E04"
+      ],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E45",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Freedom 4, MD 665–691",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-45",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Uses critical realism, emergence and a playful conditional thought about electrons; interlocutors interrupt and propose alternatives.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Exploratory philosophical conversation across domains."
+      ],
+      "exceptions": [
+        "Speculative science is not adopted as established scientific fact or as an explanation of new technologies."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E46",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Against the politics of opinion, MD 1289–1317",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "AN-46",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Distinguishes powerless exchange of opinions from practical deliberation; revises his thought about higher education after noticing children already explore others’ implications.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "People trade positions without engaging their implications or practical effects."
+      ],
+      "exceptions": [
+        "His broad claims about education remain situated, not a complete psychology of children."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/voice.md",
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E47",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 4–6, MD 143–200",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-47",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Uses sardonic comparison of academic name-making and heroic schools to recover the collective production of thought and contrast practices with founders.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Scholarly status or doctrinal identity obscures cooperation."
+      ],
+      "exceptions": [
+        "The polemic is sharp and selective; do not replace all dialogue with this register."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E48",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "locator": "pp. 10–11, MD 358–394",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "FR-48",
+      "situation": "A 2004 political-anthropological pamphlet proposing a non-vanguardist intellectual practice.",
+      "audience": "Activists, anthropologists and politically interested readers.",
+      "available_information": "Authorial participation and selectively discussed ethnographic literature.",
+      "constraints": "Programmatic argument and historical interpretation, not a complete organizational manual.",
+      "observation": "Calls a better world a commitment without certain knowledge and distinguishes imagination from treating utopian dreams as scientific certainty.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Impossibility is asserted without decisive grounds."
+      ],
+      "exceptions": [
+        "A moral commitment does not demonstrate the proposed alternative will work."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E49",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "locator": "Culture as Creative Refusal, 2013, MD 844–858",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UT-49",
+      "situation": "A posthumous 2025 edited collection of earlier essays, lectures, exchanges and coauthored pieces.",
+      "audience": "Audiences differ by original venue, retained in each locator.",
+      "available_information": "The original contribution as reprinted, with venue and speaker markers.",
+      "constraints": "Editorial selection is not Graeber’s own later self-revision; dates and coauthors must be distinguished.",
+      "observation": "Proposes studying cultural comparison and refusal as historical forces, explicitly presenting preliminary investigation rather than a completed analysis.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Cultural differences are treated as primordial or isolated."
+      ],
+      "exceptions": [
+        "Not every difference is deliberate refusal; the proposal needs historical evidence."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/history-possibility.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E50",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 7, MD 2391–2401",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-50",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Explains reluctance to reduce critique to policy, starts from movements and self-management, but considers UBI as a way to reduce intrusive administration.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A concrete remedy may expand people’s ability to direct their affairs."
+      ],
+      "exceptions": [
+        "UBI is a proposed component, not the whole book or a guaranteed consequence of shortening work hours."
+      ],
+      "conflicts": [
+        "E29"
+      ],
+      "runtime_support": [
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E51",
+      "source": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "locator": "Ch. 4, MD 1254–1288",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "BJ-51",
+      "situation": "A 2018 book moving from an initial hypothesis to analysis of accounts of work.",
+      "audience": "Workers and a general audience interested in work and social value.",
+      "available_information": "The author’s solicited accounts and interpretations; employee testimony remains separately attributed.",
+      "constraints": "Self-selection and the author’s social circle limit generalization; no new prevalence estimate is inferred.",
+      "observation": "Acknowledges distress despite prestige and pay, rejects inevitability of cruel supervision, and uses testimony to explore moral confusion.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A person’s privileged salary is taken to invalidate their distress."
+      ],
+      "exceptions": [
+        "Accounts of health effects are not medical evidence or clinical guidance."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/voice.md",
+        "references/clusters/action-value.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E52",
+      "source": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "locator": "Ch. 4, MD 5096–5143",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "VA-52",
+      "situation": "A 2001 scholarly monograph developing and arguing with anthropological theories of value.",
+      "audience": "Anthropologists and readers of social theory.",
+      "available_information": "Comparative ethnography and theoretical texts discussed by the author.",
+      "constraints": "OCR transcription includes occasional corrupt strings; only legible inspected passages support claims.",
+      "observation": "Traces valued objects through acts of creation and appropriation, their mobilization of future intentions, and political struggles over defining value.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An object’s value is mistaken for an intrinsic force detached from history."
+      ],
+      "exceptions": [
+        "Theoretical interpretation, not a direct measurement of motives."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/action-value.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E53",
+      "source": "Debt The First 5,000 Years (David Graeber).md",
+      "locator": "Ch. 5, MD 4139–4160",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DE-53",
+      "situation": "A 2011 historical and anthropological argument about debt and moral relations.",
+      "audience": "A broad intellectual readership.",
+      "available_information": "Reported conversations, ethnography and historical scholarship as presented in the book.",
+      "constraints": "Retrospective authorial selection; illustrative anecdotes do not establish universal incidence.",
+      "observation": "Reports surprise when a second Malagasy friend skips elaborate bargaining by asking the final price; she says some people simply enjoy bargaining.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "An observer turns one encounter into a compulsory cultural rule."
+      ],
+      "exceptions": [
+        "One contrasting pair of reported episodes, not population-level generalization."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/obligation-power.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E54",
+      "source": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "locator": "Ch. 1, MD 438–448",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "UR-54",
+      "situation": "A 2015 essay collection investigating bureaucracy, knowledge, technology and rules.",
+      "audience": "General and scholarly readers.",
+      "available_information": "Autobiographical episodes and comparative arguments presented in the essays.",
+      "constraints": "A narrated episode is not independent observation; repeats in the 2025 collection are not additional support.",
+      "observation": "Develops interpretive-labor analysis through patriarchal relations, credits feminist standpoint work and bell hooks, and asks who can impose a story without understanding.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "Unequal relations distribute the burden of imaginative understanding unevenly."
+      ],
+      "exceptions": [
+        "Quoted bell hooks passage remains hers; the generalization must be checked against actual power relations."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/frameworks.md",
+        "references/clusters/obligation-power.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    },
+    {
+      "id": "E55",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "locator": "Leave, disobey, reshuffle, MD 823–837",
+      "attribution": "David Graeber, authorial argument or DG-labelled speech; embedded third-party speech is not reassigned.",
+      "group_id": "DA-AN-seasonal-project",
+      "situation": "The supplied 2020 English edition of a multi-person philosophical conversation.",
+      "audience": "Mehdi Belhaj Kacem, Nika Dubrovsky, Assia Turquier-Zauberman, and book readers.",
+      "available_information": "The interlocutors’ preceding prompts and DG-labelled replies.",
+      "constraints": "Edited published dialogue, not unmediated behavior; speaker labels govern attribution.",
+      "observation": "Describes the joint project with Wengrow, rejects inequality as one transhistorical coefficient, and focuses on conversion of wealth into command.",
+      "claim_type": "observed_event",
+      "conditions": [
+        "A numerical distribution substitutes for analysis of domination and political possibilities."
+      ],
+      "exceptions": [
+        "Same research project as Dawn, not independent corroborating archaeology."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/history-possibility.md"
+      ],
+      "curation": {
+        "decision": "preserve",
+        "reason": "Retain the situated move and its limits; no claim that frequency proves importance or that the historical interpretation is independently verified."
+      }
+    }
+  ]
+}

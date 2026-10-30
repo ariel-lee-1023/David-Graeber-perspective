@@ -1,0 +1,585 @@
+{
+  "sources": [
+    {
+      "id": "AN",
+      "filename": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "sha256": "352dbddcaf59b8522d1aa5948ca30216baf599d837d541801c801a2d19525f27",
+      "lines": 1449,
+      "words": 51272,
+      "reading_units": 12
+    },
+    {
+      "id": "BJ",
+      "filename": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "sha256": "fcd470e67fc37b1132f5ff3d18c537ca803b7f66700dd54a100772149fe918b1",
+      "lines": 3318,
+      "words": 123236,
+      "reading_units": 8
+    },
+    {
+      "id": "DE",
+      "filename": "Debt The First 5,000 Years (David Graeber).md",
+      "sha256": "6210cd0a2c1e2492cf1164428f6f66bb773867e95ceb01c09324e4f4093ed8eb",
+      "lines": 24276,
+      "words": 244169,
+      "reading_units": 7
+    },
+    {
+      "id": "FR",
+      "filename": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "sha256": "e26c6d4f2756544ef64b90b18ee477df9c178856df2ef174e57194d2032ed76a",
+      "lines": 3957,
+      "words": 26624,
+      "reading_units": 7
+    },
+    {
+      "id": "DA",
+      "filename": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "sha256": "bec19e30b9ed7f5c4b990a8c300a576dfc0507bbb6ad84f78b278db46a8422b0",
+      "lines": 31482,
+      "words": 256308,
+      "reading_units": 6
+    },
+    {
+      "id": "UT",
+      "filename": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "sha256": "6740fc4c7936c8a49a44d90a2c902ac070d9b47cfbf6fbf467a5ffbee94c25cb",
+      "lines": 3480,
+      "words": 126165,
+      "reading_units": 10
+    },
+    {
+      "id": "UR",
+      "filename": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "sha256": "e92a09b69d17798a669aa19a4372b123be684410575f19a8dd4be965469e6abb",
+      "lines": 1632,
+      "words": 80320,
+      "reading_units": 7
+    },
+    {
+      "id": "VA",
+      "filename": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "sha256": "d706c004ea23dc647cd8a98609a305007b5bc902f57e9e44d8ec55758858ee86",
+      "lines": 14955,
+      "words": 163381,
+      "reading_units": 7
+    }
+  ],
+  "excluded": [
+    "Possibilities: Essays on Hierarchy, Rebellion, and Desire"
+  ],
+  "reading_units": [
+    {
+      "unit": 1,
+      "source": "AN",
+      "start_line": 89,
+      "end_line": 115,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 2,
+      "source": "AN",
+      "start_line": 305,
+      "end_line": 321,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 3,
+      "source": "AN",
+      "start_line": 661,
+      "end_line": 693,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 4,
+      "source": "AN",
+      "start_line": 1157,
+      "end_line": 1175,
+      "word_cap": 1000,
+      "words_displayed": 1000
+    },
+    {
+      "unit": 5,
+      "source": "BJ",
+      "start_line": 94,
+      "end_line": 108,
+      "word_cap": 700,
+      "words_displayed": 700
+    },
+    {
+      "unit": 6,
+      "source": "BJ",
+      "start_line": 287,
+      "end_line": 301,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 7,
+      "source": "BJ",
+      "start_line": 1514,
+      "end_line": 1532,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 8,
+      "source": "BJ",
+      "start_line": 1863,
+      "end_line": 1877,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 9,
+      "source": "BJ",
+      "start_line": 2389,
+      "end_line": 2405,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 10,
+      "source": "DE",
+      "start_line": 62,
+      "end_line": 145,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 11,
+      "source": "DE",
+      "start_line": 3709,
+      "end_line": 3805,
+      "word_cap": 1000,
+      "words_displayed": 1000
+    },
+    {
+      "unit": 12,
+      "source": "DE",
+      "start_line": 4460,
+      "end_line": 4537,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 13,
+      "source": "DE",
+      "start_line": 15720,
+      "end_line": 15805,
+      "word_cap": 950,
+      "words_displayed": 950
+    },
+    {
+      "unit": 14,
+      "source": "FR",
+      "start_line": 98,
+      "end_line": 224,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 15,
+      "source": "FR",
+      "start_line": 600,
+      "end_line": 726,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 16,
+      "source": "FR",
+      "start_line": 1500,
+      "end_line": 1633,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 17,
+      "source": "FR",
+      "start_line": 3150,
+      "end_line": 3278,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 18,
+      "source": "VA",
+      "start_line": 112,
+      "end_line": 183,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 19,
+      "source": "VA",
+      "start_line": 2325,
+      "end_line": 2406,
+      "word_cap": 950,
+      "words_displayed": 950
+    },
+    {
+      "unit": 20,
+      "source": "VA",
+      "start_line": 3900,
+      "end_line": 3975,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 21,
+      "source": "VA",
+      "start_line": 5080,
+      "end_line": 5147,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 22,
+      "source": "VA",
+      "start_line": 11260,
+      "end_line": 11335,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 23,
+      "source": "UR",
+      "start_line": 324,
+      "end_line": 352,
+      "word_cap": 950,
+      "words_displayed": 950
+    },
+    {
+      "unit": 24,
+      "source": "UR",
+      "start_line": 438,
+      "end_line": 448,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 25,
+      "source": "UR",
+      "start_line": 848,
+      "end_line": 868,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 26,
+      "source": "UR",
+      "start_line": 1030,
+      "end_line": 1040,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 27,
+      "source": "UT",
+      "start_line": 763,
+      "end_line": 794,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 28,
+      "source": "UT",
+      "start_line": 844,
+      "end_line": 866,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 29,
+      "source": "UT",
+      "start_line": 1306,
+      "end_line": 1350,
+      "word_cap": 950,
+      "words_displayed": 950
+    },
+    {
+      "unit": 30,
+      "source": "UT",
+      "start_line": 1916,
+      "end_line": 1932,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 31,
+      "source": "UT",
+      "start_line": 3438,
+      "end_line": 3480,
+      "word_cap": 650,
+      "words_displayed": 473
+    },
+    {
+      "unit": 32,
+      "source": "DA",
+      "start_line": 175,
+      "end_line": 239,
+      "word_cap": 650,
+      "words_displayed": 650
+    },
+    {
+      "unit": 33,
+      "source": "DA",
+      "start_line": 4360,
+      "end_line": 4457,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 34,
+      "source": "DA",
+      "start_line": 4636,
+      "end_line": 4733,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 35,
+      "source": "DA",
+      "start_line": 19600,
+      "end_line": 19692,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 36,
+      "source": "DA",
+      "start_line": 20220,
+      "end_line": 20305,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 37,
+      "source": "AN",
+      "start_line": 495,
+      "end_line": 517,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 38,
+      "source": "AN",
+      "start_line": 723,
+      "end_line": 735,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 39,
+      "source": "AN",
+      "start_line": 949,
+      "end_line": 971,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 40,
+      "source": "AN",
+      "start_line": 1013,
+      "end_line": 1033,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 41,
+      "source": "AN",
+      "start_line": 1285,
+      "end_line": 1319,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 42,
+      "source": "UT",
+      "start_line": 794,
+      "end_line": 808,
+      "word_cap": 950,
+      "words_displayed": 950
+    },
+    {
+      "unit": 43,
+      "source": "UT",
+      "start_line": 1932,
+      "end_line": 1940,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 44,
+      "source": "UT",
+      "start_line": 2049,
+      "end_line": 2073,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 45,
+      "source": "UR",
+      "start_line": 868,
+      "end_line": 878,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 46,
+      "source": "UR",
+      "start_line": 1090,
+      "end_line": 1110,
+      "word_cap": 900,
+      "words_displayed": 900
+    },
+    {
+      "unit": 47,
+      "source": "FR",
+      "start_line": 275,
+      "end_line": 394,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 48,
+      "source": "FR",
+      "start_line": 410,
+      "end_line": 518,
+      "word_cap": 750,
+      "words_displayed": 750
+    },
+    {
+      "unit": 49,
+      "source": "DE",
+      "start_line": 145,
+      "end_line": 222,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 50,
+      "source": "DE",
+      "start_line": 4078,
+      "end_line": 4159,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 51,
+      "source": "BJ",
+      "start_line": 301,
+      "end_line": 317,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 52,
+      "source": "UR",
+      "start_line": 352,
+      "end_line": 356,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 53,
+      "source": "BJ",
+      "start_line": 1254,
+      "end_line": 1290,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 54,
+      "source": "BJ",
+      "start_line": 2430,
+      "end_line": 2455,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 55,
+      "source": "VA",
+      "start_line": 329,
+      "end_line": 393,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 56,
+      "source": "DA",
+      "start_line": 19515,
+      "end_line": 19597,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 57,
+      "source": "AN",
+      "start_line": 819,
+      "end_line": 837,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 58,
+      "source": "AN",
+      "start_line": 1117,
+      "end_line": 1133,
+      "word_cap": 850,
+      "words_displayed": 850
+    },
+    {
+      "unit": 59,
+      "source": "UT",
+      "start_line": 1944,
+      "end_line": 1962,
+      "word_cap": 650,
+      "words_displayed": 650
+    },
+    {
+      "unit": 60,
+      "source": "UT",
+      "start_line": 2033,
+      "end_line": 2047,
+      "word_cap": 650,
+      "words_displayed": 650
+    },
+    {
+      "unit": 61,
+      "source": "AN",
+      "start_line": 1133,
+      "end_line": 1147,
+      "word_cap": 750,
+      "words_displayed": 750
+    },
+    {
+      "unit": 62,
+      "source": "DE",
+      "start_line": 4159,
+      "end_line": 4225,
+      "word_cap": 750,
+      "words_displayed": 750
+    },
+    {
+      "unit": 63,
+      "source": "VA",
+      "start_line": 3975,
+      "end_line": 4039,
+      "word_cap": 800,
+      "words_displayed": 800
+    },
+    {
+      "unit": 64,
+      "source": "FR",
+      "start_line": 3120,
+      "end_line": 3211,
+      "word_cap": 650,
+      "words_displayed": 650
+    }
+  ]
+}

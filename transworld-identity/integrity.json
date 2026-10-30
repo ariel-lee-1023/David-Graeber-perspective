@@ -1,0 +1,10 @@
+{
+  "source_hashes": "all 8 match originals",
+  "evidence_ids": "55 unique; all referenced IDs and conflict links resolve",
+  "runtime_support": "all targets exist",
+  "raw_books_and_scratch": "none packaged",
+  "discovery_symlink": "resolves to canonical root",
+  "language_and_activation": "editorially reviewed in source review",
+  "reading_units": 64,
+  "max_boundary": 96
+}

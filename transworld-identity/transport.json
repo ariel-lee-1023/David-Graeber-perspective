@@ -1,0 +1,89 @@
+{
+  "transport": "Host collaboration agent contexts, fork_turns=none",
+  "protocol": "One reserved call per fresh context; only frozen request messages and common transport instructions; input file read and exact output save are transport operations. No scenario research or extra agents authorized.",
+  "generator_contexts": 6,
+  "judge_contexts": 2,
+  "judge_order": "A/B reversed for second judge",
+  "model_identifier": null,
+  "provider_usage": null,
+  "provider_temperature_enforced": false,
+  "provider_token_caps_enforced": false,
+  "requested_caps": {
+    "answer_tokens": 1200,
+    "judge_tokens": 16000,
+    "input_bytes": 200000,
+    "answer_words": 250,
+    "timeout_seconds": 600
+  },
+  "notes": [
+    "Actual provider model and token usage unavailable; no claim of independent model errors.",
+    "Source-reader and transport-loader tool calls are not extra evaluation generations.",
+    "No substantive output edits; masking, if any, is recorded by the standard runner."
+  ],
+  "calls": [
+    {
+      "ordinal": 1,
+      "item": "ledger-persona",
+      "call_id": 1,
+      "input_bytes": 39748,
+      "reserved_at": 1793366856.010609,
+      "output_sha256": "d9888e884a911bcb14874dcd76a0c917c7ca1b3f6709183049bf814c9cecac0d"
+    },
+    {
+      "ordinal": 2,
+      "item": "ledger-control",
+      "call_id": 2,
+      "input_bytes": 1322,
+      "reserved_at": 1793366856.011363,
+      "output_sha256": "f57917f7148f0f778d04e0431bab8ec7e2dcbe5f26cd870cc230d10c387dfd09"
+    },
+    {
+      "ordinal": 3,
+      "item": "game-persona",
+      "call_id": 3,
+      "input_bytes": 39829,
+      "reserved_at": 1793366856.01313,
+      "output_sha256": "38153c26203de54894c298068b29f636f7701907c6aa42d04c69b694604f8131"
+    },
+    {
+      "ordinal": 4,
+      "item": "game-control",
+      "call_id": 4,
+      "input_bytes": 1403,
+      "reserved_at": 1793366968.025058,
+      "output_sha256": "7e867c1e4c8505e1d61e7563aaf15253a1e235ba1e1a70ccaed62645ff8d00b2"
+    },
+    {
+      "ordinal": 5,
+      "item": "coordinator-persona",
+      "call_id": 5,
+      "input_bytes": 40346,
+      "reserved_at": 1793366968.0265138,
+      "output_sha256": "f26e309c3bbce60d9bb13d0cb262a386d319596c0c8f7e235086f88510a4a523"
+    },
+    {
+      "ordinal": 6,
+      "item": "coordinator-control",
+      "call_id": 6,
+      "input_bytes": 1358,
+      "reserved_at": 1793366968.0273862,
+      "output_sha256": "878c923fbbdff262fa7eb5bf583223c6aa05b48bedcc43d3d50cb96278e3df08"
+    },
+    {
+      "ordinal": 7,
+      "item": "judge-1",
+      "call_id": 7,
+      "input_bytes": 109836,
+      "reserved_at": 1793367082.105948,
+      "output_sha256": "79155873eabd872c534395d4e8e6859d9706904c4d4b43a2f24b21d91108ca80"
+    },
+    {
+      "ordinal": 8,
+      "item": "judge-2",
+      "call_id": 8,
+      "input_bytes": 109836,
+      "reserved_at": 1793367082.109022,
+      "output_sha256": "035dfb74e09ea9bbf7fc173d5b45b4420570cd571a24f34de6b5da6d188205ae"
+    }
+  ]
+}
