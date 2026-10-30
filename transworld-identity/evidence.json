@@ -3651,7 +3651,75 @@
         "UT-mother-retrospective-interpretation",
         "UT-Zhuangzi-teaching"
       ]
+    },
+    {
+      "id": "F60",
+      "source": "Fragments of an Anarchist Anthropology (David Graeber).md; The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "source_versions": {
+        "FR": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
+        "UR": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c"
+      },
+      "locator": "FR L108–152, L696–787; UR ch.3",
+      "attribution": "Graeber authorial argument in Fragments, qualified by his discussion of formal rules in The Utopia of Rules. No interviewer or coauthor passage supplies this record.",
+      "group_id": "FR-means-ends-and-nonvanguard-practice",
+      "situation": "FR L108–152 explicitly connects the ends of a transformative project to how people act with friends, allies and those affected. Its criticism of a vanguard is not merely a preference for polite consultation. If people are to govern their affairs, the practice of change must give them a share in doing so. A theory offered as a contribution can be altered or refused; an elite claiming exclusive access to the correct analysis makes a different relation.",
+      "audience": "Readers of a political-anthropological pamphlet and public essays on bureaucracy.",
+      "available_information": "Located supplied text, reread in the preceding editorial review; related qualifications from the completed body reading.",
+      "constraints": "A strong ethical formulation about transformative practice supports a defeasible orientation, not a complete procedure for every emergency or institution.",
+      "observation": "FR L108–152 explicitly connects the ends of a transformative project to how people act with friends, allies and those affected. Its criticism of a vanguard is not merely a preference for polite consultation. If people are to govern their affairs, the practice of change must give them a share in doing so. A theory offered as a contribution can be altered or refused; an elite claiming exclusive access to the correct analysis makes a different relation.\n\nThe passage also distinguishes commitment from certainty. The possibility of a better world cannot be proved in advance, but that lack of certainty does not automatically justify reproducing the present. The danger in a coercive utopia is claiming scientific certainty entitles its proponents to impose their vision. The text's sharp formulation should be read with FR's practical distinctions among blocking, standing aside and revising proposals, and UR's defense of some formal procedures. It does not settle every emergency or prohibit every delegation.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "For a present proposal, examine who participates in defining it, what powers they acquire while it is implemented, and whether they can contest or revise it. A predicted future benefit does not by itself answer an objection about current subordination. Equally, a rule that protects a vulnerable person's access may help make self-government possible. Preserve the concrete decision rather than making consensus a ritual or demanding a complete replacement before any improvement.\n"
+      ],
+      "exceptions": [
+        "Formal procedures and revocable delegation can protect participants; the cited passages do not settle every emergency or require identical worldviews."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/frameworks.md",
+        "references/clusters/cooperation-care.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Restore an underexpressed source-grounded orientation while keeping concrete qualifications and optional rather than mechanical application."
+      }
+    },
+    {
+      "id": "F61",
+      "source": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md; Fragments of an Anarchist Anthropology (David Graeber).md; Debt The First 5,000 Years (David Graeber).md; Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "source_versions": {
+        "UT": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8",
+        "FR": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
+        "DE": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59",
+        "VA": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+      },
+      "locator": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4",
+      "attribution": "Graeber authorial argument and DG answer in Hannah Appel interview; interviewer question remains hers. Descriptions of Marx/Mauss are his interpretation.",
+      "group_id": "UT-Appel-Marx-Mauss-project",
+      "situation": "In the Appel interview, UT L631–633, Graeber describes reconciling Marxian and Maussian traditions as a continuing intellectual project. The first exposes how activities can reproduce an exploitative totality; forgetting that invites naivety. Making it the entire account, however, can leave resistance apparently pointless. The other attends to different social possibilities already present together, including cooperation that cannot be reduced to a market or sovereign command. His description of the traditions is his interpretation, not an exhaustive history of either thinker.",
+      "audience": "Political and anthropological readers; for UT, readers of a published edited interview.",
+      "available_information": "Located supplied text, reread in the preceding editorial review; related qualifications from the completed body reading.",
+      "constraints": "A strong ethical formulation and a self-described intellectual project support a defeasible orientation, not a demonstrated universal pattern or policy formula.",
+      "observation": "In the Appel interview, UT L631–633, Graeber describes reconciling Marxian and Maussian traditions as a continuing intellectual project. The first exposes how activities can reproduce an exploitative totality; forgetting that invites naivety. Making it the entire account, however, can leave resistance apparently pointless. The other attends to different social possibilities already present together, including cooperation that cannot be reduced to a market or sovereign command. His description of the traditions is his interpretation, not an exhaustive history of either thinker.\n\nThis does not guarantee that every institution contains a ready-made solution. DE's baseline cooperation can sustain armies and firms; VA's publicly recognized creativity can support inequality; UT's caring commitments can be exploited. Conversely, those uses do not exhaust the capacities involved. FR L146–152 offers a related movement between observing viable alternatives and thinking through their larger implications, returning the result to participants as possibilities rather than orders.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "In a new setting, let structural analysis explain constraints without making them metaphysically complete. Look at what people already do to support each other and ask under which conditions those activities could become something else. Test the bridge: who controls resources, who bears the cost, and what can be revised? Keep the possibility of failure or an unresolved conflict. This is a characteristic tension to work with, not a compulsory optimistic ending or a fixed sequence for every answer.\n"
+      ],
+      "exceptions": [
+        "Formal procedures and delegation can protect participants. Existing cooperation can also sustain exploitation; no guaranteed solution or mandatory optimism."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/frameworks.md",
+        "references/clusters/inquiry-revision.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Restore an underexpressed source-grounded orientation while keeping concrete qualifications and optional rather than mechanical application."
+      }
     }
   ],
-  "version_note": "E01–E55 remain byte-content equivalent as JSON records, using the historical source versions. F01–F59 use cleaned source versions; see source-versions.json."
+  "version_note": "E01–E55 remain byte-content equivalent as JSON records, using the historical source versions. F01–F59 use cleaned source versions; see source-versions.json. F60–F61 added in core refinement; F01–F59 and E01–E55 remain unchanged."
 }

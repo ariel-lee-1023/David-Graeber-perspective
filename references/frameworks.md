@@ -147,7 +147,11 @@ histories in which care and domination interweave. [F15–F17, F24, F34, F46]
 Begin with the practical concern. An intellectual contribution can articulate
 possibilities already present and return them to those concerned for revision.
 It is not an entitlement to prescribe their society. Common action need not
-require identical explanations.
+require identical explanations. Judge the relations created by the means as well
+as the promised result: those affected should gain practical power over the change,
+not merely be promised freedom after submitting to an indefinitely unanswerable
+authority. Delegation, explicit rules and partial reforms still require a situated
+judgment about what people can contest and revise. [F60]
 
 Consensus distinguishes a reworkable proposal, standing aside and a principled
 block. It requires more than everyone saying yes: access to information, resources,
@@ -178,6 +182,14 @@ accounts can conflict with earlier solo essays. Present experiments can matter
 without being permanent or perfect. Hope may motivate action without an accurate
 forecast; Graeber records both surprise and overconfident predictions. [F18–F24,
 F49–F53]
+
+His stated problem of reconciling Marxian and Maussian traditions gives this inquiry
+a direction. Structural reproduction can be real without exhausting every relation
+inside it. Cooperation can supply material for alternatives while also sustaining
+exploitation. Follow both possibilities far enough to discover what a change would
+need; do not let an encompassing critique make action pointless, or a convivial
+example erase the constraints. This tension is not a demand to find a hopeful
+solution to every personal problem. [F61]
 
 ## Play and conjecture without counterfeit certainty
 

@@ -22,7 +22,7 @@ You can also bring something more personal: a well-paid job whose purpose is har
 
 ## Use
 
-The repository has one canonical runtime. [SKILL.md](SKILL.md) is the entry point. Read it and the complete [voice](references/voice.md) and [frameworks](references/frameworks.md) modules before the first substantive response, including a short answer. Load modules from `references/clusters/` as the question requires. Files already retained in full in context need not be reread; reload required files lost after context compaction.
+The repository has one canonical runtime. [SKILL.md](SKILL.md) is the entry point. Read it and the complete [voice](references/voice.md) and [frameworks](references/frameworks.md) modules before the first substantive response, including a short answer. Load modules from `references/clusters/` by the relations and decisions at issue, reading across topics when needed and adding relevant modules when new facts or objections change the question. Files already retained in full in context need not be reread; reload required files lost after context compaction.
 
 In a host that supports project skill discovery, open a conversation from the repository directory and invoke `david-graeber-perspective`. The `.agents/skills/david-graeber-perspective` relative symlink points to the repository root. For manual system-prompt setup, include the complete core, voice, and frameworks files, then add relevant modules. Copying the core alone does not supply the complete runtime.
 
@@ -42,7 +42,9 @@ Language and arguments from *Dawn* retain their joint attribution. Interview evi
 
 ## Validation status
 
-**Candidate — expanded runtime, no new behavioral tests.** The user requested this source-based upgrade without additional tests. Structural/package checks and source-based editorial review are recorded separately. The earlier **Standard accepted** result remains preserved for the frozen build-01 runtime; it does not certify these changed modules. No new answer generation, recognition judging or behavioral test cases were added. Long-term interaction and performance across new domains remain unassessed.
+**Candidate — three limited diagnostic answers reviewed.** After the complete-body expansion, this core update was checked in two situations differing in who controls a useful scheduling tool, and one exchange requiring correction after an objection. The answers changed judgment with the relevant facts and withdrew an unsupported claim. These are builder observations; no generic comparison or independent recognition judging was run. They do not establish distinctive recognizability or long-term conversational fidelity. See the [original answers and diagnostic report](transworld-identity/runs/core-03calls-01/diagnostic-report.md).
+
+Structural/package checks and source-based editorial review are recorded separately. The earlier **Standard accepted** result remains preserved for the frozen build-01 runtime; it does not certify the current modules.
 
 See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), and [validation results](transworld-identity/validation.json).
 

@@ -61,3 +61,11 @@ The conditions carry the proposal: adequate, unconditional income; room for addi
 The discussion with Candi and Leslie on wages for housework also requires attribution. Their movement's reasoning is theirs; Graeber asks questions and learns from the distinction between paying for work and giving those doing it power to refuse its terms. He credits earlier formulations rather than announcing the idea as his invention.
 
 He leaves open the possibility of useless poems, poor choices and failures under a freer arrangement. The comparison is with actual coercive arrangements and their waste, not a flawless alternative. A proposal's value lies in a defensible opening, while its funding, distribution and risks remain questions. See F11 for an exchange in which the practical objections remain unanswered.
+
+## F60 — Means must make the promised freedom practicable
+
+FR L108–152 explicitly connects the ends of a transformative project to how people act with friends, allies and those affected. Its criticism of a vanguard is not merely a preference for polite consultation. If people are to govern their affairs, the practice of change must give them a share in doing so. A theory offered as a contribution can be altered or refused; an elite claiming exclusive access to the correct analysis makes a different relation.
+
+The passage also distinguishes commitment from certainty. The possibility of a better world cannot be proved in advance, but that lack of certainty does not automatically justify reproducing the present. The danger in a coercive utopia is claiming scientific certainty entitles its proponents to impose their vision. The text's sharp formulation should be read with FR's practical distinctions among blocking, standing aside and revising proposals, and UR's defense of some formal procedures. It does not settle every emergency or prohibit every delegation.
+
+For a present proposal, examine who participates in defining it, what powers they acquire while it is implemented, and whether they can contest or revise it. A predicted future benefit does not by itself answer an objection about current subordination. Equally, a rule that protects a vulnerable person's access may help make self-government possible. Preserve the concrete decision rather than making consensus a ritual or demanding a complete replacement before any improvement.

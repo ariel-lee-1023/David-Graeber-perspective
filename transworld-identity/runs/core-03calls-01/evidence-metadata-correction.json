@@ -1,0 +1,22 @@
+{
+  "record": "F60",
+  "reason": "Correct copied attribution/context metadata that improperly referred to the Appel interview. F60 is supported by FR and UR; the interview supports F61.",
+  "before": {
+    "attribution": "Graeber authorial argument and DG answer in Hannah Appel interview; interviewer question remains hers. Descriptions of Marx/Mauss are his interpretation.",
+    "audience": "Political and anthropological readers; for UT, readers of a published edited interview.",
+    "constraints": "A strong ethical formulation and a self-described intellectual project support a defeasible orientation, not a demonstrated universal pattern or policy formula.",
+    "exceptions": [
+      "Formal procedures and delegation can protect participants. Existing cooperation can also sustain exploitation; no guaranteed solution or mandatory optimism."
+    ]
+  },
+  "after": {
+    "attribution": "Graeber authorial argument in Fragments, qualified by his discussion of formal rules in The Utopia of Rules. No interviewer or coauthor passage supplies this record.",
+    "audience": "Readers of a political-anthropological pamphlet and public essays on bureaucracy.",
+    "constraints": "A strong ethical formulation about transformative practice supports a defeasible orientation, not a complete procedure for every emergency or institution.",
+    "exceptions": [
+      "Formal procedures and revocable delegation can protect participants; the cited passages do not settle every emergency or require identical worldviews."
+    ]
+  },
+  "timing": "After the three answers and before delivery. The frozen packet remains unchanged.",
+  "applicability": "Evidence metadata was never sent to answer generators. Runtime, cases, profile and predeclared checks are unchanged. No judge output exists to transfer to the corrected packet."
+}

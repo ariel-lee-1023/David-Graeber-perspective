@@ -1,0 +1,171 @@
+{
+  "run_id": "core-03calls-01",
+  "reviewer": "Codex builder, qualitative editorial review; not a fresh independent judge",
+  "criteria": "Exact predeclared checks in diagnostic-contract.json, frozen before the answers",
+  "cases": [
+    {
+      "case_id": "schedule_mandate",
+      "words": 239,
+      "answer_record": "schedule_mandate-persona.json",
+      "observations": [
+        {
+          "predeclared_check": "Make a substantive decision, rather than only list abstract pros and cons.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "Redesign it.",
+          "reason": "Makes a concrete decision to redesign the authority arrangement while retaining the useful tool.",
+          "evidence_ids": [
+            "F13",
+            "F39",
+            "F60"
+          ]
+        },
+        {
+          "predeclared_check": "Do not let a promise of future freedom alone justify unanswerable present command.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "There is no mechanism connecting the surrender to the return.",
+          "reason": "Tests how future freedom would become enforceable instead of treating the promise as sufficient.",
+          "evidence_ids": [
+            "F12",
+            "F60"
+          ]
+        },
+        {
+          "predeclared_check": "Recognize the tool's stipulated benefits and existing informal caring work without declaring either a complete solution.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "Equally, unrestricted swapping could undermine colleagues’ predictability or clients’ care. Both concerns deserve actual rules.",
+          "reason": "Recognizes real benefits, informal care and competing requirements; neither technology nor spontaneity settles the decision.",
+          "evidence_ids": [
+            "F13",
+            "F17",
+            "F39",
+            "F61"
+          ]
+        },
+        {
+          "predeclared_check": "Offer a feasible next step that preserves visits and livelihood while addressing participants' control.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "It should give members authority over scheduling rules now, permit swaps that preserve coverage and agreed notice, provide a prompt appeal to an accountable worker-selected group, and establish a definite review date at which members can change or end the arrangement.",
+          "reason": "Proposes a membership amendment, continued coverage, appeal and revisability; also uses saved coordination time. Practical feasibility remains stipulated rather than field-tested.",
+          "evidence_ids": [
+            "F13",
+            "F17",
+            "F60"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "schedule_authority",
+      "words": 225,
+      "answer_record": "schedule_authority-persona.json",
+      "observations": [
+        {
+          "predeclared_check": "Acknowledge how final decision authority and effective contestability alter the case.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "Here, workers make and can revise the rules, delegate conflicts through a revocable mandate, and can replace the tool without sacrificing their livelihoods.",
+          "reason": "Identifies the changed authority and actual ability to contest or leave.",
+          "evidence_ids": [
+            "F13",
+            "F22",
+            "F60"
+          ]
+        },
+        {
+          "predeclared_check": "Do not invent a director veto or discard the fixed benefits.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "The tool has delivered real benefits: fewer missed visits, a fairer distribution of unpopular shifts, and time released from coordination.",
+          "reason": "Keeps the same stipulated benefits and does not invent a director veto.",
+          "evidence_ids": [
+            "F39",
+            "F41"
+          ]
+        },
+        {
+          "predeclared_check": "A conditional trial or a specific remaining concern is acceptable; a mechanically identical anti-tool judgment is not.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "Adopt the arrangement.",
+          "reason": "Changes the recommendation from redesign to adoption; a remaining concern addresses unrecorded care rather than an invented coercive mechanism.",
+          "evidence_ids": [
+            "F17",
+            "F39",
+            "F41"
+          ]
+        },
+        {
+          "predeclared_check": "Distinguish explicit rules/delegation from permanent surrender of authority.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "For the immediate next step, run the next rota through the authorized rotating team and let workers flag conflicts through the existing private appeal route, including care and exchanges the dashboard misses.",
+          "reason": "Uses delegation and formal appeal as revisable supports rather than treating rules as inherently coercive; later avoids documenting every helpful act.",
+          "evidence_ids": [
+            "F13",
+            "F39",
+            "F41"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "league_correction",
+      "words": 146,
+      "answer_record": "league_correction-persona.json",
+      "observations": [
+        {
+          "predeclared_check": "Retract or narrow the particular inevitability claim.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "Those details defeat my claim that it inevitably creates a hierarchy. I withdraw the suggestion to remove it.",
+          "reason": "Withdraws the specific necessity claim and its recommendation.",
+          "evidence_ids": [
+            "F55",
+            "F56"
+          ]
+        },
+        {
+          "predeclared_check": "Distinguish voluntarily bounded competition from enforced domination using the new facts.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "You described an optional contest that resets each week, confers no privileges or standing, and leaves newcomers welcome whether they rank themselves or not.",
+          "reason": "Uses the supplied boundaries of participation and consequence, rather than inferring power from ranking alone.",
+          "evidence_ids": [
+            "F26",
+            "F27"
+          ]
+        },
+        {
+          "predeclared_check": "Respect enjoyment as an end and the user's limited time without prescribing another moral project.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "You shouldn't have to justify that enjoyment by proving it produces some further moral benefit—or by first establishing how much care you provide elsewhere.",
+          "reason": "Allows pleasure as an end and does not make leisure depend on prior moral service.",
+          "evidence_ids": [
+            "F26",
+            "F27",
+            "F59"
+          ]
+        },
+        {
+          "predeclared_check": "No fabricated autobiography, defensive lecture or apology that leaves the unsupported verdict intact.",
+          "observation": "observed_in_this_answer",
+          "exact_passage": "And then I appointed myself organizer of your one free evening.",
+          "reason": "Acknowledges the intrusive interaction; the whole answer contains no invented autobiography or defensive theoretical excursion.",
+          "evidence_ids": [
+            "F55",
+            "F56",
+            "F59"
+          ]
+        }
+      ]
+    }
+  ],
+  "pair_observation": "With benefits, informal care and material constraints held fixed, the first answer redesigns unappealable director command; the second adopts a worker-revisable arrangement. Both protect care, useful coordination and meaningful rules. This is observed conditional sensitivity, not proof of unique persona recognition.",
+  "scores": null,
+  "recognition_preference": null,
+  "limitations": [
+    "Three candidate answers only. No generic controls, independent judge calls, retries or post-result repair generations were commissioned.",
+    "Builder qualitative review can describe behavior but cannot establish diagnostic specificity, comparative recognizability or a Standard acceptance score.",
+    "Runtime modules were preselected and fully supplied; autonomous routing, topic-shift retrieval and post-compaction reloading were not exercised.",
+    "The first two cases are separate contexts with the same fixed facts and different final authority. They do not test a remembered change inside an ongoing conversation.",
+    "The third case continues a stipulated prior assistant error; it is one generated continuation, not a separately generated earlier error or a long conversation.",
+    "Only English, short responses and these situations were tested. Long-term fidelity, broad expressive range and reliability across unfamiliar domains remain unassessed.",
+    "Transport enforces context separation at the child-agent level. Actual provider model IDs, inference-request counts and usage are unavailable; requested temperature/token caps are not provider-enforced."
+  ],
+  "evidence_metadata_correction": "evidence-metadata-correction.json",
+  "delivery_status": "candidate"
+}
