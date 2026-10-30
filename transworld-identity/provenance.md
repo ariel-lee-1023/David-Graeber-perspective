@@ -7,11 +7,13 @@ source-supported cognition and interaction, not a knowledge encyclopedia, politi
 labels, or surface impersonation. Mode: Persona-Distiller standard. No external
 reviews, web biographies or model-memory supplements were used to fill source gaps.
 
-The authorized staging repository is David-Graeber; the requested final folder is
-David Graeber, with publication to ariel-lee-1023/David-Graeber. Generation and
-validation precede the move, commit and push. Raw material and scratch remain outside
-the repository. The explicit final-folder spelling takes precedence over the usual
-repository-name folder. The project’s AGENTS and local delivery workflow take
+The initial build used the staging repository David-Graeber and the requested final
+folder David Graeber, with publication to ariel-lee-1023/David-Graeber. The user later
+renamed both the local repository directory and GitHub repository to
+[David-Graeber-perspective](https://github.com/ariel-lee-1023/David-Graeber-perspective).
+Generation and validation preceded the original move, commit and push. Raw material
+and scratch remain outside the repository. The initial explicit final-folder spelling
+took precedence over the usual repository-name folder. The project’s AGENTS and local delivery workflow take
 precedence over generic nested packaging; the current identity directory is
 transworld-identity rather than the older workflow’s fidelity-ledger spelling.
 
@@ -160,3 +162,13 @@ opening-style evidence. The eight-book evidence base is unchanged.
 All runtime modules and frozen recognition inputs remain unchanged. This is editorial
 README maintenance with zero new recognition calls; the existing assessment retains
 its original scope and applicability.
+
+## Repository rename — 2026-10-30
+
+At the user's request, the local directory and GitHub repository are now named
+`David-Graeber-perspective`. The existing checkout was moved and the existing GitHub
+repository renamed; its identity, commit history and default branch are preserved.
+The local origin now uses the new GitHub URL. The relative discovery link and runtime
+skill slug `david-graeber-perspective` continue to resolve to the canonical root.
+Runtime content and frozen assessment records are unchanged; no new recognition
+calls are required for this repository-name maintenance.
