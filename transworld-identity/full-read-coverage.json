@@ -1,0 +1,1422 @@
+{
+  "scope": "Complete supplied main-body text, including introductions and substantive appendices; notes consulted on demand; no new tests.",
+  "excluded": [
+    "Possibilities in full",
+    "UT There Never Was a West",
+    "UT On the Phenomenology of Giant Puppets",
+    "reference lists, indices, publication advertisements"
+  ],
+  "source_budget": "All eight declared body ranges; endnotes and edition/figure clarification only as needed. No new persona sources, no new OCR, no behavioral tests.",
+  "sources": [
+    {
+      "id": "FR",
+      "filename": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
+      "ranges": [
+        [
+          56,
+          861
+        ]
+      ],
+      "body_words": 26494
+    },
+    {
+      "id": "AN",
+      "filename": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756",
+      "ranges": [
+        [
+          102,
+          1460
+        ]
+      ],
+      "body_words": 51011
+    },
+    {
+      "id": "VA",
+      "filename": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068",
+      "ranges": [
+        [
+          136,
+          3645
+        ]
+      ],
+      "body_words": 128060
+    },
+    {
+      "id": "DE",
+      "filename": "Debt The First 5,000 Years (David Graeber).md",
+      "sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59",
+      "ranges": [
+        [
+          194,
+          5671
+        ]
+      ],
+      "body_words": 168169
+    },
+    {
+      "id": "BJ",
+      "filename": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "sha256": "6f761c8d1889d0f49d1c7c71b60ed758f4198b777f624d7dfac8d09f44299772",
+      "ranges": [
+        [
+          107,
+          2675
+        ]
+      ],
+      "body_words": 104724
+    },
+    {
+      "id": "UR",
+      "filename": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "sha256": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c",
+      "ranges": [
+        [
+          119,
+          1306
+        ]
+      ],
+      "body_words": 69198
+    },
+    {
+      "id": "DA",
+      "filename": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930",
+      "ranges": [
+        [
+          194,
+          6509
+        ]
+      ],
+      "body_words": 199452
+    },
+    {
+      "id": "UT",
+      "filename": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8",
+      "ranges": [
+        [
+          231,
+          338
+        ],
+        [
+          569,
+          1414
+        ],
+        [
+          1726,
+          2226
+        ]
+      ],
+      "body_words": 74868
+    }
+  ],
+  "chunks": [
+    {
+      "id": "FR-01",
+      "source": "FR",
+      "words": 5994,
+      "sha256": "b627e559370e1f0c9737edde09f3611bb35a7e37ecb81c59e1ca6fe3070cea85",
+      "first_locator": "L56",
+      "last_locator": "L251",
+      "status": "read_in_full"
+    },
+    {
+      "id": "FR-02",
+      "source": "FR",
+      "words": 5990,
+      "sha256": "83fe41c2009b314aaf536b7c326f2cd936bc263b6918d12eb719d07108791b7e",
+      "first_locator": "L252",
+      "last_locator": "L441",
+      "status": "read_in_full"
+    },
+    {
+      "id": "FR-03",
+      "source": "FR",
+      "words": 5902,
+      "sha256": "9a63ac68aa0bed0394556237a6541d63f3e0b8959c6fdfae2090eddcba768613",
+      "first_locator": "L442",
+      "last_locator": "L601",
+      "status": "read_in_full"
+    },
+    {
+      "id": "FR-04",
+      "source": "FR",
+      "words": 5961,
+      "sha256": "3a629bb7b8bfe665f181fbfda7d352105db83edbf87d65f0d0757155432da86f",
+      "first_locator": "L602",
+      "last_locator": "L801",
+      "status": "read_in_full"
+    },
+    {
+      "id": "FR-05",
+      "source": "FR",
+      "words": 2647,
+      "sha256": "f154599beed194245f03ee7ce6648441d46a408578862f98eaffb68bb5fb1793",
+      "first_locator": "L802",
+      "last_locator": "L861",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-01",
+      "source": "AN",
+      "words": 5937,
+      "sha256": "2ea76244190a507d77ea48af1db302a088e12490c9c5b8a078b2ff0583e9581c",
+      "first_locator": "L102",
+      "last_locator": "L261",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-02",
+      "source": "AN",
+      "words": 5995,
+      "sha256": "67b7a6b13a3bb6b160227c407bd115daa8dac2586d2e09b3efabe37535ca7047",
+      "first_locator": "L262",
+      "last_locator": "L409",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-03",
+      "source": "AN",
+      "words": 5997,
+      "sha256": "8fcfdf85bb32c2a9030d9c4f5d3ffe81a5ec1068b5996c0ee38c0255872f19b0",
+      "first_locator": "L410",
+      "last_locator": "L527",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-04",
+      "source": "AN",
+      "words": 5986,
+      "sha256": "ffe96929e3377365b95999751ec79649f1aeca1337e65b20b5eeaca70cb817c6",
+      "first_locator": "L528",
+      "last_locator": "L689",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-05",
+      "source": "AN",
+      "words": 5994,
+      "sha256": "605a49f37929099f85c723953e033983ea39a727bdf6bd3fd21a00e46c174264",
+      "first_locator": "L690",
+      "last_locator": "L849",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-06",
+      "source": "AN",
+      "words": 5972,
+      "sha256": "84a24cb139c405ca23dd74746b9a1ca170a4538e0c61ce07e5aed60341232fd8",
+      "first_locator": "L850",
+      "last_locator": "L1007",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-07",
+      "source": "AN",
+      "words": 5807,
+      "sha256": "591823754e33af72ed0a3c89d7ee1aa9342e55ba743d884f265ac992d2c62420",
+      "first_locator": "L1008",
+      "last_locator": "L1167",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-08",
+      "source": "AN",
+      "words": 6000,
+      "sha256": "dfc9ade6ff54e85b5b2bfe3812cb1311219c867bee839b194da00de97a1c2991",
+      "first_locator": "L1168",
+      "last_locator": "L1347",
+      "status": "read_in_full"
+    },
+    {
+      "id": "AN-09",
+      "source": "AN",
+      "words": 3323,
+      "sha256": "1b16a67f216bcd7cd38c958c0c0ddda7d44088427c811b9d573f5d61332fa48a",
+      "first_locator": "L1348",
+      "last_locator": "L1460",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-01",
+      "source": "VA",
+      "words": 5974,
+      "sha256": "f441586c75e086d153da1a5e2bce20db761ff41831444147e24c13218b12eaa6",
+      "first_locator": "L136",
+      "last_locator": "L345",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-02",
+      "source": "VA",
+      "words": 5880,
+      "sha256": "c34ca9191e74bea3e009aeb14ba1a61c11fa731d92fe1b5e9da833add25ee247",
+      "first_locator": "L346",
+      "last_locator": "L485",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-03",
+      "source": "VA",
+      "words": 5911,
+      "sha256": "7cf9d08374f5c0b586e0d403c0fc02b4ab735bf05bb2b19aae60d7bd680b4b59",
+      "first_locator": "L486",
+      "last_locator": "L655",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-04",
+      "source": "VA",
+      "words": 5912,
+      "sha256": "94b830e2fb2d6589425b8123cbba1ae01d34ce5bce434029a28fa94e2575d125",
+      "first_locator": "L656",
+      "last_locator": "L807",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-05",
+      "source": "VA",
+      "words": 5982,
+      "sha256": "6338b9681d0fe9e0a8d61b45eedbce251d58166cfaffb1bde15c310e59b0182f",
+      "first_locator": "L808",
+      "last_locator": "L979",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-06",
+      "source": "VA",
+      "words": 5979,
+      "sha256": "41d316c4f54151e7651c999bec18fa1f7aacef1d6a29be0b3379df6d05d81fec",
+      "first_locator": "L980",
+      "last_locator": "L1147",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-07",
+      "source": "VA",
+      "words": 5995,
+      "sha256": "cbf2a73b56fe68f299a58f5a476143f77cc9e1344c8d69e307580346a40ef5e3",
+      "first_locator": "L1148",
+      "last_locator": "L1329",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-08",
+      "source": "VA",
+      "words": 5921,
+      "sha256": "e31c886f4a5bfaef761ba68b906be82ddb94e1389843fa2af2002291badbed57",
+      "first_locator": "L1330",
+      "last_locator": "L1493",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-09",
+      "source": "VA",
+      "words": 5926,
+      "sha256": "acb36227fa688fca55567b1ba2e117bb5ea5bd7fc2c22f2f55b2318b8c86b553",
+      "first_locator": "L1494",
+      "last_locator": "L1665",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-10",
+      "source": "VA",
+      "words": 5900,
+      "sha256": "91be1478c55c1f0a837b5dc3efb9ce8a177eb6a0b96943fc9206d372d68955ae",
+      "first_locator": "L1666",
+      "last_locator": "L1843",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-11",
+      "source": "VA",
+      "words": 5976,
+      "sha256": "d6a6b329d3ab7a2b3a8897bb2271ff99247a9d0508a96de3cb4850c3ac85a317",
+      "first_locator": "L1844",
+      "last_locator": "L2005",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-12",
+      "source": "VA",
+      "words": 5980,
+      "sha256": "ef0f4899386853d971acc18e392a340dcc959689ea7b9ed27a6520b465809029",
+      "first_locator": "L2006",
+      "last_locator": "L2187",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-13",
+      "source": "VA",
+      "words": 5949,
+      "sha256": "f411cb4cffeb55425ac5ae2499f4a11cd4f9c582a158cb7a542efd94a801595b",
+      "first_locator": "L2188",
+      "last_locator": "L2359",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-14",
+      "source": "VA",
+      "words": 5945,
+      "sha256": "e38a6fcd1ad95e71d79628d4abdd587388aa0ec493fc468f3b56a4f1f644e78b",
+      "first_locator": "L2360",
+      "last_locator": "L2513",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-15",
+      "source": "VA",
+      "words": 5940,
+      "sha256": "1dccc34f358feec0390329c71626b7cb814ab7ef96380f37e1efee2c85fe3b74",
+      "first_locator": "L2514",
+      "last_locator": "L2675",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-16",
+      "source": "VA",
+      "words": 5931,
+      "sha256": "4fe4736a7249e51dfa496df76091250c9c4900961563ce6de9c4fb7bd5fc88a0",
+      "first_locator": "L2676",
+      "last_locator": "L2833",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-17",
+      "source": "VA",
+      "words": 5928,
+      "sha256": "89482ce214f86384eeb356b160c950cba3dba78c89a0bddef08816f1c06fa476",
+      "first_locator": "L2834",
+      "last_locator": "L2983",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-18",
+      "source": "VA",
+      "words": 5773,
+      "sha256": "5045c3a37ed22f77152efb2c35ee30f043b56daf24793c5f116ac8dd97a1978e",
+      "first_locator": "L2984",
+      "last_locator": "L3141",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-19",
+      "source": "VA",
+      "words": 5837,
+      "sha256": "e0b87d574ba623af93fc0c174084c8957d1d46844c07b0f9aba34776dd75fdfe",
+      "first_locator": "L3142",
+      "last_locator": "L3287",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-20",
+      "source": "VA",
+      "words": 5849,
+      "sha256": "1d869cf96117027deebe159f48853c6654738fee06f9027bfb377ef35223acb3",
+      "first_locator": "L3288",
+      "last_locator": "L3433",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-21",
+      "source": "VA",
+      "words": 5870,
+      "sha256": "d9ceae1fe089dd9c0bb1b8d96f17d3778a459acdaa397decc0b661e77e7f9b4d",
+      "first_locator": "L3434",
+      "last_locator": "L3561",
+      "status": "read_in_full"
+    },
+    {
+      "id": "VA-22",
+      "source": "VA",
+      "words": 3702,
+      "sha256": "37581c4d5409ea3118f4dcd2a325eb6816ea0fbbe6237b848785084b57475ecd",
+      "first_locator": "L3562",
+      "last_locator": "L3645",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-01",
+      "source": "DE",
+      "words": 5927,
+      "sha256": "973476de2d9c52d58dde5cf877c4d2beb08f5d91923dcce6d72341565612161b",
+      "first_locator": "L194",
+      "last_locator": "L395",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-02",
+      "source": "DE",
+      "words": 5892,
+      "sha256": "0c8c902c44e7e4a4315c80b14d195f2d1ecf46ed0a33ccda8e572441b4460bc4",
+      "first_locator": "L396",
+      "last_locator": "L613",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-03",
+      "source": "DE",
+      "words": 5978,
+      "sha256": "8f01b0e5c4f4af1efe2acf9bb5c667e6e095996301b92034ba48f1229cc574c1",
+      "first_locator": "L614",
+      "last_locator": "L821",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-04",
+      "source": "DE",
+      "words": 5995,
+      "sha256": "6b6b871e092638384118f2f5f058a25760818adedbbb9cd42319ae2ddd7b259e",
+      "first_locator": "L822",
+      "last_locator": "L971",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-05",
+      "source": "DE",
+      "words": 5996,
+      "sha256": "2ae436078555b1526034c5e3ae92b8aa13ed119ee0996589fd1cc38833de34a7",
+      "first_locator": "L972",
+      "last_locator": "L1167",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-06",
+      "source": "DE",
+      "words": 5967,
+      "sha256": "f8bf0f69175cf54b2ded2f760afa85bcf130a17d35e5acb5cd038db0b793aa04",
+      "first_locator": "L1168",
+      "last_locator": "L1375",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-07",
+      "source": "DE",
+      "words": 5949,
+      "sha256": "f780d5febf8b31e7fa31f722b703ead5218743d7dad1f980c7537a11d26a1609",
+      "first_locator": "L1376",
+      "last_locator": "L1561",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-08",
+      "source": "DE",
+      "words": 5996,
+      "sha256": "12623559b4ef2057671fc5ce4b6bd4233070b13b7bb422c09fcba6fb2da5a007",
+      "first_locator": "L1562",
+      "last_locator": "L1729",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-09",
+      "source": "DE",
+      "words": 5993,
+      "sha256": "feb309f61abe67febfe20ff37c7c33e934bdda1c0c8373e1042f7a322566c842",
+      "first_locator": "L1730",
+      "last_locator": "L1915",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-10",
+      "source": "DE",
+      "words": 5918,
+      "sha256": "38198c15eb1b63de070659c8847fbd4ce6e3abe38bf1dc8c7c95b7b651775e97",
+      "first_locator": "L1916",
+      "last_locator": "L2125",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-11",
+      "source": "DE",
+      "words": 5780,
+      "sha256": "97ae81ba5492faa3819bd0029594323d4baa2eee3c422c4ddda0b652965b606e",
+      "first_locator": "L2126",
+      "last_locator": "L2321",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-12",
+      "source": "DE",
+      "words": 5948,
+      "sha256": "1b63f6379d816074f13a2d46e66983afb08c0dbc8cb801e6a56f3ea5998aa502",
+      "first_locator": "L2322",
+      "last_locator": "L2553",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-13",
+      "source": "DE",
+      "words": 5927,
+      "sha256": "58088b040c70ec46005343904d33c23c06948ef4963fb1b093d91699efaa755e",
+      "first_locator": "L2554",
+      "last_locator": "L2741",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-14",
+      "source": "DE",
+      "words": 5938,
+      "sha256": "cb33df204b326f9c34fc6c7c332d59d438a4a8a9c4c131a64c76a10cb65ffd4a",
+      "first_locator": "L2742",
+      "last_locator": "L2915",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-15",
+      "source": "DE",
+      "words": 5998,
+      "sha256": "59115974a5a850c81c238d4e93e9685caa254bbebc5bb919fc5a0c016a99461f",
+      "first_locator": "L2916",
+      "last_locator": "L3069",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-16",
+      "source": "DE",
+      "words": 5955,
+      "sha256": "8a1461d90e3b586a1eb1645fef19d43e83ea38a752cba632a4b935d54dc7019f",
+      "first_locator": "L3070",
+      "last_locator": "L3273",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-17",
+      "source": "DE",
+      "words": 5867,
+      "sha256": "c90f3813a127e0fac203b0ffde878f10743a54483225c3e02ffdca3ccd5ec490",
+      "first_locator": "L3274",
+      "last_locator": "L3465",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-18",
+      "source": "DE",
+      "words": 5946,
+      "sha256": "4a244879c4b33f6d8707c92aa051635d3bc147465142fc9aa0315a02be6d1bbe",
+      "first_locator": "L3466",
+      "last_locator": "L3671",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-19",
+      "source": "DE",
+      "words": 5837,
+      "sha256": "2f052c00a8378df3bafe0ed0e6bc7c42bb4b8e2745aaf2b62c5f4d5f013e353e",
+      "first_locator": "L3672",
+      "last_locator": "L3835",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-20",
+      "source": "DE",
+      "words": 5982,
+      "sha256": "4b0721e85a47d790c404b7736fc9e6803050a91e9a6aae573163c6bc85f3d76b",
+      "first_locator": "L3836",
+      "last_locator": "L4051",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-21",
+      "source": "DE",
+      "words": 5950,
+      "sha256": "f8197e890fc8387a3298496d72cbec76349fbb25a5ec83b6a118ab642ebe121e",
+      "first_locator": "L4052",
+      "last_locator": "L4243",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-22",
+      "source": "DE",
+      "words": 5898,
+      "sha256": "fad1b264405cc5c38e8da40c8df5942d69d9abd7fa3c868925627147dd0fa059",
+      "first_locator": "L4244",
+      "last_locator": "L4423",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-23",
+      "source": "DE",
+      "words": 5999,
+      "sha256": "dd038c64bc2ab18b18b407fcfb0fc43286a46428d8a6f50c29444b3b6a95b752",
+      "first_locator": "L4424",
+      "last_locator": "L4641",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-24",
+      "source": "DE",
+      "words": 5741,
+      "sha256": "898229794e64bcf3091f04869085185c587246762a799e940be85cddc4472cbd",
+      "first_locator": "L4642",
+      "last_locator": "L4819",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-25",
+      "source": "DE",
+      "words": 5939,
+      "sha256": "ceed91d197f95284eff7147a2e1dc20bfbf0a12faa83e1c726c79b4b0826c9b5",
+      "first_locator": "L4820",
+      "last_locator": "L4991",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-26",
+      "source": "DE",
+      "words": 5913,
+      "sha256": "e6cf695795b192e6a95bff979df49c5ad8965595942fbd05fb54f78482727cb6",
+      "first_locator": "L4992",
+      "last_locator": "L5165",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-27",
+      "source": "DE",
+      "words": 5896,
+      "sha256": "0bb07cd39e1859b7a0584a9889c0e3f6fb533770e51a142c01da4bce5484da72",
+      "first_locator": "L5166",
+      "last_locator": "L5435",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-28",
+      "source": "DE",
+      "words": 5915,
+      "sha256": "8f271f4e85b7f3cbf89dcfe37e86d98f7d0d71492693fa4ad186dfbd134cb468",
+      "first_locator": "L5436",
+      "last_locator": "L5599",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DE-29",
+      "source": "DE",
+      "words": 2129,
+      "sha256": "09f68da777b03d26c090664e7b7b4c16276450e3325ad7c646ae2c8d30eb1c9d",
+      "first_locator": "L5600",
+      "last_locator": "L5671",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-01",
+      "source": "BJ",
+      "words": 5920,
+      "sha256": "f4c2b60b31fdf3ea7401cbeb1c43c0f91aa91cf401d06cc911780bf68b3a4929",
+      "first_locator": "L107",
+      "last_locator": "L261",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-02",
+      "source": "BJ",
+      "words": 5929,
+      "sha256": "fd126b158e6f15a4f7f1170dba071ca131ee3772a2974a0ccb80bca110dafe06",
+      "first_locator": "L262",
+      "last_locator": "L405",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-03",
+      "source": "BJ",
+      "words": 5957,
+      "sha256": "11c9905675459ff4a2d6c499caaaf20ddb098bc71f11f72bd4e7991495174e26",
+      "first_locator": "L406",
+      "last_locator": "L571",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-04",
+      "source": "BJ",
+      "words": 5915,
+      "sha256": "6fe20616d002543e3ddeda74137e682915f13040bfc5497230efcad5de42784e",
+      "first_locator": "L572",
+      "last_locator": "L735",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-05",
+      "source": "BJ",
+      "words": 5876,
+      "sha256": "0206949af281397015ad7d9e3bd970a8f768a7dddc7ae48fb7ab56748aa9b2db",
+      "first_locator": "L736",
+      "last_locator": "L892",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-06",
+      "source": "BJ",
+      "words": 5925,
+      "sha256": "51e12dc2dff8b0a50d7505eb4e3977bae78e2639c6d429322107902ca17bdfda",
+      "first_locator": "L893",
+      "last_locator": "L1029",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-07",
+      "source": "BJ",
+      "words": 5861,
+      "sha256": "2ba41bb32606d38f314123f0fba8a2eb25626885eaef239b7d881e15f573b4b1",
+      "first_locator": "L1030",
+      "last_locator": "L1193",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-08",
+      "source": "BJ",
+      "words": 5933,
+      "sha256": "abb1298aa75477fc75efb6927e75bdc114ae40a5444f676398cd5c688cfb8d5f",
+      "first_locator": "L1194",
+      "last_locator": "L1355",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-09",
+      "source": "BJ",
+      "words": 5996,
+      "sha256": "e9d2eba18b1fb62ff1d162c9fd7ef0c1fd062bfc74e1e84bb07dd125e0f2b709",
+      "first_locator": "L1356",
+      "last_locator": "L1529",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-10",
+      "source": "BJ",
+      "words": 5944,
+      "sha256": "cbccd54ae03867e3ae9d2bed134f12c83adbf7eb9ccede41925789dd943e19f8",
+      "first_locator": "L1530",
+      "last_locator": "L1696",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-11",
+      "source": "BJ",
+      "words": 5847,
+      "sha256": "286e6148007a93bc1e15f994c2afa0c3af171ca17ceae2135f05ab01cbcd15aa",
+      "first_locator": "L1697",
+      "last_locator": "L1837",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-12",
+      "source": "BJ",
+      "words": 5908,
+      "sha256": "6b81bc4a47f237d84769b28de9ce9005e15b5ed4fb47b8aaffbc599d819d34e0",
+      "first_locator": "L1838",
+      "last_locator": "L1979",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-13",
+      "source": "BJ",
+      "words": 5957,
+      "sha256": "282c55855c4721baaa4ecb4616de88e09d33e55079b810f8a730e3316bda4595",
+      "first_locator": "L1980",
+      "last_locator": "L2092",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-14",
+      "source": "BJ",
+      "words": 5988,
+      "sha256": "3b6ebe3c10b0d473472583b3d7c4410f4c65859b50de4f61a604c28c8f16452f",
+      "first_locator": "L2093",
+      "last_locator": "L2233",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-15",
+      "source": "BJ",
+      "words": 5972,
+      "sha256": "be521fe549097306240b41339b4dfc5b8880df9e3f91a11bce968bc5a4513336",
+      "first_locator": "L2234",
+      "last_locator": "L2350",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-16",
+      "source": "BJ",
+      "words": 5860,
+      "sha256": "7eba747b053ee1f650356eac92719261c868393351cb578b2f0be054f9ebae5b",
+      "first_locator": "L2351",
+      "last_locator": "L2473",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-17",
+      "source": "BJ",
+      "words": 5994,
+      "sha256": "cb76c313734177ca7bc9cd937ab5b51bd33211ee2c416df4de7466e1a476d430",
+      "first_locator": "L2474",
+      "last_locator": "L2599",
+      "status": "read_in_full"
+    },
+    {
+      "id": "BJ-18",
+      "source": "BJ",
+      "words": 3942,
+      "sha256": "b66daa26f55085b17773803179e55d40800ac692ec362554475bd153448c4b4d",
+      "first_locator": "L2600",
+      "last_locator": "L2675",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-01",
+      "source": "UR",
+      "words": 5960,
+      "sha256": "39c936c5b4b92ecf76734bb63380ec99bf4e0380c5e8d37d71fef59baf8acf2f",
+      "first_locator": "L119",
+      "last_locator": "L228",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-02",
+      "source": "UR",
+      "words": 5908,
+      "sha256": "de8f00e57a3d0a3ea4c496eaca4fb89835e1455eefa6d3041fee3dea51c00867",
+      "first_locator": "L229",
+      "last_locator": "L320",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-03",
+      "source": "UR",
+      "words": 5969,
+      "sha256": "38b2b7aa1e6b096fc9f66f7155231df2c45bcb263cfbfb2f8d4d37cdef826e1f",
+      "first_locator": "L321",
+      "last_locator": "L412",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-04",
+      "source": "UR",
+      "words": 5973,
+      "sha256": "7ac43e138dabd92d13e9bad8c19dae0a8a16e091d6840642c0f7b1d2d5d5e75b",
+      "first_locator": "L413",
+      "last_locator": "L494",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-05",
+      "source": "UR",
+      "words": 5949,
+      "sha256": "3ea83346821a0e5ba103f5baeeda76dd7d60d478c851a35e02842d209513bd25",
+      "first_locator": "L495",
+      "last_locator": "L604",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-06",
+      "source": "UR",
+      "words": 5724,
+      "sha256": "df9158520eae96d8f906eda8bbc65486da3f309170d1db883c6e25dd6353b3e9",
+      "first_locator": "L605",
+      "last_locator": "L692",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-07",
+      "source": "UR",
+      "words": 5907,
+      "sha256": "87a8697155bd4563c62e075e3e86b84745d24bce5d7f9c49ac1dc35c1fb4e8bf",
+      "first_locator": "L693",
+      "last_locator": "L784",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-08",
+      "source": "UR",
+      "words": 5806,
+      "sha256": "c2bd90b1e0466a1966cf3f2d6e60d4be50f21df6b15b2a914c16ae75b8bfe166",
+      "first_locator": "L785",
+      "last_locator": "L910",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-09",
+      "source": "UR",
+      "words": 5914,
+      "sha256": "473d27cf2aa6b9a84db208278ce584f17b3c01cbdfca3b2afbfeb3f6ab73475a",
+      "first_locator": "L911",
+      "last_locator": "L1054",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-10",
+      "source": "UR",
+      "words": 5996,
+      "sha256": "dd3710e7b91f33604e716197b360c84a9d635212f685e955fc186021cde507f6",
+      "first_locator": "L1055",
+      "last_locator": "L1144",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-11",
+      "source": "UR",
+      "words": 5930,
+      "sha256": "62c7859f80b9fafd2f63efefd1927fd7ca6eee25699b0522818aac943131d9ea",
+      "first_locator": "L1145",
+      "last_locator": "L1236",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UR-12",
+      "source": "UR",
+      "words": 4162,
+      "sha256": "b30c56a59be27352db0607c8d1addce6f10403ade09db03233d6cddfa73592ec",
+      "first_locator": "L1237",
+      "last_locator": "L1306",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-01",
+      "source": "DA",
+      "words": 5995,
+      "sha256": "880a64ee952e7a7a23a3866f77ea356605d62780b5bcca8d79beb231be328bc1",
+      "first_locator": "L194",
+      "last_locator": "L409",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-02",
+      "source": "DA",
+      "words": 6000,
+      "sha256": "acb523f40076d223495d936d42420c4847f41bfba6ff65712864d4a37e2858e3",
+      "first_locator": "L410",
+      "last_locator": "L603",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-03",
+      "source": "DA",
+      "words": 5883,
+      "sha256": "0b74d5742019b2b7c7c7f26978aeebc7a10b37d3c438b90c6160beb84cf62d11",
+      "first_locator": "L604",
+      "last_locator": "L795",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-04",
+      "source": "DA",
+      "words": 5995,
+      "sha256": "2363bb9fdff7625cfebc88edf52cbc4983aa2b5de96db8b2cb4ebd9bd3d72f7c",
+      "first_locator": "L796",
+      "last_locator": "L989",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-05",
+      "source": "DA",
+      "words": 5890,
+      "sha256": "248d087b91ed40e4a0b13b5765fb733d5c928943c336e8ddaa544a9635bfe2ce",
+      "first_locator": "L990",
+      "last_locator": "L1181",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-06",
+      "source": "DA",
+      "words": 5988,
+      "sha256": "bae4f4212aa64461a0cdfa09fd1db5c040a9acd4ee96b57a68056311a4378be4",
+      "first_locator": "L1182",
+      "last_locator": "L1385",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-07",
+      "source": "DA",
+      "words": 5938,
+      "sha256": "02ecacc6eb0847b14ff617325aea8bd3a4e46ea14bc6bd3d29c5dbeb892a6888",
+      "first_locator": "L1386",
+      "last_locator": "L1569",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-08",
+      "source": "DA",
+      "words": 5964,
+      "sha256": "67c2cadaea4e19b9e6a65de4169a3ca489962b08fcf1f4485dc257c024058ddd",
+      "first_locator": "L1570",
+      "last_locator": "L1775",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-09",
+      "source": "DA",
+      "words": 5854,
+      "sha256": "24baf5a7830af44fdfd16d583853923da3d2d28b8743f88fc8711b50d7b174df",
+      "first_locator": "L1776",
+      "last_locator": "L1951",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-10",
+      "source": "DA",
+      "words": 5939,
+      "sha256": "3caefc4295414369a0dfe36538d6783a98e162d8787a7a001bd9b02645be59b8",
+      "first_locator": "L1952",
+      "last_locator": "L2145",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-11",
+      "source": "DA",
+      "words": 5928,
+      "sha256": "754b50d67d04c10a6f328513031129f607e2a5abb63a171293819d5c975b01cf",
+      "first_locator": "L2146",
+      "last_locator": "L2363",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-12",
+      "source": "DA",
+      "words": 5975,
+      "sha256": "59eefe8eb5c2a89adaef742cf42613d4f204ed94c630e264f9e90699e4a3ebc3",
+      "first_locator": "L2364",
+      "last_locator": "L2553",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-13",
+      "source": "DA",
+      "words": 5905,
+      "sha256": "7ab2452c5e3fc1f9a3466e54f49007e239a155889c427ea377299dad411bb7e6",
+      "first_locator": "L2554",
+      "last_locator": "L2743",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-14",
+      "source": "DA",
+      "words": 5859,
+      "sha256": "59aac718bf5cd394432e9b37cd152de8302bf775a75dc2a9c28825e460ad923d",
+      "first_locator": "L2744",
+      "last_locator": "L2939",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-15",
+      "source": "DA",
+      "words": 5896,
+      "sha256": "f759881ccf01861e69baaa900ce5eb4587ef5808690d7b6fc2042ab27a6fdd1d",
+      "first_locator": "L2940",
+      "last_locator": "L3141",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-16",
+      "source": "DA",
+      "words": 5985,
+      "sha256": "76d4b114192a6c1275110a458467a3b065d6eb9a43f2e95a60a7d0ef6e01cd4d",
+      "first_locator": "L3142",
+      "last_locator": "L3333",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-17",
+      "source": "DA",
+      "words": 5856,
+      "sha256": "baf35d09bb3e0c8db2ff5fa0085920b1e65357193eafe51edf86a7220e139895",
+      "first_locator": "L3334",
+      "last_locator": "L3527",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-18",
+      "source": "DA",
+      "words": 5974,
+      "sha256": "ab2fa222d87bbfd61097ed63e10bd5e5a8bc74fdd5dc91c2ef3742b4ba59e215",
+      "first_locator": "L3528",
+      "last_locator": "L3723",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-19",
+      "source": "DA",
+      "words": 5953,
+      "sha256": "9fb9a0d82eb8f60d94fd0ebeb4cea24ebddd6051d3376d187e910cfbfa1b1097",
+      "first_locator": "L3724",
+      "last_locator": "L3907",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-20",
+      "source": "DA",
+      "words": 5974,
+      "sha256": "3f8a92728225cab7afd1ac5c2cbcc18182fce0ede2ea682ff3eecee09069df38",
+      "first_locator": "L3908",
+      "last_locator": "L4087",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-21",
+      "source": "DA",
+      "words": 5892,
+      "sha256": "20d822e6956139d8d5c5fd76697c60cfff02e9f612878d22fad266e97478c78a",
+      "first_locator": "L4088",
+      "last_locator": "L4279",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-22",
+      "source": "DA",
+      "words": 5960,
+      "sha256": "52a470bf085ecfc017b359fada96f88ae1cc6ef046e00d4924dd9976ba9f3917",
+      "first_locator": "L4280",
+      "last_locator": "L4481",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-23",
+      "source": "DA",
+      "words": 5903,
+      "sha256": "da0befae98a3d55cbcfeed310a5bca48ade8ce45baa8fdeb01c0261a023255e7",
+      "first_locator": "L4482",
+      "last_locator": "L4667",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-24",
+      "source": "DA",
+      "words": 5980,
+      "sha256": "3fb68ae44bf828bdeeb29064d9a8a5b15140f1e914fe2df8f2ec0571e221f093",
+      "first_locator": "L4668",
+      "last_locator": "L4853",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-25",
+      "source": "DA",
+      "words": 5993,
+      "sha256": "0918c2133c4d7677b39a0abbe2dcc1823fa2de1cd0a0304c3e11c4a777cf21c6",
+      "first_locator": "L4854",
+      "last_locator": "L5023",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-26",
+      "source": "DA",
+      "words": 5909,
+      "sha256": "19e3a441415cbd21b4a5ad0a78e134bb9481fd4be981e2c6b253943f4f5f0d95",
+      "first_locator": "L5024",
+      "last_locator": "L5181",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-27",
+      "source": "DA",
+      "words": 5879,
+      "sha256": "7c762d5fae76523f88a2a08a87f8e4bcb5d7cae527a3b15bd11dbea41c5d01c2",
+      "first_locator": "L5182",
+      "last_locator": "L5345",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-28",
+      "source": "DA",
+      "words": 5961,
+      "sha256": "84ba05f68d3a369f783bc69cda5ed87a392be8fd161c64b1c2dfa324777bcea5",
+      "first_locator": "L5346",
+      "last_locator": "L5517",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-29",
+      "source": "DA",
+      "words": 5954,
+      "sha256": "b61c6d3ac79b23821139148f9986c9229f180553ca3b730a56ee4116b968b803",
+      "first_locator": "L5518",
+      "last_locator": "L5719",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-30",
+      "source": "DA",
+      "words": 5992,
+      "sha256": "c548466780ad446cb77e39c4b93998aefb2c16d82f51b87fb313288f83288fb4",
+      "first_locator": "L5720",
+      "last_locator": "L5891",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-31",
+      "source": "DA",
+      "words": 5880,
+      "sha256": "32072b545dd15b068afb9e5c026a64d75a1b717fd3d7f222106115bfcc826ca4",
+      "first_locator": "L5892",
+      "last_locator": "L6073",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-32",
+      "source": "DA",
+      "words": 5858,
+      "sha256": "b98c2946a696fde9ee9d78a331d602cb9f3433e5cb900d74370d40b0fc8960dc",
+      "first_locator": "L6074",
+      "last_locator": "L6245",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-33",
+      "source": "DA",
+      "words": 5879,
+      "sha256": "0fa42879360255246bf850742e4f1a7dddf3cd0c7fa4372f5528367f335c6b07",
+      "first_locator": "L6246",
+      "last_locator": "L6401",
+      "status": "read_in_full"
+    },
+    {
+      "id": "DA-34",
+      "source": "DA",
+      "words": 3661,
+      "sha256": "ebe3946b1e0c514a780dca83f7328572c29428aa0d064b60954fc524990150dc",
+      "first_locator": "L6402",
+      "last_locator": "L6509",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-01",
+      "source": "UT",
+      "words": 4346,
+      "sha256": "c7403abe229a7086da47d9745083b51ceac1617547d9eedb6c650edba4a9fbbc",
+      "first_locator": "L231",
+      "last_locator": "L338",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-02",
+      "source": "UT",
+      "words": 5949,
+      "sha256": "bb151b347dfb8ed7588d8768cb67dfd99e1d93aed8eea609b79c65bfdeebdf05",
+      "first_locator": "L569",
+      "last_locator": "L632",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-03",
+      "source": "UT",
+      "words": 5914,
+      "sha256": "c3bf8754399f1484675485b243bab65ef277e10f497ec48ee4607483719532c1",
+      "first_locator": "L633",
+      "last_locator": "L723",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-04",
+      "source": "UT",
+      "words": 5834,
+      "sha256": "26179382f91b6adca94d4ac4c74f3c1abbac39d04c16b2135b97066d86512ea6",
+      "first_locator": "L724",
+      "last_locator": "L845",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-05",
+      "source": "UT",
+      "words": 5992,
+      "sha256": "8201a7a61fd48f60d448a9a04e0da56d9fcfb107e67d347d8b94906f9546e8ec",
+      "first_locator": "L846",
+      "last_locator": "L961",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-06",
+      "source": "UT",
+      "words": 5992,
+      "sha256": "1c39407f49cf6d9557f7a2d794bceef226eb31c0018aa5a69694b07e706ad4b5",
+      "first_locator": "L962",
+      "last_locator": "L1074",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-07",
+      "source": "UT",
+      "words": 5770,
+      "sha256": "bd9798d136a2e4cec56e2050e1ca0b55e2c1743bd563245db4ff52142835f16a",
+      "first_locator": "L1075",
+      "last_locator": "L1182",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-08",
+      "source": "UT",
+      "words": 5805,
+      "sha256": "9844bfb66792de116c507bad5a0efec17c44001ffee3aced6ce6145cd9a04100",
+      "first_locator": "L1183",
+      "last_locator": "L1286",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-09",
+      "source": "UT",
+      "words": 4509,
+      "sha256": "cecc78712dafd0f3aa832ab211bb80f1645716e7371287c64fc0d8a2379e4632",
+      "first_locator": "L1287",
+      "last_locator": "L1414",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-10",
+      "source": "UT",
+      "words": 5887,
+      "sha256": "bfd35e7f4f3a8979777cc8e62873b474e26b9986b93126b0645c5ce7a186b78f",
+      "first_locator": "L1726",
+      "last_locator": "L1835",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-11",
+      "source": "UT",
+      "words": 5987,
+      "sha256": "89e9534d7a7a13c5a8f8c47a6e9c227776493e7f653b7a6a56881dc28ce587cb",
+      "first_locator": "L1836",
+      "last_locator": "L1952",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-12",
+      "source": "UT",
+      "words": 5947,
+      "sha256": "4b2c22ee840c911c86aaa73631a584ff002566a4f713a8f65654dbd61108cb98",
+      "first_locator": "L1953",
+      "last_locator": "L2066",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-13",
+      "source": "UT",
+      "words": 5990,
+      "sha256": "5ab15f9d2a16d52ae2d8bb2b9a3abadb924507695ccc162803e0b09ac5b9ba97",
+      "first_locator": "L2067",
+      "last_locator": "L2196",
+      "status": "read_in_full"
+    },
+    {
+      "id": "UT-14",
+      "source": "UT",
+      "words": 946,
+      "sha256": "ec6db25f0888cd3b7cec1c3cb50dfe34ac767403b8aac3b2dd15b1a075a61793",
+      "first_locator": "L2197",
+      "last_locator": "L2226",
+      "status": "read_in_full"
+    }
+  ],
+  "schema_version": 1,
+  "revision": "full-read-01",
+  "total_body_words": 821976,
+  "all_body_chunks_read": true,
+  "word_count_method": "Whitespace-delimited tokens in the selected Markdown ranges, including markup and editorial context; approximate English-word count, not a fidelity measure.",
+  "reading_method": "Sequential full display and reading of 143 bounded chunks, acknowledged only after reading; truncated displays reread. Per-chunk extraction notes and raw text remain local scratch.",
+  "authorship_limits": [
+    "AN foreword and UT editorial opening are contextual reading, not Graeber self-description.",
+    "DA is joint work with David Wengrow.",
+    "UT includes translated/edited dialogue, coauthored art texts and posthumous publication.",
+    "UT excluded two identified Possibilities reprints; repeated UR/BJ material was read but is not independent corroboration."
+  ],
+  "verification_limits": [
+    "Not a full reading of bibliographies, indices or all endnotes.",
+    "Not a page-by-page comparison of all transcriptions against original editions.",
+    "Reading acknowledgments document the process; hashes alone do not independently prove semantic understanding."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "source_id": "FR",
+      "filename": "Fragments of an Anarchist Anthropology (David Graeber).md",
+      "historical_build_sha256": "e26c6d4f2756544ef64b90b18ee477df9c178856df2ef174e57194d2032ed76a",
+      "current_cleaned_sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "AN",
+      "filename": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "historical_build_sha256": "352dbddcaf59b8522d1aa5948ca30216baf599d837d541801c801a2d19525f27",
+      "current_cleaned_sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "VA",
+      "filename": "Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "historical_build_sha256": "d706c004ea23dc647cd8a98609a305007b5bc902f57e9e44d8ec55758858ee86",
+      "current_cleaned_sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "DE",
+      "filename": "Debt The First 5,000 Years (David Graeber).md",
+      "historical_build_sha256": "6210cd0a2c1e2492cf1164428f6f66bb773867e95ceb01c09324e4f4093ed8eb",
+      "current_cleaned_sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "BJ",
+      "filename": "Bullshit Jobs The Rise of Pointless Work, and What We Can Do About It (David Graeber).md",
+      "historical_build_sha256": "fcd470e67fc37b1132f5ff3d18c537ca803b7f66700dd54a100772149fe918b1",
+      "current_cleaned_sha256": "6f761c8d1889d0f49d1c7c71b60ed758f4198b777f624d7dfac8d09f44299772",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "UR",
+      "filename": "The Utopia of Rules On Technology, Stupidity, and the Secret Joys of Bureaucracy (David Graeber).md",
+      "historical_build_sha256": "e92a09b69d17798a669aa19a4372b123be684410575f19a8dd4be965469e6abb",
+      "current_cleaned_sha256": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "DA",
+      "filename": "The Dawn of Everything A New History of Humanity (David Graeber, David Wengrow).md",
+      "historical_build_sha256": "bec19e30b9ed7f5c4b990a8c300a576dfc0507bbb6ad84f78b278db46a8422b0",
+      "current_cleaned_sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    },
+    {
+      "source_id": "UT",
+      "filename": "The Ultimate Hidden Truth of the World... Essays (David Graeber).md",
+      "historical_build_sha256": "6740fc4c7936c8a49a44d90a2c902ac070d9b47cfbf6fbf467a5ffbee94c25cb",
+      "current_cleaned_sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8",
+      "historical_locator_domain": "Original transcription before English cleanup; E01–E55 and frozen build-01 use these old line numbers.",
+      "current_locator_domain": "Cleaned supplied transcription; F01–F59 and full-read coverage use these current line numbers.",
+      "historical_backup_hash_verified": true,
+      "same_number_is_not_a_line_mapping": true
+    }
+  ],
+  "note": "No source was edited by this upgrade. Both supplied versions were hashed locally. Source files are not distributed."
+}

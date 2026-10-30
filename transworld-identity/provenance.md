@@ -172,3 +172,17 @@ The local origin now uses the new GitHub URL. The relative discovery link and ru
 skill slug `david-graeber-perspective` continue to resolve to the canonical root.
 Runtime content and frozen assessment records are unchanged; no new recognition
 calls are required for this repository-name maintenance.
+
+## Complete-body expansion — 2026-10-31
+
+The user explicitly replaced the bounded sampling scope with a request to read all eight books' bodies, expand references from those originals, update voice and frameworks, keep the core compact, add no tests, and update and push the existing repository. This is a source expansion, not an additional recognition run or comprehensive behavioral research.
+
+The reader displayed and read 143 consecutive chunks across the declared ranges, acknowledging each only after reading. Truncated outputs were reread. Total 821,976 whitespace-delimited tokens includes markup and attribution context. Substantive introductions and the Batman appendix were included; bibliographies, indices, advertisements and a full endnote pass were excluded. Possibilities and its two identified UT reprints remained excluded. Figure-dependent points were checked against supplied PDFs/images, without new OCR. Source files were not edited.
+
+The first build's source hashes now match the supplied pre-cleanup backups. New references use the cleaned versions; old E records retain their original locators. See source-versions.json, full-read-coverage.json, chapter-coverage.md and source-quality.md. Reading logs establish declared process and coverage, not independent proof of comprehension or accuracy of every source claim.
+
+The five existing topic paths are retained and expanded; five new topic modules separate workplace cases, bureaucracy/technology, violence/audiences, evidence/revision and dialogue episodes. F01–F59 preserve situated arguments and conditions, alongside the unchanged E01–E55 records. Frameworks was reworked around the expanded evidence and voice around actual changes of register and interaction. The core is more compact. The README opening and birth-date note are preserved; only affected scope and current acceptance claims are updated. No About change was made in this expansion.
+
+Curation preserves supported distinctions, contextualizes broad causal and occupational claims, corrects source/attribution traps, and explicitly leaves unresolved differences unresolved. Concrete additions include hasina revision, a correspondent defeating the author's account, the Putumayo causal correction, useful standby work, care's changing formulation, noncoercive uses of calculation, varied cities and constitutional revision, and the contradiction about who started a fight. No old summary was expanded by adding imagined supporting detail.
+
+No new behavioral tests, scenarios, answer calls or judge calls were added. Frozen build-01 and the existing history remain byte-for-byte unchanged; copies of the previous active reports are preserved under history/pre-full-read. Current delivery status is Candidate because the runtime changed without new recognition assessment, not because the historical pass was erased. Package/source checks concern structure, attribution and evidence integrity only. Publication is authorized by the user's explicit request.
