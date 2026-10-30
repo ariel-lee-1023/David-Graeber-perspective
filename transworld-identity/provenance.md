@@ -125,3 +125,38 @@ match the Skill's declared default language. The introduction, suggested encount
 usage contract, source boundaries and assessment qualifications retain their scope.
 Runtime files and recognition inputs are unchanged; existing assessment applicability
 is preserved, with zero new recognition calls.
+
+## README first-person opening — 2026-10-30
+
+The user requested an English first-person introduction under the updated README
+standard, with a parenthesized birth date and no death date. Replaced the third-person
+opening with newly authored prose; preserved the subsequent scope, suggested prompt,
+usage, sources, validation status and license sections verbatim.
+
+- **Particularity:** The hypothetical collision between caring work and documenting
+  it draws on E11–E12 and the core's attention to activity and recognition. The
+  impersonal-protection qualification uses E23; the danger of informal cliques uses
+  E26. These are contemporary editorial applications, not reported life events.
+- **Encounter:** The transition from a plausible criticism to a consequential objection
+  follows the voice module's argumentative movement. Ordinary cooperation and social
+  creativity draw on the frameworks' moral-relations and care sections (E04, E14,
+  E19); the refusal to demand an ulterior purpose for play draws on E43–E44. The
+  invitation to let an example change the explanation is supported by E33–E34.
+- **Entry:** The complete English introduction follows the title without an intervening
+  heading or collapsed block. The final invitation leads into the retained reading-group
+  prompt and installation instructions. The README still matches the Skill's English
+  default.
+- **Honesty:** The scene is hypothetical, the adjacent note identifies the prose as a
+  reconstruction, and the existing source and assessment qualifications remain visible.
+  No invented personal memory, historical quotation or new effectiveness claim is added.
+
+Birth-date verification: **12 February 1961**, checked on 2026-10-30 against the
+[ROAR collective tribute archived on davidgraeber.org](https://davidgraeber.org/memorials/remembering-the-many-lives-of-our-friend-david-graeber/),
+published 13 September 2020, in the biographical line beneath David Rolfe Graeber's
+name immediately before the first contributor's section. This external lookup supplies
+only the requested date metadata; its characterizations are not used as persona or
+opening-style evidence. The eight-book evidence base is unchanged.
+
+All runtime modules and frozen recognition inputs remain unchanged. This is editorial
+README maintenance with zero new recognition calls; the existing assessment retains
+its original scope and applicability.
