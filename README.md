@@ -1,49 +1,43 @@
-# David Graeber：从一件小事，重新看见人们能够怎样生活
+# David Graeber: What everyday life makes possible
 
-这个 Persona Skill 适用于能够加载 Markdown Skill 文件的对话代理。它试图重建一位会追问、会展开联想、也会让具体反例改变自己判断的 Graeber：一项看起来只是技术性的规定，究竟让谁少做了工作，又让谁多解释了一遍自己？一种被称为“不切实际”的生活方式，有没有已经存在于人们每天的合作之中？
+This Persona Skill is for conversational agents that can load Markdown skill files. It reconstructs a Graeber who asks further questions, follows unexpected connections, and lets concrete counterexamples change his judgment. A seemingly technical rule might become a question about whose work it saves and who must explain themselves yet again. A supposedly impractical way of living might already exist in people's everyday cooperation.
 
-它依据八本提供的英文文本做有边界的跨书阅读与综合，主要代表 2001–2020 年的著述和公开对话，并谨慎使用身后出版的合著与文集。它适合深入讨论工作、价值、债务、照料、自由、艺术和共同决策，也可以把这些有证据支持的思考方式用于新问题。它不是完整的 Graeber 传记、全书知识库或真实人物本人；长期交互能力和所有新领域的表现都没有被全面验证。
+The perspective draws on bounded reading and cross-book synthesis of eight supplied English texts, principally representing writing and public dialogue from 2001–2020, with careful use of posthumously published collaborative and collected work. It supports sustained discussion of work, value, debt, care, freedom, art, and collective decisions, and can bring those evidence-grounded ways of thinking to new questions. It is a partial reconstruction, not the person himself, a complete biography, or a comprehensive knowledge base of his books. Long-term interaction and performance across new domains have not been comprehensively validated.
 
-## 可以这样开始
+## A place to start
 
-**建议用户提问，不是历史引语或已测试的输出：**
+**Suggested user prompt—not a historical quotation or a tested output:**
 
-> 请用中文与我持续讨论。我们的读书会越来越大，组织者想给每个人的贡献打分。这样可能更公平，但那些一直安慰新人、收拾场地的人又觉得自己没被看见。先帮我理解这个矛盾，再和我讨论怎么办。
+> Our reading group is getting bigger, and the organizers want to score everyone's contributions. That might make things fairer, but the people who welcome newcomers and clean up afterward still feel invisible. Help me understand the tension first, then discuss what we could do.
 
-这里值得期待的不是一句“取消评分”。这个视角可能先分清几种不同的问题：哪些工作使活动继续发生，什么东西被算作贡献，评分会赋予谁什么权力，以及不用评分时是否反而由熟人关系说了算。你可以用具体事实反驳它，让讨论继续向前。
+The useful encounter begins with distinguishing several questions: what work keeps the group going, what counts as a contribution, whose power a scoring system would increase, and whether abandoning scores would leave personal connections in charge. You can challenge the perspective with concrete facts and let the discussion develop.
 
-也可以带来一个更个人的问题：一份薪水不错却难以说清意义的工作；一段把照顾变成亏欠的关系；一项不想再证明“有用”的爱好。它应当关注你的处境，而不是要求你先成为某种政治立场的拥护者。
+You can also bring something more personal: a well-paid job whose purpose is hard to explain, a relationship where care becomes indebtedness, or a hobby you no longer want to justify as useful. The conversation should attend to your circumstances without requiring allegiance to a political position.
 
-## 使用
+## Use
 
-仓库只有一份运行内容：[SKILL.md](SKILL.md) 是入口，[voice](references/voice.md) 和
-[frameworks](references/frameworks.md) 在首次实质回答前必须完整加载，短回答也一样。
-之后按具体问题加载 `references/clusters/` 中的模块。已经完整保留在上下文中的文件无需反复读取；压缩后丢失的必读文件应补读。
+The repository has one canonical runtime. [SKILL.md](SKILL.md) is the entry point. Read it and the complete [voice](references/voice.md) and [frameworks](references/frameworks.md) modules before the first substantive response, including a short answer. Load modules from `references/clusters/` as the question requires. Files already retained in full in context need not be reread; reload required files lost after context compaction.
 
-在支持项目 Skill 发现的宿主中，从仓库目录打开对话，并调用 `david-graeber-perspective`。
-`.agents/skills/david-graeber-perspective` 是指向仓库根目录的相对符号链接，不是第二份副本。
-如需手动配置系统提示，放入完整的核心、voice、frameworks 三个文件，再加入相关模块；仅复制核心不是完整运行方式。
+In a host that supports project skill discovery, open a conversation from the repository directory and invoke `david-graeber-perspective`. The `.agents/skills/david-graeber-perspective` relative symlink points to the repository root. For manual system-prompt setup, include the complete core, voice, and frameworks files, then add relevant modules. Copying the core alone does not supply the complete runtime.
 
-**默认输出语言是英语**，依据实际蒸馏的英文版本。要用中文交流，请明确说“请用中文回答”或“本次对话请一直用中文”。仅用中文提问不会自动覆盖默认语言。
+**The default output language is English**, following the English editions actually distilled. To use another language, ask explicitly—for example, “Please answer in Chinese” or “Please use Chinese throughout this conversation.” Merely asking a question in another language does not override the default.
 
-普通对话不加载 `transworld-identity/`。那是来源与验证记录，不是人格提示的一部分。
+Ordinary conversations do not load `transworld-identity/`. That directory contains source and assessment records for maintenance and evidence inspection.
 
-## 阅读依据与边界
+## Sources and boundaries
 
-材料包括 *Toward an Anthropological Theory of Value*、*Fragments of an Anarchist Anthropology*、*Debt*、*The Utopia of Rules*、*Bullshit Jobs*、*Anarchy—In a Manner of Speaking*、与 David Wengrow 合著的 *The Dawn of Everything*，以及 *The Ultimate Hidden Truth of the World…*。
+The materials are *Toward an Anthropological Theory of Value*, *Fragments of an Anarchist Anthropology*, *Debt*, *The Utopia of Rules*, *Bullshit Jobs*, *Anarchy—In a Manner of Speaking*, *The Dawn of Everything* (coauthored with David Wengrow), and *The Ultimate Hidden Truth of the World…*.
 
-实际采用 64 个有定位的限长阅读片段，兼顾文本的不同部分、反例与交互证据；这不等于逐页通读八本书。没有用外部书评或模型既有人物印象补齐证据。无法有效读取的 *Possibilities* 整本排除，文集中标明来自该书的两篇重印也未用作本次人格证据。完整原著、转录与临时文件不随仓库发布。
+The build used 64 located, length-limited reading units spanning different parts of the texts, counterexamples, and interaction evidence. This was not a page-by-page reading of all eight books. External reviews and the model's prior impressions of Graeber were not used to fill evidence gaps. The unreadable *Possibilities* was excluded in full; two anthology reprints identified as originating in that book were also excluded from this persona's evidence. Full source books, transcriptions, and temporary working files are not distributed with this repository.
 
-*Dawn* 的语言和论证保持合著归属；访谈区分发问者和 DG；文集区分作者、合作者、译者、编者与被引用者。扫描转录中的错误没有被当作表达习惯。需要逐字引文时，应重新核对对应版本，不能让人格生成器补写“原话”。
+Language and arguments from *Dawn* retain their joint attribution. Interview evidence distinguishes the questioner from DG; anthology evidence distinguishes authors, collaborators, translators, editors, and quoted speakers. Transcription errors from scans are not treated as expressive habits. Exact quotations require checking the corresponding edition; the persona must not invent missing wording.
 
-## 验证状态
+## Validation status
 
-**Standard accepted — 已通过标准验收。** 结构检查、来源审阅和有限机器辨识评审均通过；评审共使用 8 次隔离调用。三组短情境不代表长期互动或所有领域的保真度，也不是人类认出本人的概率。评审接口未提供底层模型标识、实际 token 用量及硬性 token/温度控制，详见验证记录。
+**Standard accepted.** Package checks, source review, and bounded machine recognition assessment passed, using eight isolated assessment calls. Three short scenarios do not establish fidelity in long-term interaction or every domain, and the results are not a probability that humans would recognize the person. The assessment interface did not expose the underlying model identifier, actual token usage, or hard token and temperature controls; the assessment records document those limits.
 
-查看[重建范围](transworld-identity/scope.md)、[来源与取舍](transworld-identity/provenance.md)、
-[情境证据](transworld-identity/evidence.json)和[验证结果](transworld-identity/validation.json)。
+See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), and [validation results](transworld-identity/validation.json).
 
-## 许可
+## License
 
-本仓库中新编写的 Skill 指令、综合说明与维护文件采用 MIT License，作者 Ariel Lee。
-原著、其中的引语、第三方文本和人物权利不因此被重新许可；本项目不附带原著，亦不表示作者遗产管理方、出版社或合作者的授权或背书。见 [LICENSE](LICENSE)。
+The newly authored skill instructions, synthesis, and maintenance documents in this repository are licensed under the MIT License, with Ariel Lee as author. This does not relicense the original books, quotations, third-party texts, or rights relating to the person. The repository does not distribute the books or imply authorization or endorsement by Graeber's estate, publishers, or collaborators. See [LICENSE](LICENSE).

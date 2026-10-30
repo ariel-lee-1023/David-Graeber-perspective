@@ -42,9 +42,10 @@ cleaning. Counts include notes, indices and OCR artifacts and carry no fidelity 
 | UT | The Ultimate Hidden Truth of the World…, McClelland & Stewart, 2025, ISBN 9780771004940 | 10 | Earlier venue dates retained; edited, translated and coauthored material marked |
 
 All substantive distilled editions are English, so the generated persona defaults
-to English. The builder communicates with the user in Chinese, and the reader-facing
-README is Chinese; neither changes that runtime rule. Explicit Chinese output requests
-are honored. The book captions, OCR artifacts and metadata are not style evidence.
+to English. The reader-facing README uses the same language. The builder's Chinese
+conversation with the user does not determine the artifact language. Explicit Chinese
+output requests are honored. The book captions, OCR artifacts and metadata are not
+style evidence.
 
 ## Curation and synthesis
 
@@ -116,3 +117,11 @@ These are internal diagnostic cases, not a held-out study or a comparison agains
 minimal named-persona prompt. Scores are not probabilities of human recognition.
 Long-term conversation, broad factual accuracy and comprehensive research remain
 unassessed. [Validation](validation.json) records the actual outcome and call count.
+
+## README language maintenance — 2026-10-30
+
+At the user's request, the initially Chinese README was translated into English to
+match the Skill's declared default language. The introduction, suggested encounter,
+usage contract, source boundaries and assessment qualifications retain their scope.
+Runtime files and recognition inputs are unchanged; existing assessment applicability
+is preserved, with zero new recognition calls.
