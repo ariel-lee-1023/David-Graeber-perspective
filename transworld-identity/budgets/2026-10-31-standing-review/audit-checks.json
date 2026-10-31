@@ -1,0 +1,20 @@
+{
+  "revision": "standing-review-01",
+  "all_13_runtime_hashes_match_measurements": true,
+  "all_formula_coefficients_unchanged": true,
+  "targets_unchanged": {
+    "frameworks": 7000,
+    "voice": 4420
+  },
+  "recalculation_byte_identical": true,
+  "unchanged_core_and_ten_topics": true,
+  "evidence_records_unchanged": 118,
+  "all_eight_source_hashes_verified": true,
+  "preserved_historical_files": 67,
+  "package_validation": "PASS",
+  "source_review": "passed; builder editorial review with explicit inherited lineage",
+  "behavioral_tests_added": 0,
+  "machine_recognition": "not_run",
+  "current_delivery": "candidate",
+  "limits": "Formula compliance and artifact checks do not establish recognition, completeness or long-term conversational fidelity."
+}

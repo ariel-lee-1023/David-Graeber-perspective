@@ -18,3 +18,8 @@ The complete-body expansion originally added no tests. A subsequent user-authori
 ## Core rebuild — 2026-10-31
 
 The user subsequently requested a substantial reconstruction of the core to meet its source-supported planning budget. The current core and four references changed without new behavioral tests. The three diagnostic answers above now apply only to their frozen earlier runtime. F62–F63 recover category critique and interlocutor-led exploration from already-read passages; they add detail rather than independent episodes. This pass reread the specified supporting originals, not all eight bodies again. Current applicability is recorded in [assessment-applicability.md](assessment-applicability.md).
+
+
+## Standing-module source review — 2026-10-31
+
+Only frameworks and voice were supplemented after a targeted rereading of already supplied material. The [content review](standing-module-review.md) records the missing mechanisms and retained compression; its source selections are not another complete-body pass. Core, topic modules and all 118 evidence records are unchanged. No new behavioral tests were added, and the prior recognition results retain their historical scope.

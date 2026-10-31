@@ -1,0 +1,5793 @@
+{
+  "schema_version": 1,
+  "basis_commit": "0068731dfb9d2d92770f2963e1a8d12a444d15e7",
+  "scope": "Targeted standing-module review from existing eight-book distillation. Only frameworks and voice changed. No new behavioral tests or empirical admission.",
+  "counting_rules": {
+    "items": "Count separately described conceptual distinctions, moves, application situations and located evidence passages in retained modules. Same passage revisited in a module counts once; connected but separate episodes can share an F record. Counts do not measure independent corroboration.",
+    "apparatus": "Named concepts and explicitly labelled conceptual distinctions are assigned a home here; labels are editorial where the runtime says so. This adapts the legacy frameworks-table column to the current prose architecture.",
+    "moves": "Retained source-supported moves, not empirically admitted transfer survivors. All missing transfer and discrimination scores remain null.",
+    "registers": "Editorial occasions already represented in voice and the relevant source genres, not measured statistical families. Planning targets price this declared range; sensitivity to a single family is reported.",
+    "mass": "Audited explicit source spans within a filtered primary-source pool; missing chapter-only spans are omitted, not guessed. Exact counts and filters are recorded separately.",
+    "no_fitting": "Default formula coefficients are unchanged. No input was optimized to make actual sizes pass. Deviations remain visible."
+  },
+  "research_metrics": {
+    "transfer": null,
+    "pressure": null,
+    "discrimination": null,
+    "certified_register_families": null
+  },
+  "clusters": {
+    "action-value": {
+      "path": "references/clusters/action-value.md",
+      "apparatus": [
+        {
+          "item": "moral value",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "economic value",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "meaningful difference",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "value as importance of action",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "imagined whole",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "recognition and condensation of activity",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "rights and capacities of valuables",
+          "evidence_ids": [
+            "F03"
+          ],
+          "source_locators": {
+            "F03": "VA L1410–1779, L3254–3645; DE ch.3; DA ch.10"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f03--objects-do-not-all-confer-the-same-sort-of-power"
+          ]
+        },
+        {
+          "item": "condolence and political hearing",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "fetishism despite knowledge",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "reconstruct rival senses before unifying",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "follow activity to recognition and future action",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "compare imagined order with lived organization",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "separate nonconvertible powers",
+          "evidence_ids": [
+            "F03"
+          ],
+          "source_locators": {
+            "F03": "VA L1410–1779, L3254–3645; DE ch.3; DA ch.10"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f03--objects-do-not-all-confer-the-same-sort-of-power"
+          ]
+        },
+        {
+          "item": "distinguish compensation from replacement",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "recover exchange sequence",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        },
+        {
+          "item": "revise an initially resisted reading",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "metrics and worth",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "invisible contributions",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "titles and property",
+          "evidence_ids": [
+            "F03"
+          ],
+          "source_locators": {
+            "F03": "VA L1410–1779, L3254–3645; DE ch.3; DA ch.10"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f03--objects-do-not-all-confer-the-same-sort-of-power"
+          ]
+        },
+        {
+          "item": "repair after loss",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "gifts and repayment",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        },
+        {
+          "item": "ritual or institutional efficacy",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "rational-choice and structural explanations",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "people-making to care formulation",
+          "evidence_ids": [
+            "F01"
+          ],
+          "source_locators": {
+            "F01": "VA L234–1409; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f01--three-meanings-that-cannot-simply-be-merged"
+          ]
+        },
+        {
+          "item": "Baining feeding and kinship",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "Kayapo ceremony and exclusion",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "unmaintained village organization",
+          "evidence_ids": [
+            "F02"
+          ],
+          "source_locators": {
+            "F02": "VA L850–1779, especially L1380"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f02--recognition-can-create-something-as-well-as-conceal-its-makers"
+          ]
+        },
+        {
+          "item": "Malagasy beads and royal recognition",
+          "evidence_ids": [
+            "F03"
+          ],
+          "source_locators": {
+            "F03": "VA L1410–1779, L3254–3645; DE ch.3; DA ch.10"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f03--objects-do-not-all-confer-the-same-sort-of-power"
+          ]
+        },
+        {
+          "item": "Rene lightning claims",
+          "evidence_ids": [
+            "F03"
+          ],
+          "source_locators": {
+            "F03": "VA L1410–1779, L3254–3645; DE ch.3; DA ch.10"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f03--objects-do-not-all-confer-the-same-sort-of-power"
+          ]
+        },
+        {
+          "item": "wampum condolence sequence",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "compensation and refusal",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "captivity alongside care",
+          "evidence_ids": [
+            "F04"
+          ],
+          "source_locators": {
+            "F04": "VA L1780–2233; DE ch.6; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f04--wampum-grief-and-a-relation-that-cannot-be-priced"
+          ]
+        },
+        {
+          "item": "hau letter and cape",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        },
+        {
+          "item": "Kwakiutl colonial record",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        },
+        {
+          "item": "hasina revision",
+          "evidence_ids": [
+            "F05"
+          ],
+          "source_locators": {
+            "F05": "VA L2234–3645, especially L3324–3382; DE ch.5"
+          },
+          "runtime_sections": [
+            "references/clusters/action-value.md#f05--gifts-magic-and-the-limits-of-debunking"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "scholarly"
+      ],
+      "retention_decision": "Retain rival arguments, distinct ethnographic examples and the difference between efficacy, meaning and social consequence. No passage is removed to reduce the residual.",
+      "counts": {
+        "apparatus": 9,
+        "moves": 7,
+        "applications": 6,
+        "fragments": 13,
+        "registers": 1,
+        "siblings": 9
+      },
+      "runtime_sha256": "8713ead7478abc3b852c0a9201da0176beee46a698c4361727be4e22e84e8ea9"
+    },
+    "obligation-power": {
+      "path": "references/clusters/obligation-power.md",
+      "apparatus": [
+        {
+          "item": "baseline communism",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "exchange",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "hierarchy",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "human economies",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "severance and equivalence",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "bullion-credit alternation",
+          "evidence_ids": [
+            "F09"
+          ],
+          "source_locators": {
+            "F09": "DE L470–785, L3130–5671"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f09--histories-of-money-are-not-one-machine"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "reason inside a lender justification",
+          "evidence_ids": [
+            "F06"
+          ],
+          "source_locators": {
+            "F06": "DE L194–469, especially L210–254; L5640"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f06--stay-with-the-apparently-decent-demand"
+          ]
+        },
+        {
+          "item": "identify the relation an act creates",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "trace enforcement and severance",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "separate historical mechanism from universal origin",
+          "evidence_ids": [
+            "F09"
+          ],
+          "source_locators": {
+            "F09": "DE L470–785, L3130–5671"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f09--histories-of-money-are-not-one-machine"
+          ]
+        },
+        {
+          "item": "rebuild the causal account after new facts",
+          "evidence_ids": [
+            "F10"
+          ],
+          "source_locators": {
+            "F10": "DE L5042, L5112, L5210 and surrounding passages"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f10--a-disturbing-case-changes-the-causal-story"
+          ]
+        },
+        {
+          "item": "separate opening from distribution and implementation",
+          "evidence_ids": [
+            "F11"
+          ],
+          "source_locators": {
+            "F11": "UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f11--a-debate-about-remedies-that-does-not-resolve"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "repayment demands",
+          "evidence_ids": [
+            "F06"
+          ],
+          "source_locators": {
+            "F06": "DE L194–469, especially L210–254; L5640"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f06--stay-with-the-apparently-decent-demand"
+          ]
+        },
+        {
+          "item": "gratitude and open relationships",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "transferable claims on persons",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "money-origin explanations",
+          "evidence_ids": [
+            "F09"
+          ],
+          "source_locators": {
+            "F09": "DE L470–785, L3130–5671"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f09--histories-of-money-are-not-one-machine"
+          ]
+        },
+        {
+          "item": "changed parties to an obligation",
+          "evidence_ids": [
+            "F10"
+          ],
+          "source_locators": {
+            "F10": "DE L5042, L5112, L5210 and surrounding passages"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f10--a-disturbing-case-changes-the-causal-story"
+          ]
+        },
+        {
+          "item": "remedy and loss distribution",
+          "evidence_ids": [
+            "F11"
+          ],
+          "source_locators": {
+            "F11": "UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f11--a-debate-about-remedies-that-does-not-resolve"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "lawyer conversation and imagined replies",
+          "evidence_ids": [
+            "F06"
+          ],
+          "source_locators": {
+            "F06": "DE L194–469, especially L210–254; L5640"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f06--stay-with-the-apparently-decent-demand"
+          ]
+        },
+        {
+          "item": "financier question",
+          "evidence_ids": [
+            "F06"
+          ],
+          "source_locators": {
+            "F06": "DE L194–469, especially L210–254; L5640"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f06--stay-with-the-apparently-decent-demand"
+          ]
+        },
+        {
+          "item": "own student-loan repayment",
+          "evidence_ids": [
+            "F06"
+          ],
+          "source_locators": {
+            "F06": "DE L194–469, especially L210–254; L5640"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f06--stay-with-the-apparently-decent-demand"
+          ]
+        },
+        {
+          "item": "contrasting shopping trips",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "cooperation within authoritarian organizations",
+          "evidence_ids": [
+            "F07"
+          ],
+          "source_locators": {
+            "F07": "DE L1404–1925, especially L1614"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f07--three-relations-can-coexist-at-one-table"
+          ]
+        },
+        {
+          "item": "Lele obligations and capture",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "Tiv refusal and gender hierarchy",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "Atlantic credit and honor",
+          "evidence_ids": [
+            "F08"
+          ],
+          "source_locators": {
+            "F08": "DE L1926–3129"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f08--how-an-unpayable-life-becomes-a-priced-person"
+          ]
+        },
+        {
+          "item": "barter-origin rebuttal",
+          "evidence_ids": [
+            "F09"
+          ],
+          "source_locators": {
+            "F09": "DE L470–785, L3130–5671"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f09--histories-of-money-are-not-one-machine"
+          ]
+        },
+        {
+          "item": "post-1971 complication",
+          "evidence_ids": [
+            "F09"
+          ],
+          "source_locators": {
+            "F09": "DE L470–785, L3130–5671"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f09--histories-of-money-are-not-one-machine"
+          ]
+        },
+        {
+          "item": "Putumayo causal correction",
+          "evidence_ids": [
+            "F10"
+          ],
+          "source_locators": {
+            "F10": "DE L5042, L5112, L5210 and surrounding passages"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f10--a-disturbing-case-changes-the-causal-story"
+          ]
+        },
+        {
+          "item": "Federal Reserve vault",
+          "evidence_ids": [
+            "F10"
+          ],
+          "source_locators": {
+            "F10": "DE L5042, L5112, L5210 and surrounding passages"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f10--a-disturbing-case-changes-the-causal-story"
+          ]
+        },
+        {
+          "item": "brother cash preference",
+          "evidence_ids": [
+            "F10"
+          ],
+          "source_locators": {
+            "F10": "DE L5042, L5112, L5210 and surrounding passages"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f10--a-disturbing-case-changes-the-causal-story"
+          ]
+        },
+        {
+          "item": "Piketty debt cancellation objections",
+          "evidence_ids": [
+            "F11"
+          ],
+          "source_locators": {
+            "F11": "UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f11--a-debate-about-remedies-that-does-not-resolve"
+          ]
+        },
+        {
+          "item": "net-wealth clarification",
+          "evidence_ids": [
+            "F11"
+          ],
+          "source_locators": {
+            "F11": "UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/obligation-power.md#f11--a-debate-about-remedies-that-does-not-resolve"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "public",
+        "scholarly",
+        "dialogue"
+      ],
+      "retention_decision": "Retain the causal correction and unresolved remedy objections; they prevent debt critique becoming a fixed instruction to cancel every obligation.",
+      "counts": {
+        "apparatus": 6,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 15,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "35edd6c76754af23a40285f52795b3859309e09b4bf6b93a679fb65865bc8fd9"
+    },
+    "cooperation-care": {
+      "path": "references/clusters/cooperation-care.md",
+      "apparatus": [
+        {
+          "item": "nonvanguard contribution",
+          "evidence_ids": [
+            "F12"
+          ],
+          "source_locators": {
+            "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f12--an-intellectual-contribution-is-something-others-can-refuse"
+          ]
+        },
+        {
+          "item": "consensus",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "standing aside and blocking",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "care as supporting freedom",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "particular caring attachments",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "unconditional basic income",
+          "evidence_ids": [
+            "F17"
+          ],
+          "source_locators": {
+            "F17": "FR early discussion of policy; BJ L2384–2675"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f17--a-policy-can-open-space-without-becoming-a-blueprint"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "return interpretations for revision",
+          "evidence_ids": [
+            "F12"
+          ],
+          "source_locators": {
+            "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f12--an-intellectual-contribution-is-something-others-can-refuse"
+          ]
+        },
+        {
+          "item": "differentiate dissent and exclusion",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "locate institutional interface",
+          "evidence_ids": [
+            "F14"
+          ],
+          "source_locators": {
+            "F14": "UR ch.1 Direct Action Network car account; AN Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f14--a-democratic-group-can-meet-an-institutional-boundary"
+          ]
+        },
+        {
+          "item": "trace change in concept over time",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "separate attachment from exploitation",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "assess a partial opening conditionally",
+          "evidence_ids": [
+            "F17"
+          ],
+          "source_locators": {
+            "F17": "FR early discussion of policy; BJ L2384–2675"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f17--a-policy-can-open-space-without-becoming-a-blueprint"
+          ]
+        },
+        {
+          "item": "compare means with promised ends",
+          "evidence_ids": [
+            "F60"
+          ],
+          "source_locators": {
+            "F60": "FR L108–152, L696–787; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f60--means-must-make-the-promised-freedom-practicable"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "expertise and common projects",
+          "evidence_ids": [
+            "F12"
+          ],
+          "source_locators": {
+            "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f12--an-intellectual-contribution-is-something-others-can-refuse"
+          ]
+        },
+        {
+          "item": "meetings and dissent",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "organizational constraints",
+          "evidence_ids": [
+            "F14"
+          ],
+          "source_locators": {
+            "F14": "UR ch.1 Direct Action Network car account; AN Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f14--a-democratic-group-can-meet-an-institutional-boundary"
+          ]
+        },
+        {
+          "item": "caring relationships",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "staying in a harmful institution",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "income reform",
+          "evidence_ids": [
+            "F17"
+          ],
+          "source_locators": {
+            "F17": "FR early discussion of policy; BJ L2384–2675"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f17--a-policy-can-open-space-without-becoming-a-blueprint"
+          ]
+        },
+        {
+          "item": "future-freedom promises",
+          "evidence_ids": [
+            "F60"
+          ],
+          "source_locators": {
+            "F60": "FR L108–152, L696–787; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f60--means-must-make-the-promised-freedom-practicable"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "FR critique of vanguard theory",
+          "evidence_ids": [
+            "F12"
+          ],
+          "source_locators": {
+            "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f12--an-intellectual-contribution-is-something-others-can-refuse"
+          ]
+        },
+        {
+          "item": "AN feminist ethics and opinion",
+          "evidence_ids": [
+            "F12"
+          ],
+          "source_locators": {
+            "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f12--an-intellectual-contribution-is-something-others-can-refuse"
+          ]
+        },
+        {
+          "item": "FR response distinctions",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "AN uneven participation",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "Freeman and Finkelstein tension",
+          "evidence_ids": [
+            "F13"
+          ],
+          "source_locators": {
+            "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f13--consensus-depends-on-differentiated-responses-and-actual-access"
+          ]
+        },
+        {
+          "item": "DAN car and fundraiser",
+          "evidence_ids": [
+            "F14"
+          ],
+          "source_locators": {
+            "F14": "UR ch.1 Direct Action Network car account; AN Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f14--a-democratic-group-can-meet-an-institutional-boundary"
+          ]
+        },
+        {
+          "item": "Rojava and parliamentary openings",
+          "evidence_ids": [
+            "F14"
+          ],
+          "source_locators": {
+            "F14": "UR ch.1 Direct Action Network car account; AN Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f14--a-democratic-group-can-meet-an-institutional-boundary"
+          ]
+        },
+        {
+          "item": "VA people-making and AN cup",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "2018 care lecture",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "joint Museum of Care",
+          "evidence_ids": [
+            "F15"
+          ],
+          "source_locators": {
+            "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f15--care-changes-from-an-account-of-activity-into-a-proposal-about-freedom"
+          ]
+        },
+        {
+          "item": "teachers and family commitments",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "unpaid entry and intellectual self-implication",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "hatred and mixed motives",
+          "evidence_ids": [
+            "F16"
+          ],
+          "source_locators": {
+            "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f16--general-emancipation-need-not-abolish-particular-attachments"
+          ]
+        },
+        {
+          "item": "qualified basic-income proposal",
+          "evidence_ids": [
+            "F17"
+          ],
+          "source_locators": {
+            "F17": "FR early discussion of policy; BJ L2384–2675"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f17--a-policy-can-open-space-without-becoming-a-blueprint"
+          ]
+        },
+        {
+          "item": "Candi and Leslie exchange",
+          "evidence_ids": [
+            "F17"
+          ],
+          "source_locators": {
+            "F17": "FR early discussion of policy; BJ L2384–2675"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f17--a-policy-can-open-space-without-becoming-a-blueprint"
+          ]
+        },
+        {
+          "item": "FR means and ends",
+          "evidence_ids": [
+            "F60"
+          ],
+          "source_locators": {
+            "F60": "FR L108–152, L696–787; UR ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/cooperation-care.md#f60--means-must-make-the-promised-freedom-practicable"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "scholarly",
+        "public",
+        "dialogue"
+      ],
+      "retention_decision": "Retain access conditions, institutional interfaces, evolution of care, costs of attachment and the means/ends qualification. These do different work even where they share sources.",
+      "counts": {
+        "apparatus": 6,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 16,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "0de441f1006a795efb518997e3e814c34bce46ce35942d2b9eb4a0f485b132a0"
+    },
+    "history-possibility": {
+      "path": "references/clusters/history-possibility.md",
+      "apparatus": [
+        {
+          "item": "three practical freedoms",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "seasonal authority",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "reversibility of effects",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "ecological constraint",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "sovereignty",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "administrative knowledge",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "personal distinction",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "constitutional refounding",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "care and captivity",
+          "evidence_ids": [
+            "F24"
+          ],
+          "source_locators": {
+            "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f24--care-captivity-and-the-difficulty-of-escaping"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "replace a misleading opposition",
+          "evidence_ids": [
+            "F18"
+          ],
+          "source_locators": {
+            "F18": "DA L234–1715; FR Clastres discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f18--change-the-question-when-the-original-opposition-conceals-the-evidence"
+          ]
+        },
+        {
+          "item": "separate temporary office from irreversible effect",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "retain inconvenient counterexamples",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "compare multiple kinds of material evidence",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "disaggregate state powers",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "follow solutions becoming new constraints",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "preserve historical and normative tension",
+          "evidence_ids": [
+            "F24"
+          ],
+          "source_locators": {
+            "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f24--care-captivity-and-the-difficulty-of-escaping"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "claims of inevitable hierarchy",
+          "evidence_ids": [
+            "F18"
+          ],
+          "source_locators": {
+            "F18": "DA L234–1715; FR Clastres discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f18--change-the-question-when-the-original-opposition-conceals-the-evidence"
+          ]
+        },
+        {
+          "item": "temporary authority",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "ecological or technological determinism",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "scale and centralized rule",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "records and sovereign commands",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "institutional redesign",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "dependence and exit",
+          "evidence_ids": [
+            "F24"
+          ],
+          "source_locators": {
+            "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f24--care-captivity-and-the-difficulty-of-escaping"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "Kandiaronk and mediated accounts",
+          "evidence_ids": [
+            "F18"
+          ],
+          "source_locators": {
+            "F18": "DA L234–1715; FR Clastres discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f18--change-the-question-when-the-original-opposition-conceals-the-evidence"
+          ]
+        },
+        {
+          "item": "Clastres gender and season criticism",
+          "evidence_ids": [
+            "F18"
+          ],
+          "source_locators": {
+            "F18": "DA L234–1715; FR Clastres discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f18--change-the-question-when-the-original-opposition-conceals-the-evidence"
+          ]
+        },
+        {
+          "item": "Nambikwara and Inuit contrasts",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "Plains hunting police",
+          "evidence_ids": [
+            "F19"
+          ],
+          "source_locators": {
+            "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f19--seasonal-freedom-is-real-and-seasonal-coercion-can-still-kill"
+          ]
+        },
+        {
+          "item": "Calusa rulers",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "Northwest Coast and California",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "long cultivation transitions",
+          "evidence_ids": [
+            "F20"
+          ],
+          "source_locators": {
+            "F20": "DA L1716–3619"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f20--ecology-constrains-it-does-not-complete-the-political-explanation"
+          ]
+        },
+        {
+          "item": "Uruk uncertainties",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "Nebelivka and Basque analogy",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "Indus and Bali",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "Shimao and Taosi",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "Teotihuacan housing and captives",
+          "evidence_ids": [
+            "F21"
+          ],
+          "source_locators": {
+            "F21": "DA L3620–4605, especially L4438"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f21--cities-require-evidence-about-organization-not-an-invisible-king"
+          ]
+        },
+        {
+          "item": "Natchez and Shilluk",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "Tell Sabi Abyad",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "ayllu and khipu",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "Minoan interpretation",
+          "evidence_ids": [
+            "F22"
+          ],
+          "source_locators": {
+            "F22": "DA L4606–5533, especially L5308–5344; PDF p.375"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f22--disaggregate-the-state-before-searching-for-its-origin"
+          ]
+        },
+        {
+          "item": "Hopewell and Cahokia",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "Osage revisions",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "Haudenosaunee refounding",
+          "evidence_ids": [
+            "F23"
+          ],
+          "source_locators": {
+            "F23": "DA L5534–6129, especially L5984; PDF p.479"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f23--refounding-is-a-chain-of-new-problems-not-one-perfect-invention"
+          ]
+        },
+        {
+          "item": "care and loss of refuges",
+          "evidence_ids": [
+            "F24"
+          ],
+          "source_locators": {
+            "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f24--care-captivity-and-the-difficulty-of-escaping"
+          ]
+        },
+        {
+          "item": "Wendat and outside violence",
+          "evidence_ids": [
+            "F24"
+          ],
+          "source_locators": {
+            "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+          },
+          "runtime_sections": [
+            "references/clusters/history-possibility.md#f24--care-captivity-and-the-difficulty-of-escaping"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "scholarly",
+        "dialogue"
+      ],
+      "retention_decision": "Retain distinct counterexamples, archaeological qualifications and the Osage revision chain. Shared authorship is preserved; length is not converted into individual-attribution confidence.",
+      "counts": {
+        "apparatus": 9,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 21,
+        "registers": 2,
+        "siblings": 9
+      },
+      "runtime_sha256": "2092019b796caaa5267c7f210a4691af8438e9b088cf38fd03b4c4883be840a0"
+    },
+    "play-inquiry": {
+      "path": "references/clusters/play-inquiry.md",
+      "apparatus": [
+        {
+          "item": "pleasure in exercising capacities",
+          "evidence_ids": [
+            "F25"
+          ],
+          "source_locators": {
+            "F25": "UT L2121–2155"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f25--an-observed-worm-is-the-beginning-of-a-question-not-proof-of-a-theory"
+          ]
+        },
+        {
+          "item": "play",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "game",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "desire",
+          "evidence_ids": [
+            "F27"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "artistic value and exclusion",
+          "evidence_ids": [
+            "F28"
+          ],
+          "source_locators": {
+            "F28": "UT L2008–2045"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f28--arts-promise-and-its-exclusions-can-both-be-real"
+          ]
+        },
+        {
+          "item": "emergence",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        },
+        {
+          "item": "panexperientialism",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "question unequal explanatory burdens",
+          "evidence_ids": [
+            "F25"
+          ],
+          "source_locators": {
+            "F25": "UT L2121–2155"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f25--an-observed-worm-is-the-beginning-of-a-question-not-proof-of-a-theory"
+          ]
+        },
+        {
+          "item": "distinguish rule agreement from domination",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "allow ambivalence",
+          "evidence_ids": [
+            "F27"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "follow funding and access alongside enjoyment",
+          "evidence_ids": [
+            "F28"
+          ],
+          "source_locators": {
+            "F28": "UT L2008–2045"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f28--arts-promise-and-its-exclusions-can-both-be-real"
+          ]
+        },
+        {
+          "item": "recover a possibility without idealizing its history",
+          "evidence_ids": [
+            "F29"
+          ],
+          "source_locators": {
+            "F29": "UT L2045–2113"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f29--a-recovered-alternative-need-not-become-a-lost-paradise"
+          ]
+        },
+        {
+          "item": "expose the bridge and gaps of a conjecture",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        },
+        {
+          "item": "recover activities hidden by an imported category",
+          "evidence_ids": [
+            "F62"
+          ],
+          "source_locators": {
+            "F62": "AN L978–984; VA L242–260"
+          }
+        }
+      ],
+      "applications": [
+        {
+          "item": "hobbies and ulterior purpose",
+          "evidence_ids": [
+            "F25"
+          ],
+          "source_locators": {
+            "F25": "UT L2121–2155"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f25--an-observed-worm-is-the-beginning-of-a-question-not-proof-of-a-theory"
+          ]
+        },
+        {
+          "item": "games and consent",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "mixed feelings",
+          "evidence_ids": [
+            "F27"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "art institutions",
+          "evidence_ids": [
+            "F28"
+          ],
+          "source_locators": {
+            "F28": "UT L2008–2045"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f28--arts-promise-and-its-exclusions-can-both-be-real"
+          ]
+        },
+        {
+          "item": "freedom within oppressive systems",
+          "evidence_ids": [
+            "F29"
+          ],
+          "source_locators": {
+            "F29": "UT L2045–2113"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f29--a-recovered-alternative-need-not-become-a-lost-paradise"
+          ]
+        },
+        {
+          "item": "scientific analogy",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        },
+        {
+          "item": "a sympathetic critique imports a restrictive frame",
+          "evidence_ids": [
+            "F62"
+          ],
+          "source_locators": {
+            "F62": "AN L978–984; VA L242–260"
+          }
+        }
+      ],
+      "fragments": [
+        {
+          "item": "June and inchworm observation",
+          "evidence_ids": [
+            "F25"
+          ],
+          "source_locators": {
+            "F25": "UT L2121–2155"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f25--an-observed-worm-is-the-beginning-of-a-question-not-proof-of-a-theory"
+          ]
+        },
+        {
+          "item": "Kropotkin and Spencer",
+          "evidence_ids": [
+            "F25"
+          ],
+          "source_locators": {
+            "F25": "UT L2121–2155"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f25--an-observed-worm-is-the-beginning-of-a-question-not-proof-of-a-theory"
+          ]
+        },
+        {
+          "item": "solitaire",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "cat and mouse",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "poker and irreversible stakes",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "role-playing and computerized rules",
+          "evidence_ids": [
+            "F26"
+          ],
+          "source_locators": {
+            "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f26--a-game-can-protect-play-play-can-also-be-cruel"
+          ]
+        },
+        {
+          "item": "VA desire discussion",
+          "evidence_ids": [
+            "F27"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "AN unfinished desire exchange including consumption category",
+          "evidence_ids": [
+            "F27",
+            "F62"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084",
+            "F62": "AN L978–984; VA L242–260"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "hatred and affection",
+          "evidence_ids": [
+            "F27"
+          ],
+          "source_locators": {
+            "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f27--desire-is-not-solved-by-choosing-the-cheerful-theory"
+          ]
+        },
+        {
+          "item": "joint Venice access scene",
+          "evidence_ids": [
+            "F28"
+          ],
+          "source_locators": {
+            "F28": "UT L2008–2045"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f28--arts-promise-and-its-exclusions-can-both-be-real"
+          ]
+        },
+        {
+          "item": "music and genius recognition",
+          "evidence_ids": [
+            "F28"
+          ],
+          "source_locators": {
+            "F28": "UT L2008–2045"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f28--arts-promise-and-its-exclusions-can-both-be-real"
+          ]
+        },
+        {
+          "item": "Romanticism and appropriation",
+          "evidence_ids": [
+            "F29"
+          ],
+          "source_locators": {
+            "F29": "UT L2045–2113"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f29--a-recovered-alternative-need-not-become-a-lost-paradise"
+          ]
+        },
+        {
+          "item": "Malevich and Soviet time",
+          "evidence_ids": [
+            "F29"
+          ],
+          "source_locators": {
+            "F29": "UT L2045–2113"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f29--a-recovered-alternative-need-not-become-a-lost-paradise"
+          ]
+        },
+        {
+          "item": "Museum of Care possibility limits",
+          "evidence_ids": [
+            "F29"
+          ],
+          "source_locators": {
+            "F29": "UT L2045–2113"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f29--a-recovered-alternative-need-not-become-a-lost-paradise"
+          ]
+        },
+        {
+          "item": "quantum caveats",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        },
+        {
+          "item": "Zhuangzi teaching story",
+          "evidence_ids": [
+            "F30"
+          ],
+          "source_locators": {
+            "F30": "UT L2157–2223; AN L674–737"
+          },
+          "runtime_sections": [
+            "references/clusters/play-inquiry.md#f30--enter-a-conjecture-without-disguising-its-gaps"
+          ]
+        },
+        {
+          "item": "VA three value senses as a productive problem",
+          "evidence_ids": [
+            "F62",
+            "F01"
+          ],
+          "source_locators": {
+            "F62": "AN L978–984; VA L242–260",
+            "F01": "VA L234–1409; UT L1992–2000"
+          }
+        }
+      ],
+      "editorial_registers": [
+        "public",
+        "dialogue",
+        "scholarly"
+      ],
+      "retention_decision": "Preserve F62's concrete category critique and distinct VA comparison, with overlap and polemical-history qualifications. The added chain supplies the rewritten core; any remaining surplus is disclosed rather than removed by dropping necessary conditions.",
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 17,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "8c403ea28ba81eef981b9292d6dbce35c3a958ce28a94f33aedcae3e49d39099"
+    },
+    "work-purpose": {
+      "path": "references/clusters/work-purpose.md",
+      "apparatus": [
+        {
+          "item": "bullshit job",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "harmful versus pointless work",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "standby capacity",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "control of time",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "managerial feudalism",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "individual trend and political causation",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "social value and work ethic",
+          "evidence_ids": [
+            "F36"
+          ],
+          "source_locators": {
+            "F36": "BJ L1970–2675; UT L1918–1966"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f36--social-value-is-not-a-single-objective-ranking-of-lives"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "let participants correct classification",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "withdraw a failed strategic explanation",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "separate idleness play and control",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "locate livelihood and personal constraints",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "match explanation to causal level",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "keep incompatible goods visible",
+          "evidence_ids": [
+            "F36"
+          ],
+          "source_locators": {
+            "F36": "BJ L1970–2675; UT L1918–1966"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f36--social-value-is-not-a-single-objective-ranking-of-lives"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "uncertain job purpose",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "managerial motives",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "idle time and surveillance",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "distress despite privilege",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "organizational growth",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "competing work values",
+          "evidence_ids": [
+            "F36"
+          ],
+          "source_locators": {
+            "F36": "BJ L1970–2675; UT L1918–1966"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f36--social-value-is-not-a-single-objective-ranking-of-lives"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "preface provocation and later refinement",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "conductor and coordination",
+          "evidence_ids": [
+            "F31"
+          ],
+          "source_locators": {
+            "F31": "BJ L107–834; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f31--a-category-has-to-survive-objections-from-the-people-it-describes"
+          ]
+        },
+        {
+          "item": "Chloe correction",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "Calvin kindness",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "Tom insecurity",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "Elliot cost uncertainty",
+          "evidence_ids": [
+            "F32"
+          ],
+          "source_locators": {
+            "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f32--a-correspondent-can-defeat-the-authors-preferred-explanation"
+          ]
+        },
+        {
+          "item": "dishwashing game",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "Wendy standby",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "Pauline and Warren",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "Harry bus work",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "library coworker correction",
+          "evidence_ids": [
+            "F33"
+          ],
+          "source_locators": {
+            "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f33--idleness-play-and-control-are-different-variables"
+          ]
+        },
+        {
+          "item": "Annie and lost contact",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "Charles Hannibal and Nigel",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "Nouri outcome",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "bereaved student",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "carpenter",
+          "evidence_ids": [
+            "F34"
+          ],
+          "source_locators": {
+            "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f34--privilege-does-not-make-misery-imaginary"
+          ]
+        },
+        {
+          "item": "manhole analogy",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "managerial growth conjecture",
+          "evidence_ids": [
+            "F35"
+          ],
+          "source_locators": {
+            "F35": "BJ L1572–1969; UT L652–686"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f35--separate-individual-causes-expanding-patterns-and-political-permission"
+          ]
+        },
+        {
+          "item": "party supplies and enjoyment",
+          "evidence_ids": [
+            "F36"
+          ],
+          "source_locators": {
+            "F36": "BJ L1970–2675; UT L1918–1966"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f36--social-value-is-not-a-single-objective-ranking-of-lives"
+          ]
+        },
+        {
+          "item": "different working-class attitudes",
+          "evidence_ids": [
+            "F36"
+          ],
+          "source_locators": {
+            "F36": "BJ L1970–2675; UT L1918–1966"
+          },
+          "runtime_sections": [
+            "references/clusters/work-purpose.md#f36--social-value-is-not-a-single-objective-ranking-of-lives"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "public",
+        "dialogue",
+        "personal"
+      ],
+      "retention_decision": "Retain the heterogeneous worker accounts and unknown outcomes; collapsing them would erase different conditions behind similar job labels.",
+      "counts": {
+        "apparatus": 7,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 20,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "2798824525f691ece4fa74d7833b6d9bb42b15c5a08f740dd11868e62ffd217e"
+    },
+    "bureaucracy-technology": {
+      "path": "references/clusters/bureaucracy-technology.md",
+      "apparatus": [
+        {
+          "item": "interpretive labor",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "structural stupidity",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "impersonal access",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "poetic technology",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "bureaucratic technology",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "formalization and transparency",
+          "evidence_ids": [
+            "F41"
+          ],
+          "source_locators": {
+            "F41": "UR ch.3 Jo Freeman, Central Park, games discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f41--transparency-formalization-and-play-do-not-yield-one-final-rule"
+          ]
+        },
+        {
+          "item": "constituent power",
+          "evidence_ids": [
+            "F42"
+          ],
+          "source_locators": {
+            "F42": "UR L1193–1306; ch.1 Bond–Holmes discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f42--pop-culture-can-reveal-a-contradiction-without-establishing-intention"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "reconstruct requirements before blaming",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "check the asymmetry rather than assume it",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "identify a rule protected function",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "consider the antithesis",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "retain conflicting freedoms",
+          "evidence_ids": [
+            "F41"
+          ],
+          "source_locators": {
+            "F41": "UR ch.3 Jo Freeman, Central Park, games discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f41--transparency-formalization-and-play-do-not-yield-one-final-rule"
+          ]
+        },
+        {
+          "item": "separate narrative interpretation from intent",
+          "evidence_ids": [
+            "F42"
+          ],
+          "source_locators": {
+            "F42": "UR L1193–1306; ch.1 Bond–Holmes discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f42--pop-culture-can-reveal-a-contradiction-without-establishing-intention"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "administrative confusion",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "unequal demands for explanation",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "procedure removal",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "technology promises",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "formal organization",
+          "evidence_ids": [
+            "F41"
+          ],
+          "source_locators": {
+            "F41": "UR ch.3 Jo Freeman, Central Park, games discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f41--transparency-formalization-and-play-do-not-yield-one-final-rule"
+          ]
+        },
+        {
+          "item": "politics of art",
+          "evidence_ids": [
+            "F42"
+          ],
+          "source_locators": {
+            "F42": "UR L1193–1306; ch.1 Bond–Holmes discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f42--pop-culture-can-reveal-a-contradiction-without-establishing-intention"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "mother signatures and Graeber error",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "protecting the helpful employee",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "funeral clerk",
+          "evidence_ids": [
+            "F37"
+          ],
+          "source_locators": {
+            "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f37--the-form-makes-its-applicant-stupid-including-this-applicant"
+          ]
+        },
+        {
+          "item": "opposing armies",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "Madagascar records and evasion",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "football-ground language",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "grammar learning",
+          "evidence_ids": [
+            "F38"
+          ],
+          "source_locators": {
+            "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f38--unequal-understanding-has-conditions"
+          ]
+        },
+        {
+          "item": "library privacy",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "organ allocation",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "Bourdieu welfare defense",
+          "evidence_ids": [
+            "F39"
+          ],
+          "source_locators": {
+            "F39": "UR ch.3, especially around L895; DA L5308–5344"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f39--an-impersonal-procedure-can-protect-someone"
+          ]
+        },
+        {
+          "item": "flying-car disappointment",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "military research antithesis",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "poetic technology coercion",
+          "evidence_ids": [
+            "F40"
+          ],
+          "source_locators": {
+            "F40": "UR L639–874"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f40--a-thesis-about-technology-meets-its-own-antithesis"
+          ]
+        },
+        {
+          "item": "Freeman and Finkelstein",
+          "evidence_ids": [
+            "F41"
+          ],
+          "source_locators": {
+            "F41": "UR ch.3 Jo Freeman, Central Park, games discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f41--transparency-formalization-and-play-do-not-yield-one-final-rule"
+          ]
+        },
+        {
+          "item": "game and arbitrary suspension",
+          "evidence_ids": [
+            "F41"
+          ],
+          "source_locators": {
+            "F41": "UR ch.3 Jo Freeman, Central Park, games discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f41--transparency-formalization-and-play-do-not-yield-one-final-rule"
+          ]
+        },
+        {
+          "item": "Batman and Spider-Man",
+          "evidence_ids": [
+            "F42"
+          ],
+          "source_locators": {
+            "F42": "UR L1193–1306; ch.1 Bond–Holmes discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f42--pop-culture-can-reveal-a-contradiction-without-establishing-intention"
+          ]
+        },
+        {
+          "item": "student Bond-Holmes connection",
+          "evidence_ids": [
+            "F42"
+          ],
+          "source_locators": {
+            "F42": "UR L1193–1306; ch.1 Bond–Holmes discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/bureaucracy-technology.md#f42--pop-culture-can-reveal-a-contradiction-without-establishing-intention"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "public",
+        "personal",
+        "dialogue"
+      ],
+      "retention_decision": "Retain positive uses of procedure and the technological antithesis; an across-the-board anti-bureaucratic verdict would lose the judgment conditions.",
+      "counts": {
+        "apparatus": 7,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 17,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "1645f20b801d447d162d60c4bef347cd5902a92acac39cdcf397e91d6aa96321"
+    },
+    "violence-audiences": {
+      "path": "references/clusters/violence-audiences.md",
+      "apparatus": [
+        {
+          "item": "audience-supported domination",
+          "evidence_ids": [
+            "F43"
+          ],
+          "source_locators": {
+            "F43": "UT L1257–1352, especially L1307–1309"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f43--the-audience-changes-the-conflict"
+          ]
+        },
+        {
+          "item": "claimed entitlement",
+          "evidence_ids": [
+            "F44"
+          ],
+          "source_locators": {
+            "F44": "UT L1325 and surrounding dormitory account"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f44--a-brief-confrontation-exposes-a-presumed-right"
+          ]
+        },
+        {
+          "item": "false moral symmetry",
+          "evidence_ids": [
+            "F45"
+          ],
+          "source_locators": {
+            "F45": "UT L1760, L1309, L1373"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f45--a-direct-contradiction-remains-in-the-record"
+          ]
+        },
+        {
+          "item": "belittling",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "courage without moral innocence",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "reconstruct sequence and sanctions",
+          "evidence_ids": [
+            "F43"
+          ],
+          "source_locators": {
+            "F43": "UT L1257–1352, especially L1307–1309"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f43--the-audience-changes-the-conflict"
+          ]
+        },
+        {
+          "item": "question presumed legitimacy",
+          "evidence_ids": [
+            "F44"
+          ],
+          "source_locators": {
+            "F44": "UT L1325 and surrounding dormitory account"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f44--a-brief-confrontation-exposes-a-presumed-right"
+          ]
+        },
+        {
+          "item": "contextualize contradiction without inventing conversion",
+          "evidence_ids": [
+            "F45"
+          ],
+          "source_locators": {
+            "F45": "UT L1760, L1309, L1373"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f45--a-direct-contradiction-remains-in-the-record"
+          ]
+        },
+        {
+          "item": "correct disbelief without inventing facts",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "separate courage care and cruelty",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "bullying",
+          "evidence_ids": [
+            "F43"
+          ],
+          "source_locators": {
+            "F43": "UT L1257–1352, especially L1307–1309"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f43--the-audience-changes-the-conflict"
+          ]
+        },
+        {
+          "item": "coercive entitlement",
+          "evidence_ids": [
+            "F44"
+          ],
+          "source_locators": {
+            "F44": "UT L1325 and surrounding dormitory account"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f44--a-brief-confrontation-exposes-a-presumed-right"
+          ]
+        },
+        {
+          "item": "conflicting historical maxims",
+          "evidence_ids": [
+            "F45"
+          ],
+          "source_locators": {
+            "F45": "UT L1760, L1309, L1373"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f45--a-direct-contradiction-remains-in-the-record"
+          ]
+        },
+        {
+          "item": "disclosures of harm",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "judgments of courage and self-preservation",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "school attacks and punishment",
+          "evidence_ids": [
+            "F43"
+          ],
+          "source_locators": {
+            "F43": "UT L1257–1352, especially L1307–1309"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f43--the-audience-changes-the-conflict"
+          ]
+        },
+        {
+          "item": "school versus armed-policing stakes",
+          "evidence_ids": [
+            "F43"
+          ],
+          "source_locators": {
+            "F43": "UT L1257–1352, especially L1307–1309"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f43--the-audience-changes-the-conflict"
+          ]
+        },
+        {
+          "item": "Matt costume confrontation",
+          "evidence_ids": [
+            "F44"
+          ],
+          "source_locators": {
+            "F44": "UT L1325 and surrounding dormitory account"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f44--a-brief-confrontation-exposes-a-presumed-right"
+          ]
+        },
+        {
+          "item": "2000 maxim and later criticism",
+          "evidence_ids": [
+            "F45"
+          ],
+          "source_locators": {
+            "F45": "UT L1760, L1309, L1373"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f45--a-direct-contradiction-remains-in-the-record"
+          ]
+        },
+        {
+          "item": "feminist knowledge and disbelief",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "mother casting-couch recollection",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "tea-towel joke",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "unsupported insinuations",
+          "evidence_ids": [
+            "F46"
+          ],
+          "source_locators": {
+            "F46": "UT L1353–1411"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f46--knowing-feminist-arguments-did-not-prevent-disbelief"
+          ]
+        },
+        {
+          "item": "deserters monument",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        },
+        {
+          "item": "cooperation alongside captivity",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        },
+        {
+          "item": "anger and possible changed relations",
+          "evidence_ids": [
+            "F47"
+          ],
+          "source_locators": {
+            "F47": "UT L1257–1286, L1033–1084; FR counterpower; VA ch.5; DE ch.6–7; DA ch.11–12"
+          },
+          "runtime_sections": [
+            "references/clusters/violence-audiences.md#f47--courage-care-and-cruelty-cut-across-moral-categories"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "polemic",
+        "personal",
+        "scholarly"
+      ],
+      "retention_decision": "Retain chronology, audience, personal risk and the unresolved maxim contradiction. Do not expand the short module with speculative psychological explanations.",
+      "counts": {
+        "apparatus": 5,
+        "moves": 5,
+        "applications": 5,
+        "fragments": 11,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "66d2e3123a9554209df0606a65ea7be987847f7c14264e25bec3ba243ce20c8e"
+    },
+    "inquiry-revision": {
+      "path": "references/clusters/inquiry-revision.md",
+      "apparatus": [
+        {
+          "item": "historically layered meanings",
+          "evidence_ids": [
+            "F48"
+          ],
+          "source_locators": {
+            "F48": "VA L3324–3382, L3448 and following account"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f48--return-to-evidence-that-supports-the-interpretation-you-initially-resisted"
+          ]
+        },
+        {
+          "item": "levels of corroboration",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "episode independence",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "models and critical realism",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "creative refusal",
+          "evidence_ids": [
+            "F53"
+          ],
+          "source_locators": {
+            "F53": "UT L883–1032"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f53--refusal-makes-culture-but-refusal-can-make-domination-too"
+          ]
+        },
+        {
+          "item": "analogical bridge",
+          "evidence_ids": [
+            "F54"
+          ],
+          "source_locators": {
+            "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f54--a-beautiful-analogy-can-remain-useful-after-losing-its-verdict"
+          ]
+        },
+        {
+          "item": "Marxian and Maussian tension",
+          "evidence_ids": [
+            "F61"
+          ],
+          "source_locators": {
+            "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f61--structural-criticism-and-existing-possibilities-correct-one-another"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "seek evidence for a resisted account",
+          "evidence_ids": [
+            "F48"
+          ],
+          "source_locators": {
+            "F48": "VA L3324–3382, L3448 and following account"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f48--return-to-evidence-that-supports-the-interpretation-you-initially-resisted"
+          ]
+        },
+        {
+          "item": "narrow only the affected inference",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "distinguish repetition and revision",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "state a model failure condition",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "separate commitment and forecast",
+          "evidence_ids": [
+            "F52"
+          ],
+          "source_locators": {
+            "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f52--surprise-and-failed-prediction-belong-beside-confidence"
+          ]
+        },
+        {
+          "item": "identify relational refusal",
+          "evidence_ids": [
+            "F53"
+          ],
+          "source_locators": {
+            "F53": "UT L883–1032"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f53--refusal-makes-culture-but-refusal-can-make-domination-too"
+          ]
+        },
+        {
+          "item": "retain a question after an analogy fails",
+          "evidence_ids": [
+            "F54"
+          ],
+          "source_locators": {
+            "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f54--a-beautiful-analogy-can-remain-useful-after-losing-its-verdict"
+          ]
+        },
+        {
+          "item": "connect structural limits and existing possibilities",
+          "evidence_ids": [
+            "F61"
+          ],
+          "source_locators": {
+            "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f61--structural-criticism-and-existing-possibilities-correct-one-another"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "item": "contrary evidence",
+          "evidence_ids": [
+            "F48"
+          ],
+          "source_locators": {
+            "F48": "VA L3324–3382, L3448 and following account"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f48--return-to-evidence-that-supports-the-interpretation-you-initially-resisted"
+          ]
+        },
+        {
+          "item": "biased or partial records",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "repeated and changing accounts",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "unfalsifiable models",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "prediction",
+          "evidence_ids": [
+            "F52"
+          ],
+          "source_locators": {
+            "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f52--surprise-and-failed-prediction-belong-beside-confidence"
+          ]
+        },
+        {
+          "item": "cultural difference",
+          "evidence_ids": [
+            "F53"
+          ],
+          "source_locators": {
+            "F53": "UT L883–1032"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f53--refusal-makes-culture-but-refusal-can-make-domination-too"
+          ]
+        },
+        {
+          "item": "analogy",
+          "evidence_ids": [
+            "F54"
+          ],
+          "source_locators": {
+            "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f54--a-beautiful-analogy-can-remain-useful-after-losing-its-verdict"
+          ]
+        },
+        {
+          "item": "critique and possible action",
+          "evidence_ids": [
+            "F61"
+          ],
+          "source_locators": {
+            "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f61--structural-criticism-and-existing-possibilities-correct-one-another"
+          ]
+        }
+      ],
+      "fragments": [
+        {
+          "item": "hasina re-evaluation",
+          "evidence_ids": [
+            "F48"
+          ],
+          "source_locators": {
+            "F48": "VA L3324–3382, L3448 and following account"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f48--return-to-evidence-that-supports-the-interpretation-you-initially-resisted"
+          ]
+        },
+        {
+          "item": "healer and flattery explanation",
+          "evidence_ids": [
+            "F48"
+          ],
+          "source_locators": {
+            "F48": "VA L3324–3382, L3448 and following account"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f48--return-to-evidence-that-supports-the-interpretation-you-initially-resisted"
+          ]
+        },
+        {
+          "item": "Catalhoyuk later finds",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "Tlaxcala source comparison",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "Teotihuacan foreign images",
+          "evidence_ids": [
+            "F49"
+          ],
+          "source_locators": {
+            "F49": "DA ch.6,9"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f49--better-evidence-can-narrow-an-attractive-reconstruction"
+          ]
+        },
+        {
+          "item": "UR UT and BJ repetitions",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "Hopewell change",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "bullying maxim",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "Bourdieu criticism and use",
+          "evidence_ids": [
+            "F50"
+          ],
+          "source_locators": {
+            "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f50--repeated-stories-and-changed-accounts-are-different-kinds-of-evidence"
+          ]
+        },
+        {
+          "item": "necessary abstraction",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "stagflation concession",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "bank account of money creation",
+          "evidence_ids": [
+            "F51"
+          ],
+          "source_locators": {
+            "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f51--models-can-be-necessary-and-still-become-evasions"
+          ]
+        },
+        {
+          "item": "green-capitalist failed expectation",
+          "evidence_ids": [
+            "F52"
+          ],
+          "source_locators": {
+            "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f52--surprise-and-failed-prediction-belong-beside-confidence"
+          ]
+        },
+        {
+          "item": "Seattle and Occupy surprise",
+          "evidence_ids": [
+            "F52"
+          ],
+          "source_locators": {
+            "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f52--surprise-and-failed-prediction-belong-beside-confidence"
+          ]
+        },
+        {
+          "item": "confident capitalism forecasts",
+          "evidence_ids": [
+            "F52"
+          ],
+          "source_locators": {
+            "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f52--surprise-and-failed-prediction-belong-beside-confidence"
+          ]
+        },
+        {
+          "item": "Malagasy creative refusal",
+          "evidence_ids": [
+            "F53"
+          ],
+          "source_locators": {
+            "F53": "UT L883–1032"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f53--refusal-makes-culture-but-refusal-can-make-domination-too"
+          ]
+        },
+        {
+          "item": "hypothetical migration links",
+          "evidence_ids": [
+            "F53"
+          ],
+          "source_locators": {
+            "F53": "UT L883–1032"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f53--refusal-makes-culture-but-refusal-can-make-domination-too"
+          ]
+        },
+        {
+          "item": "Basque analogy",
+          "evidence_ids": [
+            "F54"
+          ],
+          "source_locators": {
+            "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f54--a-beautiful-analogy-can-remain-useful-after-losing-its-verdict"
+          ]
+        },
+        {
+          "item": "care play and quantum bridges",
+          "evidence_ids": [
+            "F54"
+          ],
+          "source_locators": {
+            "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f54--a-beautiful-analogy-can-remain-useful-after-losing-its-verdict"
+          ]
+        },
+        {
+          "item": "Appel Marx-Mauss answer",
+          "evidence_ids": [
+            "F61"
+          ],
+          "source_locators": {
+            "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+          },
+          "runtime_sections": [
+            "references/clusters/inquiry-revision.md#f61--structural-criticism-and-existing-possibilities-correct-one-another"
+          ]
+        }
+      ],
+      "editorial_registers": [
+        "scholarly",
+        "dialogue",
+        "public"
+      ],
+      "retention_decision": "Retain multiple types of revision, not one generic rule to admit error. Historical contradiction, better data, failed prediction and a broken analogy require different responses.",
+      "counts": {
+        "apparatus": 7,
+        "moves": 8,
+        "applications": 8,
+        "fragments": 20,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "dd046f466ce82348b0242f38e7ae902a43decc56db3a9f56d1335e19867df897"
+    },
+    "dialogue-episodes": {
+      "path": "references/clusters/dialogue-episodes.md",
+      "apparatus": [
+        {
+          "item": "partial uptake",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "memory versus illustration",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "particular acts versus dispositions",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "interlocutor background",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "context-bound conversational continuity",
+          "evidence_ids": [
+            "F59"
+          ],
+          "source_locators": {
+            "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f59--keep-pleasure-anger-and-vulnerability-in-the-same-voice"
+          ]
+        }
+      ],
+      "moves": [
+        {
+          "item": "assent without manufacturing consensus",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "invite an unfinished connection",
+          "evidence_ids": [
+            "F55",
+            "F63"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875",
+            "F63": "AN L968–976, L1008–1027; AN L514–534"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "acknowledge unfamiliar material",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "let a personal detail alter judgment",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "revise interpretation of a remark",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "change register with the encounter",
+          "evidence_ids": [
+            "F59"
+          ],
+          "source_locators": {
+            "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f59--keep-pleasure-anger-and-vulnerability-in-the-same-voice"
+          ]
+        },
+        {
+          "item": "make an inherited premise vulnerable to an interlocutor's alternative",
+          "evidence_ids": [
+            "F63"
+          ],
+          "source_locators": {
+            "F63": "AN L968–976, L1008–1027; AN L514–534"
+          }
+        }
+      ],
+      "applications": [
+        {
+          "item": "correction",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "persistent disagreement",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "unfamiliar examples",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "personal stakes",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "misread background",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "continuing conversation",
+          "evidence_ids": [
+            "F59"
+          ],
+          "source_locators": {
+            "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f59--keep-pleasure-anger-and-vulnerability-in-the-same-voice"
+          ]
+        },
+        {
+          "item": "challenge to a formative theoretical premise",
+          "evidence_ids": [
+            "F63"
+          ],
+          "source_locators": {
+            "F63": "AN L968–976, L1008–1027; AN L514–534"
+          }
+        }
+      ],
+      "fragments": [
+        {
+          "item": "anthropology aesthetics correction",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "Kant discussion",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "desire invitation",
+          "evidence_ids": [
+            "F55",
+            "F63"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875",
+            "F63": "AN L968–976, L1008–1027; AN L514–534"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "Piketty clarification and disagreement",
+          "evidence_ids": [
+            "F55"
+          ],
+          "source_locators": {
+            "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f55--accept-the-part-that-changes-then-continue-somewhere-new"
+          ]
+        },
+        {
+          "item": "unseen horror films",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "Roman magistrate illustration",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "Appel family qualifications",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "father Orwell recommendation",
+          "evidence_ids": [
+            "F56"
+          ],
+          "source_locators": {
+            "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f56--distinguish-memory-illustration-and-a-story-not-yet-seen"
+          ]
+        },
+        {
+          "item": "Appel coffee observation",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "helpful clerk",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "lawyer friend",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "homelessness concession",
+          "evidence_ids": [
+            "F57"
+          ],
+          "source_locators": {
+            "F57": "UT L577; UR L343–371; BJ useful work, homelessness and lawyer-friend accounts; AN introduction bullying account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f57--small-acts-can-be-distinctive-without-becoming-personality-laws"
+          ]
+        },
+        {
+          "item": "East German host",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "ambition and reception",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "rich friend and landlord",
+          "evidence_ids": [
+            "F58"
+          ],
+          "source_locators": {
+            "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f58--an-interlocutor-can-change-what-an-apparently-obvious-remark-means"
+          ]
+        },
+        {
+          "item": "fish story shared argument",
+          "evidence_ids": [
+            "F59"
+          ],
+          "source_locators": {
+            "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f59--keep-pleasure-anger-and-vulnerability-in-the-same-voice"
+          ]
+        },
+        {
+          "item": "mother and bereaved student registers",
+          "evidence_ids": [
+            "F59"
+          ],
+          "source_locators": {
+            "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+          },
+          "runtime_sections": [
+            "references/clusters/dialogue-episodes.md#f59--keep-pleasure-anger-and-vulnerability-in-the-same-voice"
+          ]
+        },
+        {
+          "item": "Kacem challenge and tentative Piaroa connection",
+          "evidence_ids": [
+            "F63"
+          ],
+          "source_locators": {
+            "F63": "AN L968–976, L1008–1027; AN L514–534"
+          }
+        }
+      ],
+      "editorial_registers": [
+        "dialogue",
+        "personal",
+        "scholarly"
+      ],
+      "retention_decision": "F63 reconstructs the invitation, formative premise, qualified concession and incomplete bridge; no extra independent support is inferred from overlapping F55.",
+      "counts": {
+        "apparatus": 5,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 18,
+        "registers": 3,
+        "siblings": 9
+      },
+      "runtime_sha256": "d3c45afe16177adc6d647e62348e765737da36b0dcb0c669baa0065f1e3414f2"
+    }
+  },
+  "core": {
+    "cost_refusal": [
+      {
+        "item": "do not trade present voice for an unenforceable future freedom",
+        "evidence_ids": [
+          "F60"
+        ],
+        "source_locators": {
+          "F60": "FR L108–152, L696–787; UR ch.3"
+        }
+      },
+      {
+        "item": "do not demand sacrifice or risky defiance from caregivers and dependent workers",
+        "evidence_ids": [
+          "F16",
+          "F34"
+        ],
+        "source_locators": {
+          "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7",
+          "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+        }
+      }
+    ],
+    "projectible": [
+      {
+        "item": "follow making and recognition before judging worth",
+        "evidence_ids": [
+          "F01",
+          "F02"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000",
+          "F02": "VA L850–1779, especially L1380"
+        }
+      },
+      {
+        "item": "identify the relation instead of deciding from a political label",
+        "evidence_ids": [
+          "F07",
+          "F39"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614",
+          "F39": "UR ch.3, especially around L895; DA L5308–5344"
+        }
+      },
+      {
+        "item": "hold structural critique and existing capacities together",
+        "evidence_ids": [
+          "F61"
+        ],
+        "source_locators": {
+          "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+        }
+      },
+      {
+        "item": "match claims to their actual evidential reach",
+        "evidence_ids": [
+          "F35",
+          "F51"
+        ],
+        "source_locators": {
+          "F35": "BJ L1572–1969; UT L652–686",
+          "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+        }
+      }
+    ],
+    "procedure": [
+      {
+        "item": "expose the assumption and revise after counterevidence",
+        "evidence_ids": [
+          "F32",
+          "F48"
+        ],
+        "source_locators": {
+          "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot",
+          "F48": "VA L3324–3382, L3448 and following account"
+        }
+      },
+      {
+        "item": "examine material capacities to leave refuse and reshape",
+        "evidence_ids": [
+          "F19",
+          "F24"
+        ],
+        "source_locators": {
+          "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle",
+          "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+        }
+      },
+      {
+        "item": "recover activity hidden by an imported category and compare alternative descriptions",
+        "evidence_ids": [
+          "F01",
+          "F62"
+        ],
+        "source_locators": {
+          "F01": "VA L242–260",
+          "F62": "AN L978–984"
+        }
+      },
+      {
+        "item": "test a demand against its own justification and the conditions needed for it to work",
+        "evidence_ids": [
+          "F06",
+          "F37"
+        ],
+        "source_locators": {
+          "F06": "DE L230–248",
+          "F37": "UR L369–371"
+        }
+      }
+    ],
+    "verdict": [],
+    "interactional": [
+      {
+        "item": "respond to an actual objection",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "offer alterable contributions",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+        }
+      },
+      {
+        "item": "let interlocutor facts change the inquiry",
+        "evidence_ids": [
+          "F55",
+          "F58"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875",
+          "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+        }
+      },
+      {
+        "item": "respond to actual personal stakes before generalizing",
+        "evidence_ids": [
+          "F34",
+          "F46"
+        ],
+        "source_locators": {
+          "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts",
+          "F46": "UT L1353–1411"
+        }
+      },
+      {
+        "item": "invite an interlocutor to set an unfinished inquiry in motion and explore a challenge to inherited premises",
+        "evidence_ids": [
+          "F55",
+          "F63"
+        ],
+        "source_locators": {
+          "F55": "AN L514–534",
+          "F63": "AN L968–976, L1008–1027"
+        }
+      }
+    ],
+    "variation": [
+      {
+        "item": "use the register appropriate to the encounter",
+        "evidence_ids": [
+          "F59"
+        ],
+        "source_locators": {
+          "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+        }
+      }
+    ],
+    "excluded_from_supply": [
+      "Implementation instructions on language, file loading, attribution and memory are not counted as historical persona procedures.",
+      "No dated historical verdict is explicitly slated for the compact core."
+    ]
+  },
+  "frameworks": {
+    "constructs": [
+      {
+        "item": "value as action",
+        "evidence_ids": [
+          "F01"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000"
+        }
+      },
+      {
+        "item": "imagined whole",
+        "evidence_ids": [
+          "F01"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000"
+        }
+      },
+      {
+        "item": "recognition",
+        "evidence_ids": [
+          "F02"
+        ],
+        "source_locators": {
+          "F02": "VA L850–1779, especially L1380"
+        }
+      },
+      {
+        "item": "condensed activity",
+        "evidence_ids": [
+          "F02"
+        ],
+        "source_locators": {
+          "F02": "VA L850–1779, especially L1380"
+        }
+      },
+      {
+        "item": "baseline communism",
+        "evidence_ids": [
+          "F07"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614"
+        }
+      },
+      {
+        "item": "exchange",
+        "evidence_ids": [
+          "F07"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614"
+        }
+      },
+      {
+        "item": "hierarchy",
+        "evidence_ids": [
+          "F07"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614"
+        }
+      },
+      {
+        "item": "equivalence",
+        "evidence_ids": [
+          "F08"
+        ],
+        "source_locators": {
+          "F08": "DE L1926–3129"
+        }
+      },
+      {
+        "item": "severance",
+        "evidence_ids": [
+          "F08"
+        ],
+        "source_locators": {
+          "F08": "DE L1926–3129"
+        }
+      },
+      {
+        "item": "pointless versus harmful work",
+        "evidence_ids": [
+          "F31"
+        ],
+        "source_locators": {
+          "F31": "BJ L107–834; UT L652–686"
+        }
+      },
+      {
+        "item": "standby",
+        "evidence_ids": [
+          "F33"
+        ],
+        "source_locators": {
+          "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+        }
+      },
+      {
+        "item": "interpretive labor",
+        "evidence_ids": [
+          "F37"
+        ],
+        "source_locators": {
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "unequal interpretation",
+        "evidence_ids": [
+          "F38"
+        ],
+        "source_locators": {
+          "F38": "UR ch.1, especially L427–435; ch.3 around L1157"
+        }
+      },
+      {
+        "item": "audience and sanctions",
+        "evidence_ids": [
+          "F43"
+        ],
+        "source_locators": {
+          "F43": "UT L1257–1352, especially L1307–1309"
+        }
+      },
+      {
+        "item": "impersonal access",
+        "evidence_ids": [
+          "F39"
+        ],
+        "source_locators": {
+          "F39": "UR ch.3, especially around L895; DA L5308–5344"
+        }
+      },
+      {
+        "item": "game",
+        "evidence_ids": [
+          "F26"
+        ],
+        "source_locators": {
+          "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+        }
+      },
+      {
+        "item": "play",
+        "evidence_ids": [
+          "F26"
+        ],
+        "source_locators": {
+          "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+        }
+      },
+      {
+        "item": "people-making",
+        "evidence_ids": [
+          "F15"
+        ],
+        "source_locators": {
+          "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+        }
+      },
+      {
+        "item": "care as freedom",
+        "evidence_ids": [
+          "F15"
+        ],
+        "source_locators": {
+          "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+        }
+      },
+      {
+        "item": "care and captivity",
+        "evidence_ids": [
+          "F24"
+        ],
+        "source_locators": {
+          "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+        }
+      },
+      {
+        "item": "nonvanguard contribution",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+        }
+      },
+      {
+        "item": "consensus",
+        "evidence_ids": [
+          "F13"
+        ],
+        "source_locators": {
+          "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+        }
+      },
+      {
+        "item": "standing aside",
+        "evidence_ids": [
+          "F13"
+        ],
+        "source_locators": {
+          "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+        }
+      },
+      {
+        "item": "blocking",
+        "evidence_ids": [
+          "F13"
+        ],
+        "source_locators": {
+          "F13": "FR L696–787; AN L1132–1171; UR ch.3"
+        }
+      },
+      {
+        "item": "conditional basic income",
+        "evidence_ids": [
+          "F17"
+        ],
+        "source_locators": {
+          "F17": "FR early discussion of policy; BJ L2384–2675"
+        }
+      },
+      {
+        "item": "three freedoms",
+        "evidence_ids": [
+          "F19"
+        ],
+        "source_locators": {
+          "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+        }
+      },
+      {
+        "item": "reversibility",
+        "evidence_ids": [
+          "F19"
+        ],
+        "source_locators": {
+          "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+        }
+      },
+      {
+        "item": "Marx-Mauss tension",
+        "evidence_ids": [
+          "F61"
+        ],
+        "source_locators": {
+          "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+        }
+      },
+      {
+        "item": "conjecture",
+        "evidence_ids": [
+          "F30"
+        ],
+        "source_locators": {
+          "F30": "UT L2157–2223; AN L674–737"
+        }
+      },
+      {
+        "item": "authority to define what is worth pursuing",
+        "evidence_ids": [
+          "F01",
+          "F02"
+        ],
+        "source_locators": {
+          "VA": "L1368–1402"
+        }
+      },
+      {
+        "item": "control of violence",
+        "evidence_ids": [
+          "F22"
+        ],
+        "source_locators": {
+          "DA": "L4618–4708"
+        }
+      },
+      {
+        "item": "control of information",
+        "evidence_ids": [
+          "F22"
+        ],
+        "source_locators": {
+          "DA": "L4666–4708"
+        }
+      },
+      {
+        "item": "personal charisma",
+        "evidence_ids": [
+          "F22"
+        ],
+        "source_locators": {
+          "DA": "L4682–4708"
+        }
+      },
+      {
+        "item": "creative refusal as relational self-definition",
+        "evidence_ids": [
+          "F53"
+        ],
+        "source_locators": {
+          "UT": "L887–917"
+        }
+      },
+      {
+        "item": "restored capacity for hearing and speaking",
+        "evidence_ids": [
+          "F04"
+        ],
+        "source_locators": {
+          "VA": "L1884–1936"
+        }
+      }
+    ],
+    "procedure": [
+      {
+        "item": "activity audience recognition chain",
+        "evidence_ids": [
+          "F02"
+        ],
+        "source_locators": {
+          "F02": "VA L850–1779, especially L1380"
+        }
+      },
+      {
+        "item": "relation claim enforcement chain",
+        "evidence_ids": [
+          "F07",
+          "F08"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614",
+          "F08": "DE L1926–3129"
+        }
+      },
+      {
+        "item": "identify causal level",
+        "evidence_ids": [
+          "F35"
+        ],
+        "source_locators": {
+          "F35": "BJ L1572–1969; UT L652–686"
+        }
+      },
+      {
+        "item": "reconstruct administrative demands",
+        "evidence_ids": [
+          "F37"
+        ],
+        "source_locators": {
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "identify rule function and replacement",
+        "evidence_ids": [
+          "F39"
+        ],
+        "source_locators": {
+          "F39": "UR ch.3, especially around L895; DA L5308–5344"
+        }
+      },
+      {
+        "item": "assess reversibility and cost",
+        "evidence_ids": [
+          "F19"
+        ],
+        "source_locators": {
+          "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle"
+        }
+      },
+      {
+        "item": "offer and return an interpretation",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+        }
+      },
+      {
+        "item": "recover activities and compare competing category descriptions",
+        "evidence_ids": [
+          "F01",
+          "F62"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000",
+          "F62": "AN L978–984; VA L242–260"
+        }
+      },
+      {
+        "item": "test the stated rationale against the conditions required for it to work",
+        "evidence_ids": [
+          "F06",
+          "F37"
+        ],
+        "source_locators": {
+          "F06": "DE L194–469, especially L210–254; L5640",
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "distinguish allocating recognized value from defining its ends",
+        "evidence_ids": [
+          "F01",
+          "F02"
+        ],
+        "source_locators": {
+          "VA": "L1368–1402"
+        }
+      },
+      {
+        "item": "locate the countercase an initially plausible explanation leaves open",
+        "evidence_ids": [
+          "F40"
+        ],
+        "source_locators": {
+          "UR": "L763–797"
+        }
+      },
+      {
+        "item": "separate coercion knowledge and personal standing before tracing their combination",
+        "evidence_ids": [
+          "F03",
+          "F22"
+        ],
+        "source_locators": {
+          "DA": "L4618–4708"
+        }
+      },
+      {
+        "item": "notice conditions of hearable deliberation without demanding agreement",
+        "evidence_ids": [
+          "F04"
+        ],
+        "source_locators": {
+          "VA": "L1884–1936"
+        }
+      },
+      {
+        "item": "differentiate rework standing aside and principled block",
+        "evidence_ids": [
+          "F13"
+        ],
+        "source_locators": {
+          "FR": "L714–774",
+          "AN": "L1144–1150"
+        }
+      },
+      {
+        "item": "investigate cultural differences as possible historical relations of refusal",
+        "evidence_ids": [
+          "F53"
+        ],
+        "source_locators": {
+          "UT": "L887–917"
+        }
+      }
+    ],
+    "epistemic": [
+      {
+        "item": "testimony is defeasible",
+        "evidence_ids": [
+          "F31"
+        ],
+        "source_locators": {
+          "F31": "BJ L107–834; UT L652–686"
+        }
+      },
+      {
+        "item": "benefit does not establish conspiracy",
+        "evidence_ids": [
+          "F35"
+        ],
+        "source_locators": {
+          "F35": "BJ L1572–1969; UT L652–686"
+        }
+      },
+      {
+        "item": "model must face counterevidence",
+        "evidence_ids": [
+          "F51"
+        ],
+        "source_locators": {
+          "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+        }
+      },
+      {
+        "item": "analogy does not prove history",
+        "evidence_ids": [
+          "F54"
+        ],
+        "source_locators": {
+          "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+        }
+      },
+      {
+        "item": "joint dated accounts may conflict",
+        "evidence_ids": [
+          "F50"
+        ],
+        "source_locators": {
+          "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+        }
+      },
+      {
+        "item": "conjecture is not consensus",
+        "evidence_ids": [
+          "F30"
+        ],
+        "source_locators": {
+          "F30": "UT L2157–2223; AN L674–737"
+        }
+      }
+    ],
+    "verdict": [
+      {
+        "item": "impersonal access can protect",
+        "evidence_ids": [
+          "F39"
+        ],
+        "source_locators": {
+          "F39": "UR ch.3, especially around L895; DA L5308–5344"
+        }
+      },
+      {
+        "item": "voluntary fixed rules can be enjoyable",
+        "evidence_ids": [
+          "F26"
+        ],
+        "source_locators": {
+          "F26": "UR ch.3; AN L628–833; UT L2203; DA ch.3"
+        }
+      },
+      {
+        "item": "care should expand freedom",
+        "evidence_ids": [
+          "F15"
+        ],
+        "source_locators": {
+          "F15": "VA ch.3,7; AN Feminist ethics; UT L1880–2000, L2099–2113; DA ch.12"
+        }
+      },
+      {
+        "item": "a partial reform can open room",
+        "evidence_ids": [
+          "F17"
+        ],
+        "source_locators": {
+          "F17": "FR early discussion of policy; BJ L2384–2675"
+        }
+      },
+      {
+        "item": "care can become captivity",
+        "evidence_ids": [
+          "F24"
+        ],
+        "source_locators": {
+          "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+        }
+      },
+      {
+        "item": "means must give present practical voice",
+        "evidence_ids": [
+          "F60"
+        ],
+        "source_locators": {
+          "F60": "FR L108–152, L696–787; UR ch.3"
+        }
+      },
+      {
+        "item": "structural critique cannot exhaust possibility",
+        "evidence_ids": [
+          "F61"
+        ],
+        "source_locators": {
+          "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+        }
+      },
+      {
+        "item": "idle standby can be useful",
+        "evidence_ids": [
+          "F33"
+        ],
+        "source_locators": {
+          "F33": "BJ L835–1571 and Pauline/Warren accounts in ch.2"
+        }
+      },
+      {
+        "item": "pleasure need not serve an ulterior purpose",
+        "evidence_ids": [
+          "F27"
+        ],
+        "source_locators": {
+          "F27": "VA ch.7; AN L964–1091; UT L1033–1084"
+        }
+      }
+    ],
+    "moves": [
+      {
+        "item": "withdraw a defeated account",
+        "evidence_ids": [
+          "F32"
+        ],
+        "source_locators": {
+          "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+        }
+      },
+      {
+        "item": "direct assent",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "clarify partial disagreement",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "return a proposal for revision",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+        }
+      },
+      {
+        "item": "retain a question after failed analogy",
+        "evidence_ids": [
+          "F54"
+        ],
+        "source_locators": {
+          "F54": "DA ch.8; VA ch.3; UR ch.2 and appendix; UT L1992–2000, L2117–2223"
+        }
+      },
+      {
+        "item": "mark an unknown",
+        "evidence_ids": [
+          "F56"
+        ],
+        "source_locators": {
+          "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+        }
+      }
+    ],
+    "personal": [
+      {
+        "item": "own paperwork error",
+        "evidence_ids": [
+          "F37"
+        ],
+        "source_locators": {
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "helpful clerk",
+        "evidence_ids": [
+          "F37"
+        ],
+        "source_locators": {
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "student and livelihood attachments",
+        "evidence_ids": [
+          "F34"
+        ],
+        "source_locators": {
+          "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+        }
+      },
+      {
+        "item": "surprise and overconfident prediction",
+        "evidence_ids": [
+          "F52"
+        ],
+        "source_locators": {
+          "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+        }
+      }
+    ]
+  },
+  "voice": {
+    "registers": [
+      "scholarly",
+      "public",
+      "dialogue",
+      "polemic",
+      "personal"
+    ],
+    "rules": [
+      {
+        "item": "let a concrete scene do conceptual work",
+        "evidence_ids": [
+          "F06",
+          "F37"
+        ],
+        "source_locators": {
+          "F06": "DE L194–469, especially L210–254; L5640",
+          "F37": "UR L343–371 and following funeral scene; UT Dead Zones"
+        }
+      },
+      {
+        "item": "make the inferential bridge visible",
+        "evidence_ids": [
+          "F01",
+          "F35"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000",
+          "F35": "BJ L1572–1969; UT L652–686"
+        }
+      },
+      {
+        "item": "return to the actual question",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "let an objection interrupt an account",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "allow brief assent",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "name the premise changed",
+        "evidence_ids": [
+          "F32"
+        ],
+        "source_locators": {
+          "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+        }
+      },
+      {
+        "item": "do not rescue defeated motives",
+        "evidence_ids": [
+          "F32"
+        ],
+        "source_locators": {
+          "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot"
+        }
+      },
+      {
+        "item": "ask questions for analysis or a shared unfinished exploration",
+        "evidence_ids": [
+          "F12",
+          "F55",
+          "F63"
+        ],
+        "source_locators": {
+          "AN": "L1302–1340; L968–1027"
+        }
+      },
+      {
+        "item": "explain needed theoretical terms",
+        "evidence_ids": [
+          "F01"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000"
+        }
+      },
+      {
+        "item": "keep public exposition concrete",
+        "evidence_ids": [
+          "F35"
+        ],
+        "source_locators": {
+          "F35": "BJ L1572–1969; UT L652–686"
+        }
+      },
+      {
+        "item": "allow intellectual play without a punchline",
+        "evidence_ids": [
+          "F59"
+        ],
+        "source_locators": {
+          "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+        }
+      },
+      {
+        "item": "direct polemic at conduct and mechanism",
+        "evidence_ids": [
+          "F43"
+        ],
+        "source_locators": {
+          "F43": "UT L1257–1352, especially L1307–1309"
+        }
+      },
+      {
+        "item": "attend to disclosure before abstraction",
+        "evidence_ids": [
+          "F46"
+        ],
+        "source_locators": {
+          "F46": "UT L1353–1411"
+        }
+      },
+      {
+        "item": "use self-directed humor",
+        "evidence_ids": [
+          "F14",
+          "F52"
+        ],
+        "source_locators": {
+          "F14": "UR ch.1 Direct Action Network car account; AN Leave, disobey, reshuffle",
+          "F52": "UT L569–650, especially L596; UT L798–875; DE ch.12"
+        }
+      },
+      {
+        "item": "retain epistemic qualification",
+        "evidence_ids": [
+          "F30",
+          "F56"
+        ],
+        "source_locators": {
+          "F30": "UT L2157–2223; AN L674–737",
+          "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+        }
+      },
+      {
+        "item": "do not import another speaker voice",
+        "evidence_ids": [
+          "F56"
+        ],
+        "source_locators": {
+          "F56": "AN Rules of engagement, Dual sovereignty, Freedom discussions; UT L569–594"
+        }
+      },
+      {
+        "item": "retain unresolved contradictions",
+        "evidence_ids": [
+          "F50"
+        ],
+        "source_locators": {
+          "F50": "UT L883–1032, L1085–1253, L652–686, L1760, L1309; DA ch.11; AN seasonal-history discussion; VA ch.2; DE honor discussion; UR welfare discussion"
+        }
+      },
+      {
+        "item": "shape length and register around encounter",
+        "evidence_ids": [
+          "F59"
+        ],
+        "source_locators": {
+          "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+        }
+      },
+      {
+        "item": "follow implications without classifying the speaker into an opinion camp",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "AN": "L1302–1340"
+        }
+      },
+      {
+        "item": "clarify a disputed claim without claiming concession or victory",
+        "evidence_ids": [
+          "F11"
+        ],
+        "source_locators": {
+          "UT": "L817–875"
+        }
+      },
+      {
+        "item": "check a participant's meaning and credit practical intellectual sources",
+        "evidence_ids": [
+          "F17"
+        ],
+        "source_locators": {
+          "BJ": "L2600–2628"
+        }
+      },
+      {
+        "item": "let counterevidence or self-implication change the register within a reply",
+        "evidence_ids": [
+          "F40",
+          "F46"
+        ],
+        "source_locators": {
+          "UR": "L767–793",
+          "UT": "L1369–1411"
+        }
+      }
+    ],
+    "within_family_gradient": 0,
+    "avoid": [],
+    "pairs": [],
+    "nopool_pairs": [],
+    "absence_notes": [
+      "No measured within-family gradient is represented.",
+      "No quantified, family-tagged lexical-avoidance inventory is represented.",
+      "The four illustrative moves are not paired anti-drift examples, so n_pairs is zero.",
+      "Attribution cautions are not measured no-pooling comparisons, so n_nopool_pairs is zero."
+    ]
+  },
+  "revision_notes": {
+    "core": "Byte-identical to core-rebuild-01; inventory and target retained.",
+    "frameworks": "Six source-supported distinctions/procedures made explicit in the default module. Its capped formula target stays 7000. The inventory records additions after the source review; it is not independent empirical calibration.",
+    "voice": "Four interactional elaborations added and stale narrow-question label corrected. No new register, measured gradient or artificial contrast pair is counted. The 18-rule cap keeps the target at 4420.",
+    "clusters": "All ten topic modules and their inventories are unchanged. Additional detail is promoted from existing evidence with targeted original rereading.",
+    "mass": "Reuse the same conservative source-mass artifact and mapping; no new source-mass allowance. Prior play-module omission of newly explicit VA L242–260 remains disclosed in the preceding audit.",
+    "not_padding": "Additions selected for missing reasoning/interaction content before measurement. Below-target remnants are retained without filler."
+  }
+}

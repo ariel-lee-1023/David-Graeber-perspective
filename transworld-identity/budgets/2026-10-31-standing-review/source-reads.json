@@ -1,0 +1,233 @@
+{
+  "revision": "standing-review-01",
+  "boundary_words": 32000,
+  "emitted_words_including_rereads": 25862,
+  "unique_selected_words": 25064,
+  "unit": "whitespace-delimited words in supplied Markdown, including markup; no fidelity score",
+  "ranges": [
+    {
+      "source": "FR",
+      "ranges": [
+        [
+          696,
+          745
+        ]
+      ],
+      "words": 1897,
+      "sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db"
+    },
+    {
+      "source": "FR",
+      "ranges": [
+        [
+          746,
+          787
+        ]
+      ],
+      "words": 1346,
+      "sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db"
+    },
+    {
+      "source": "VA",
+      "ranges": [
+        [
+          1368,
+          1409
+        ]
+      ],
+      "words": 1860,
+      "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+    },
+    {
+      "source": "VA",
+      "ranges": [
+        [
+          1370,
+          1370
+        ]
+      ],
+      "words": 140,
+      "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+    },
+    {
+      "source": "DA",
+      "ranges": [
+        [
+          4616,
+          4658
+        ]
+      ],
+      "words": 1521,
+      "sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930"
+    },
+    {
+      "source": "AN",
+      "ranges": [
+        [
+          1300,
+          1343
+        ]
+      ],
+      "words": 1039,
+      "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+    },
+    {
+      "source": "DA",
+      "ranges": [
+        [
+          4660,
+          4708
+        ]
+      ],
+      "words": 1836,
+      "sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930"
+    },
+    {
+      "source": "UR",
+      "ranges": [
+        [
+          763,
+          797
+        ]
+      ],
+      "words": 1862,
+      "sha256": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c"
+    },
+    {
+      "source": "UT",
+      "ranges": [
+        [
+          798,
+          837
+        ]
+      ],
+      "words": 1644,
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+    },
+    {
+      "source": "UT",
+      "ranges": [
+        [
+          838,
+          875
+        ]
+      ],
+      "words": 1832,
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+    },
+    {
+      "source": "BJ",
+      "ranges": [
+        [
+          2600,
+          2638
+        ]
+      ],
+      "words": 1469,
+      "sha256": "6f761c8d1889d0f49d1c7c71b60ed758f4198b777f624d7dfac8d09f44299772"
+    },
+    {
+      "source": "UT",
+      "ranges": [
+        [
+          1353,
+          1383
+        ]
+      ],
+      "words": 651,
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+    },
+    {
+      "source": "UT",
+      "ranges": [
+        [
+          1385,
+          1411
+        ]
+      ],
+      "words": 677,
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+    },
+    {
+      "source": "UT",
+      "ranges": [
+        [
+          883,
+          919
+        ]
+      ],
+      "words": 2141,
+      "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+    },
+    {
+      "source": "AN",
+      "ranges": [
+        [
+          1132,
+          1171
+        ]
+      ],
+      "words": 2055,
+      "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+    },
+    {
+      "source": "DE",
+      "ranges": [
+        [
+          5030,
+          5052
+        ]
+      ],
+      "words": 635,
+      "sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59"
+    },
+    {
+      "source": "DE",
+      "ranges": [
+        [
+          5056,
+          5068
+        ]
+      ],
+      "words": 491,
+      "sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59"
+    },
+    {
+      "source": "AN",
+      "ranges": [
+        [
+          1146,
+          1150
+        ]
+      ],
+      "words": 485,
+      "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+    },
+    {
+      "source": "DE",
+      "ranges": [
+        [
+          5056,
+          5058
+        ]
+      ],
+      "words": 173,
+      "sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59"
+    },
+    {
+      "source": "VA",
+      "ranges": [
+        [
+          1884,
+          1942
+        ]
+      ],
+      "words": 2108,
+      "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+    }
+  ],
+  "truncation_recovery": "VA L1370, AN L1146–1150 and DE L5056–5058 were redisplayed after output truncation. Supporting passages are covered by visible outputs; counts include rereads. Discovery scans are not claimed full readings.",
+  "ocr_pages": 0,
+  "all_eight_bodies_reread": false,
+  "raw_text_distributed": false
+}

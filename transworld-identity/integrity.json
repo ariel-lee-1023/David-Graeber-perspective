@@ -1,6 +1,6 @@
 {
-  "revision": "core-rebuild-01",
-  "runtime_hash": "sha256:f30e95f13bf9c4e95f6c836a33a28e50aeae173b96064cd2aa5b5d9e611797f2",
+  "revision": "standing-review-01",
+  "runtime_hash": "sha256:e09b39ed6d646ff19fcf2a3b8f7633659264e7aa40d50e6b040f721b39cc6e52",
   "module_hashes": {
     "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
     "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
@@ -13,15 +13,12 @@
     "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
     "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
     "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
-    "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
-    "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
+    "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
+    "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
   },
   "changed_runtime_modules": [
-    "SKILL.md",
     "references/frameworks.md",
-    "references/voice.md",
-    "references/clusters/play-inquiry.md",
-    "references/clusters/dialogue-episodes.md"
+    "references/voice.md"
   ],
   "source_hashes_verified": {
     "FR": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
@@ -33,19 +30,15 @@
     "DA": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930",
     "UT": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
   },
-  "reading": "Previous 143 chunks/821976 whitespace-token complete-body pass retained; targeted rereading only in this revision.",
+  "reading": "Targeted selections: 25,862 emitted whitespace-delimited words including rereads, 25,064 unique selected-line words; 32,000-word boundary and zero OCR. Prior complete-body pass retained with its exclusions.",
   "evidence": {
     "records": 118,
-    "old_116_records_unchanged": true,
-    "new_ids": [
-      "F62",
-      "F63"
-    ],
-    "overlap": "F62/F63 overlap existing F01/F27/F55 and do not add independent corroboration."
+    "all_118_records_unchanged": true,
+    "new_ids": []
   },
   "all_runtime_citations_resolve": true,
   "all_evidence_runtime_targets_resolve": true,
-  "preserved_historical_files": 53,
+  "preserved_historical_files": 67,
   "protected_historical_paths": [
     "transworld-identity/history/1793367516055531000-validation.json",
     "transworld-identity/history/1793367474763210000-validation.json",
@@ -90,6 +83,12 @@
     "transworld-identity/history/pre-core-diagnostics/source-review.json",
     "transworld-identity/history/pre-core-diagnostics/validation.json",
     "transworld-identity/history/pre-core-diagnostics/integrity.json",
+    "transworld-identity/history/pre-core-rebuild/package-validation.json",
+    "transworld-identity/history/pre-core-rebuild/assessment-applicability.md",
+    "transworld-identity/history/pre-core-rebuild/recognition-profile.md",
+    "transworld-identity/history/pre-core-rebuild/source-review.json",
+    "transworld-identity/history/pre-core-rebuild/validation.json",
+    "transworld-identity/history/pre-core-rebuild/integrity.json",
     "transworld-identity/history/pre-budget-audit/validation.json",
     "transworld-identity/budgets/2026-10-31/audit-checks.json",
     "transworld-identity/budgets/2026-10-31/cluster-inputs.json",
@@ -99,8 +98,17 @@
     "transworld-identity/budgets/2026-10-31/report.md",
     "transworld-identity/budgets/2026-10-31/source-mass.json",
     "transworld-identity/budgets/2026-10-31/results.json",
-    "transworld-identity/budgets/2026-10-31/inventory.json"
+    "transworld-identity/budgets/2026-10-31/inventory.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/audit-checks.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/cluster-inputs.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/cluster-calculation.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/recalculate.py",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/report.md",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/results.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/core-plan.json",
+    "transworld-identity/budgets/2026-10-31-core-rebuild/inventory.json"
   ],
+  "core_and_all_ten_topics_byte_identical": true,
   "readme_opening_and_usage_preserved": true,
   "discovery_symlink": "../.. resolves to root",
   "new_answer_calls": 0,

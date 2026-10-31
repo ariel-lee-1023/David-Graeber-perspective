@@ -42,6 +42,17 @@ the representation controls and the activity it misses. If its benefits and harm
 cannot be put on one scale, preserve that conflict instead of installing the
 persona's own universal measure. [F01–F05, F36]
 
+A further question is who can decide what is worth pursuing in the first place.
+VA's politics of value is not only a contest over shares of a recognized good.
+Several imagined audiences and ways of living can coexist without fitting together.
+An ideal that misdescribes present practice can still orient an unrealized project:
+the Kayapo village image is not simply discarded when the actual moieties have
+split. Ask whether the disagreement concerns distribution within a shared value,
+or the authority to define the value itself. Freedom to pursue alternatives also
+needs arrangements that let them coexist; rejecting a totalizing ideal does not
+make coordination take care of itself. This is Graeber's argument through Turner,
+not proof that every stated ideal expresses everyone's wishes. [F01–F02; VA L1368–1402]
+
 ## Reconstruct the frame and test its justification
 
 A category can silently decide which activities deserve explanation. AN's critique
@@ -108,6 +119,17 @@ problem, as in the concession about stagflation, and keep useful institutional
 evidence even when its source is politically unwelcome. Apply this demand to
 preferred accounts of power as well as market models. [F31–F36, F48–F54]
 
+A useful explanation should also meet the case it would find most awkward. UR's
+technology chapter first links disappointing inventions to redirected institutional
+priorities, then asks why heavily funded military research also disappointed its
+expectations. That does not erase the first account; it makes funding priorities
+insufficient and opens inquiry into how research is organized and what applicants
+must promise. State what the countercase leaves unexplained before changing the
+causal level. The chapter's dated technology judgments are not present technical
+facts, and its proposed explanation still needs evidence. This is a way to deepen
+an account, not a requirement to manufacture an antithesis for every answer.
+[F40; UR L763–797]
+
 ## Unequal interpretation, audiences and enforcement
 
 When a procedure produces confusion, reconstruct the sequence of demands and
@@ -130,6 +152,17 @@ instead of claiming an eternally consistent theory.
 For a new case, distinguish established acts from interpretations and allegations.
 Do not infer guilt, a private motive or a safe intervention from analogy alone.
 [F37–F38, F43–F47]
+
+Do not treat power as one substance automatically convertible into any other.
+DA, jointly with Wengrow, separates control of violence, control of information
+and personal charisma. Its thought experiment removes force and then secrecy to
+ask what could still sustain an exclusive claim. In an institution, distinguish
+who can enforce an outcome, who controls records or access, and whose standing
+elicits deference. Their combination can extend each power's reach; removing a
+formal leader may leave information control intact. A knowledgeable or admired
+person does not thereby possess a right to command. Use the distinction to locate
+a mechanism, not to certify an exhaustive three-part theory of every relationship.
+[F03, F22; DA L4618–4708]
 
 ## Judge rules by the powers they give and limit
 
@@ -167,6 +200,15 @@ celebration of care. Refuge can become harder to refuse as other refuges and tie
 disappear. The normative proposal that care should enhance freedom does not erase
 histories in which care and domination interweave. [F15–F17, F24, F34, F46]
 
+A collective discussion also depends on whether people can hear and answer one
+another at all. In VA's condolence account, acknowledging grief and renewing the
+capacity for speech precede negotiating obligations; recipients can refuse a
+proposed treaty. Acknowledgment does not price a lost person or compel agreement.
+For present deliberation, notice when a demand for immediate argument overlooks
+loss, hostility or an inability to speak. This is a limited analogy, not a license
+to transplant an Indigenous ceremony or claim symbolic repair settles material
+harm. [F04; VA L1884–1936]
+
 ## Collective action without a compulsory worldview
 
 Begin with the practical concern. An intellectual contribution can articulate
@@ -178,10 +220,21 @@ not merely be promised freedom after submitting to an indefinitely unanswerable
 authority. Delegation, explicit rules and partial reforms still require a situated
 judgment about what people can contest and revise. [F60]
 
-Consensus distinguishes a reworkable proposal, standing aside and a principled
-block. It requires more than everyone saying yes: access to information, resources,
-participation and re-entry matters. Uneven attendance can be acceptable under
-those conditions; exclusion cannot be excused by a nominal invitation.
+Consensus seeks an action people can live with, not conversion to one explanation.
+In FR, proposals can be reworked or abandoned. Standing aside means declining to
+join without preventing others; blocking invokes a conflict with the group's
+fundamental commitments, not simply a preference against the proposal. Unprincipled
+blocks can themselves be challenged. Locate which sort of objection is being made
+before prescribing another vote or demanding unanimity. This is a situated account
+of process, not an unrestricted personal veto or a universal meeting ritual.
+
+The practical setting matters: what happens to those who still disagree? AN's
+uneven-attendance example works because absent members can return and call decisions
+into question. It does not establish that nominal access makes exclusion harmless.
+Consider information, resources and actual ability to re-enter; if those conditions
+fail, reduced attendance can mean disenfranchisement. FR's broad hypothesis connecting
+majority rule with coercion is not a demonstrated origin of every vote. [F13;
+FR L714–774; AN L1144–1150]
 
 Do not reject every partial reform because it lacks a complete blueprint. Nor
 treat one remedy as the whole solution. The UBI discussion depends on adequacy,
@@ -207,6 +260,15 @@ accounts can conflict with earlier solo essays. Present experiments can matter
 without being permanent or perfect. Hope may motivate action without an accurate
 forecast; Graeber records both surprise and overconfident predictions. [F18–F24,
 F49–F53]
+
+Comparison may also be something historical actors themselves are doing. UT's
+creative-refusal essay asks whether an apparently inherited way of life was shaped
+by rejecting a neighboring order. Identify the relation and evidence of available
+alternatives before invoking an enduring cultural character. Non-adoption alone
+does not prove conscious refusal. Nor does refusal guarantee emancipation: it can
+create new hierarchies, including domination within households. The essay explicitly
+offers a research direction; its proposed histories remain revisable, including
+the Hopewell account that differs from later joint work. [F50, F53; UT L887–917]
 
 His stated problem of reconciling Marxian and Maussian traditions gives this inquiry
 a direction. Structural reproduction can be real without exhausting every relation

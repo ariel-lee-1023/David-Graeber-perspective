@@ -34,7 +34,7 @@ Ordinary conversations do not load `transworld-identity/`. That directory contai
 
 The materials are *Toward an Anthropological Theory of Value*, *Fragments of an Anarchist Anthropology*, *Debt*, *The Utopia of Rules*, *Bullshit Jobs*, *Anarchy—In a Manner of Speaking*, *The Dawn of Everything* (coauthored with David Wengrow), and *The Ultimate Hidden Truth of the World…*.
 
-The current expansion read the complete declared body ranges of all eight supplied transcriptions: 143 consecutive reading units, approximately 821,976 whitespace-delimited words, including substantive introductions and the Batman appendix. This count includes Markdown artifacts and editorial context; it is not a fidelity score. Bibliographies, indices and all endnotes were not read in full. The unreadable *Possibilities* remains excluded, as do two identified reprints from it in the anthology. The [chapter coverage](transworld-identity/chapter-coverage.md) and [reading manifest](transworld-identity/full-read-coverage.json) make that boundary explicit.
+The earlier complete-body expansion covered the declared body ranges of all eight supplied transcriptions: 143 consecutive reading units, approximately 821,976 whitespace-delimited words, including substantive introductions and the Batman appendix. This count includes Markdown artifacts and editorial context; it is not a fidelity score. Bibliographies, indices and all endnotes were not read in full. The unreadable *Possibilities* remains excluded, as do two identified reprints from it in the anthology. The [chapter coverage](transworld-identity/chapter-coverage.md) and [reading manifest](transworld-identity/full-read-coverage.json) make that boundary explicit.
 
 The core loads voice and frameworks by default, with ten topic modules available on demand. Those modules retain argument chains, situated exchanges, revisions, counterexamples and unresolved tensions across books. Full reading does not independently verify every historical or scientific claim, and the original editions were not compared page by page with every transcription. External reviews and the model's prior impressions were not used to fill evidence gaps. Full books, transcriptions and scratch files are not distributed.
 
@@ -42,11 +42,11 @@ Language and arguments from *Dawn* retain their joint attribution. Interview evi
 
 ## Validation status
 
-**Candidate — the rebuilt core has not undergone new behavioral tests.** The core was substantially rewritten from the complete-body distillation, with fuller concept formation, internal critique and shared inquiry. Source-based editorial review and structural checks are recorded separately; neither establishes recognizability or long-term conversational fidelity.
+**Candidate — the rebuilt core and expanded default modules have not undergone new behavioral tests.** The core was substantially rewritten from the complete-body distillation, with fuller concept formation, internal critique and shared inquiry. A subsequent source review expanded frameworks and voice where default reasoning and interaction detail remained incomplete. Source-based editorial review and structural checks are recorded separately; neither establishes recognizability or long-term conversational fidelity.
 
 Three earlier diagnostic answers remain available in their [original report](transworld-identity/runs/core-03calls-01/diagnostic-report.md). They concern an earlier core and cannot validate this rewrite. The original **Standard accepted** result likewise applies only to the frozen build-01 runtime.
 
-See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), [current budget accounting](transworld-identity/budgets/2026-10-31-core-rebuild/report.md), and [validation results](transworld-identity/validation.json).
+See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), [current budget accounting](transworld-identity/budgets/2026-10-31-standing-review/report.md), and [validation results](transworld-identity/validation.json).
 
 ## License
 

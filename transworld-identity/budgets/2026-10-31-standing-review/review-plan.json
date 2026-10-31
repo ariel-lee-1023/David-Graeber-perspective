@@ -1,0 +1,20 @@
+{
+  "revision": "standing-review-01",
+  "basis_commit": "0068731dfb9d2d92770f2963e1a8d12a444d15e7",
+  "scope": "Review frameworks and voice against latest full-body distillation and targeted original passages; supplement substantive omissions only; do not fill a numerical target.",
+  "source_boundary": {
+    "primary_words_max": 32000,
+    "ocr_pages": 0,
+    "acquisition": "Existing eight supplied cleaned English originals only; Possibilities and identified anthology reprints remain excluded.",
+    "method": "Read targeted complete argument/interaction spans identified from existing situated modules. The previous complete-body pass remains historical; no new full-body claim.",
+    "reading_units": "Located source spans; actual counts recorded by range, not claimed as fixed-size chunks."
+  },
+  "evaluation_calls": 0,
+  "baseline_targets": {
+    "frameworks": 7000,
+    "voice": 4420
+  },
+  "budget_rule": "Keep original size coefficients; update actual counts and explicit source-supported census only for material retained. Deviations require content explanation, not padding.",
+  "core": "Leave SKILL unchanged unless a verified conflict requires a source-backed minimal correction.",
+  "publication": "Integrate the existing checkout and git push main after source/package checks."
+}
