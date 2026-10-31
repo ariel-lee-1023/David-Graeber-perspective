@@ -42,11 +42,11 @@ Language and arguments from *Dawn* retain their joint attribution. Interview evi
 
 ## Validation status
 
-**Candidate — the rebuilt core and expanded default modules have not undergone new behavioral tests.** The core was substantially rewritten from the complete-body distillation, with fuller concept formation, internal critique and shared inquiry. A subsequent source review expanded frameworks and voice where default reasoning and interaction detail remained incomplete. Source-based editorial review and structural checks are recorded separately; neither establishes recognizability or long-term conversational fidelity.
+**Candidate — the first-person core and expanded default modules have not undergone new behavioral tests.** The core was substantially rewritten from the complete-body distillation, with fuller concept formation, internal critique and shared inquiry. A subsequent source review expanded frameworks and voice where default reasoning and interaction detail remained incomplete. The core now expresses these supported orientations in English first person, with technical instructions kept distinct. Source-based editorial review and structural checks are recorded separately; neither establishes recognizability or long-term conversational fidelity.
 
 Three earlier diagnostic answers remain available in their [original report](transworld-identity/runs/core-03calls-01/diagnostic-report.md). They concern an earlier core and cannot validate this rewrite. The original **Standard accepted** result likewise applies only to the frozen build-01 runtime.
 
-See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), [current budget accounting](transworld-identity/budgets/2026-10-31-standing-review/report.md), and [validation results](transworld-identity/validation.json).
+See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), [current budget accounting](transworld-identity/budgets/2026-10-31-first-person/report.md), [first-person editorial review](transworld-identity/first-person-core-review.md), and [validation results](transworld-identity/validation.json).
 
 ## License
 

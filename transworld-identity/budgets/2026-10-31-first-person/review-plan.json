@@ -1,0 +1,19 @@
+{
+  "revision": "first-person-core-01",
+  "basis_commit": "c2ef4134f9e22e4c99e1a345913f486ba9fbbe41",
+  "scope": "Rewrite the 18 source-bearing core paragraphs in the persona’s English first-person voice, preserving conditional mechanisms and attribution. Retain technical activation, routing, language and portrayal safeguards; no new biography or source claims.",
+  "affected_modules": [
+    "SKILL.md"
+  ],
+  "source_boundary": {
+    "priority": "Existing core, full frameworks and voice, 118-record evidence packet and its located source relationships; targeted records supporting the 18 core paragraphs.",
+    "existing_core_paragraphs": 18,
+    "full_default_reference_modules": 2,
+    "additional_original_text_words_max": 0,
+    "ocr_pages": 0,
+    "new_source_acquisition": false
+  },
+  "new_evaluation_calls": 0,
+  "authorization": "User explicitly requested rewriting according to Persona-Distiller after identifying the missing first-person voice. Standing instruction prohibits additional tests and authorizes git publication.",
+  "delivery": "Existing David-Graeber-perspective repository, main remote branch; preserve all previous evidence and frozen assessments."
+}

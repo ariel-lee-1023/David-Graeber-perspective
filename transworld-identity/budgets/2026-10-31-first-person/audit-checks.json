@@ -1,0 +1,18 @@
+{
+  "revision": "first-person-core-01",
+  "all_13_runtime_hashes_match": true,
+  "all_targets_counts_and_coefficients_unchanged": true,
+  "recalculation_byte_identical": true,
+  "core_target": 5040,
+  "core_actual": 5492.87,
+  "core_within_ten_percent": true,
+  "all_12_refs_unchanged": true,
+  "evidence_records_unchanged": 118,
+  "all_18_core_paragraphs_editorially_reviewed": true,
+  "package_validation": "PASS",
+  "source_review": "passed with explicit inherited source lineage",
+  "new_original_text_reading": 0,
+  "new_evaluation_calls": 0,
+  "machine_recognition": "not_run",
+  "status": "candidate"
+}

@@ -1,8 +1,8 @@
 {
-  "revision": "standing-review-01",
-  "runtime_hash": "sha256:e09b39ed6d646ff19fcf2a3b8f7633659264e7aa40d50e6b040f721b39cc6e52",
+  "revision": "first-person-core-01",
+  "runtime_hash": "sha256:50f7ebba0855f3a8afc00a789537eaa67641e3dd6dbe9de306dc41d63a7208ce",
   "module_hashes": {
-    "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+    "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
     "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
     "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
     "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
@@ -17,28 +17,20 @@
     "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
   },
   "changed_runtime_modules": [
-    "references/frameworks.md",
-    "references/voice.md"
+    "SKILL.md"
   ],
-  "source_hashes_verified": {
-    "FR": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db",
-    "AN": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756",
-    "VA": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068",
-    "DE": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59",
-    "BJ": "6f761c8d1889d0f49d1c7c71b60ed758f4198b777f624d7dfac8d09f44299772",
-    "UR": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c",
-    "DA": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930",
-    "UT": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
-  },
-  "reading": "Targeted selections: 25,862 emitted whitespace-delimited words including rereads, 25,064 unique selected-line words; 32,000-word boundary and zero OCR. Prior complete-body pass retained with its exclusions.",
+  "source_review_basis": "Existing source-grounded distillation; no new original text reading or file-hash claim.",
   "evidence": {
     "records": 118,
-    "all_118_records_unchanged": true,
+    "all_records_unchanged": true,
     "new_ids": []
   },
+  "all_12_refs_byte_identical": true,
+  "core_source_paragraphs_reviewed": 18,
+  "first_person_narrative_editorially_reviewed": true,
   "all_runtime_citations_resolve": true,
   "all_evidence_runtime_targets_resolve": true,
-  "preserved_historical_files": 67,
+  "preserved_historical_files": 81,
   "protected_historical_paths": [
     "transworld-identity/history/1793367516055531000-validation.json",
     "transworld-identity/history/1793367474763210000-validation.json",
@@ -73,6 +65,11 @@
     "transworld-identity/runs/build-01/judge-1.json",
     "transworld-identity/runs/build-01/coordinator-persona.json",
     "transworld-identity/runs/build-01/freeze-manifest.json",
+    "transworld-identity/history/pre-standing-review/package-validation.json",
+    "transworld-identity/history/pre-standing-review/assessment-applicability.md",
+    "transworld-identity/history/pre-standing-review/source-review.json",
+    "transworld-identity/history/pre-standing-review/validation.json",
+    "transworld-identity/history/pre-standing-review/integrity.json",
     "transworld-identity/history/pre-full-read/package-validation.json",
     "transworld-identity/history/pre-full-read/scope.md",
     "transworld-identity/history/pre-full-read/source-review.json",
@@ -90,6 +87,15 @@
     "transworld-identity/history/pre-core-rebuild/validation.json",
     "transworld-identity/history/pre-core-rebuild/integrity.json",
     "transworld-identity/history/pre-budget-audit/validation.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/audit-checks.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/cluster-inputs.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/cluster-calculation.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/recalculate.py",
+    "transworld-identity/budgets/2026-10-31-standing-review/review-plan.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/report.md",
+    "transworld-identity/budgets/2026-10-31-standing-review/results.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/source-reads.json",
+    "transworld-identity/budgets/2026-10-31-standing-review/inventory.json",
     "transworld-identity/budgets/2026-10-31/audit-checks.json",
     "transworld-identity/budgets/2026-10-31/cluster-inputs.json",
     "transworld-identity/budgets/2026-10-31/cluster-calculation.json",
@@ -108,8 +114,7 @@
     "transworld-identity/budgets/2026-10-31-core-rebuild/core-plan.json",
     "transworld-identity/budgets/2026-10-31-core-rebuild/inventory.json"
   ],
-  "core_and_all_ten_topics_byte_identical": true,
-  "readme_opening_and_usage_preserved": true,
+  "readme_opening_examples_and_usage_preserved": true,
   "discovery_symlink": "../.. resolves to root",
   "new_answer_calls": 0,
   "new_controls": 0,

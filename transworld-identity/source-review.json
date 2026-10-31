@@ -1,23 +1,23 @@
 {
-  "summary": "Source-based supplementation of frameworks and voice: six reasoning omissions and four interaction/expression omissions restored with situated conditions; unchanged planning targets now met within ten percent; core and topic modules unchanged; no new behavioral tests.",
-  "reviewer": "Codex builder; targeted source-based editorial review with explicit inherited review lineage, not independent scholarship or a recognition judge",
+  "summary": "Core rewritten in English first-person persona prose; all 18 source-bearing paragraphs preserve conditional reasoning, interaction and attribution. Technical instructions remain labeled. All reference modules and evidence are unchanged; no new tests.",
+  "reviewer": "Codex builder; editorial comparison of the rewrite against the prior source-reviewed core, full default references and selected situated evidence. No new original-book reading or independent recognition judgment.",
   "reviewed_all_core_claims": true,
-  "revision": "standing-review-01",
+  "revision": "first-person-core-01",
   "limitations": [
-    "This revision reviewed selected original passages across eight supplied cleaned transcriptions, not all eight bodies again; the earlier complete-body pass retains its declared exclusions.",
-    "Coauthorship, edited dialogue, translation, retrospective inference and overlapping episodes limit attribution and historical claims.",
-    "Source-supported census and formula compliance are editorial planning information, not empirical admission, completeness or fidelity measurements.",
-    "No new answer, control, judge, scenario or retry was run. Historical recognition results do not certify changed loaded inputs.",
-    "Long-term conversation, autonomous routing, post-compaction recall and distinctive recognizability remain unestablished."
+    "This pass rewrites narrative perspective from the existing source-grounded distillation; it does not reread the original books or add new source evidence.",
+    "First-person prose is newly authored reconstruction of supported orientations, not historical quotations, an identity claim or autobiographical memory.",
+    "Coauthorship, edited dialogue, translation, retrospective inference and overlapping episodes retain their previous attribution limits.",
+    "Targets and census remain editorial planning estimates; meeting them does not establish completeness or fidelity.",
+    "No scenarios, answers, controls, judges or retries were added. Current-runtime recognition and long-term conversation remain unestablished."
   ],
   "source_checks": [
     {
-      "claim": "People make social worlds whose consequences they do not wholly control",
-      "core_section": "Find the question inside the familiar arrangement",
-      "core_paragraph_sha256": "26ef2fbaac9e0184511ba664fc87b28c2421a9d06163dcf01a2b23967ccdf889",
+      "claim": "Humanly made arrangements and their real constraints",
+      "core_section": "Where I begin",
+      "core_paragraph_sha256": "3d300b42127cb9461bb91fe93f087ddf71eb02d5a67c99cd0840bbc280c56c98",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
-      "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+      "assessment": "Attention begins in an ordinary encounter, then follows how people make and sustain institutions. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Human authorship permits inquiry and change without making institutional constraints imaginary.",
       "evidence_ids": [
         "F01",
         "F02",
@@ -35,7 +35,7 @@
         "F37"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
@@ -44,35 +44,39 @@
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
         "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "26ef2fbaac9e0184511ba664fc87b28c2421a9d06163dcf01a2b23967ccdf889"
     },
     {
-      "claim": "Sometimes the difficulty lies in the question's categories",
-      "core_section": "Find the question inside the familiar arrangement",
-      "core_paragraph_sha256": "46b1d4d01f9e661f1b61538fd910b6b568f893d8d5dfd7b7c9c0393956d26dd9",
+      "claim": "Concept formation from the question’s categories",
+      "core_section": "Where I begin",
+      "core_paragraph_sha256": "4b9d319379733dbdb661c4d07c07af889076dd502dce801150d6737fe5c49365",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
-      "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+      "assessment": "The first-person question recovers dressing, hosting and relationship-making before accepting consumption as the explanation. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "The three meanings of value stay distinct; connections need inquiry, and adequate ordinary descriptions remain usable.",
       "evidence_ids": [
         "F01",
         "F62"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "46b1d4d01f9e661f1b61538fd910b6b568f893d8d5dfd7b7c9c0393956d26dd9"
     },
     {
-      "claim": "Follow activity into recognition",
-      "core_section": "Find the question inside the familiar arrangement",
-      "core_paragraph_sha256": "6fa81927de219736aeee949f994adc0153d3fa281d5ec6f6c15a1644de34a1e1",
+      "claim": "Activity, audience and recognition",
+      "core_section": "Where I begin",
+      "core_paragraph_sha256": "b0012275b4a6fecc0fc6012f7e10c9960d4311e37e3153e74ea4342e15c95aa4",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
-      "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+      "assessment": "First-person inquiry follows contributors, the audience of recognition and the powers a representation enables. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Recognition can both conceal work and create capacity; attachment and useful coordination survive criticism.",
       "evidence_ids": [
         "F02",
         "F03",
@@ -81,43 +85,47 @@
         "F36"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "6fa81927de219736aeee949f994adc0153d3fa281d5ec6f6c15a1644de34a1e1"
     },
     {
-      "claim": "Reconstruct a position strongly enough to discover its actual problem",
-      "core_section": "Pursue the argument, including its inconvenient parts",
-      "core_paragraph_sha256": "16b9719a3d411c1f90cf4a2720698c7e04518c500b6accb230e5d7a3e467d041",
+      "claim": "Internal critique with the opponent’s actual justification",
+      "core_section": "What an explanation must survive",
+      "core_paragraph_sha256": "566fa1e436efb258b8760149c85ca10c62e98cb4107b29e9b2dcc3d0a34e7a70",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
-      "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+      "assessment": "The lending and administrative examples now unfold as a reasoning process voiced from within the perspective. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "A contradiction requires evidence; an opponent’s explanation may survive, and prior political agreement is unnecessary.",
       "evidence_ids": [
         "F06",
         "F37",
         "F51"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "16b9719a3d411c1f90cf4a2720698c7e04518c500b6accb230e5d7a3e467d041"
     },
     {
-      "claim": "Distinguish the event, the explanation and the larger claim",
-      "core_section": "Pursue the argument, including its inconvenient parts",
-      "core_paragraph_sha256": "fef1b6b83cb80a2f88ee98930d6b981a9202e05892ccace5f6c2aa604687e7e2",
+      "claim": "Evidence matched to causal reach",
+      "core_section": "What an explanation must survive",
+      "core_paragraph_sha256": "69cdb7186fe7e411d04e21c02ebd5c4c22bbb151aa3bf415e023d6b394e755fb",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
-      "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+      "assessment": "The worker’s knowledge, economy-wide explanation, beneficiaries and standby example retain separate evidential roles. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "A useful idle role changes the diagnosis; missing causal evidence remains missing even for a favored explanation.",
       "evidence_ids": [
         "F31",
         "F32",
@@ -131,21 +139,23 @@
         "F51"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "fef1b6b83cb80a2f88ee98930d6b981a9202e05892ccace5f6c2aa604687e7e2"
     },
     {
-      "claim": "Make connections ambitious enough to reveal possibilities, with the bridge visible",
-      "core_section": "Pursue the argument, including its inconvenient parts",
-      "core_paragraph_sha256": "0d6c11d748d4a54cc8897a5687f3191169846b39268f1e1f98ce4b7fc2221671",
+      "claim": "Historical comparison without a forecast",
+      "core_section": "What an explanation must survive",
+      "core_paragraph_sha256": "1fc0e686275de54cf2635bfc28e5d67b2a46169a8480d3ea91e3a5f0eaa52611",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
-      "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+      "assessment": "First-person comparison asks about movement among arrangements while keeping a visible inferential bridge. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "A counterexample defeats necessity without predicting the future; no palace does not prove democracy and conjecture stays provisional.",
       "evidence_ids": [
         "F18",
         "F19",
@@ -163,44 +173,48 @@
         "F54"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "0d6c11d748d4a54cc8897a5687f3191169846b39268f1e1f98ce4b7fc2221671"
     },
     {
-      "claim": "When evidence changes, identify the inference it breaks and rebuild from there",
-      "core_section": "Pursue the argument, including its inconvenient parts",
-      "core_paragraph_sha256": "3b16e1fb8d32d81ac989446d92d672b0b5c7500350c172c24ace6f07170e4a87",
+      "claim": "Revision at the inference that fails",
+      "core_section": "What an explanation must survive",
+      "core_paragraph_sha256": "c22a67a9825920dbba977aac04760609cd3e87b904abc5e1a420a221f8082874",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
-      "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+      "assessment": "Chloe and hasina remain attributed cases supporting partial revision, rather than newly claimed memories. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Clarification, counterexample and value conflict remain distinct; no hidden motive rescues a defeated explanation.",
       "evidence_ids": [
         "F32",
         "F48",
         "F55"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf",
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "3b16e1fb8d32d81ac989446d92d672b0b5c7500350c172c24ace6f07170e4a87"
     },
     {
-      "claim": "Cooperation, exchange and hierarchy coexist within arrangements; they are not self-contained kinds of society",
-      "core_section": "Judge relations and practical powers",
-      "core_paragraph_sha256": "11688bffb489b0570511bb45dd9e0c52f30b0ab0ee8aa69c4bd969e64a0d869e",
+      "claim": "Relations before debt and gift verdicts",
+      "core_section": "What a relation permits",
+      "core_paragraph_sha256": "bc003e8b3796a70143627803db4becf8bf8d2b61d9e5a34d15c3f00489559825",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
-      "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+      "assessment": "The persona asks how an obligation arose, what it permits and how it became enforceable. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "The same settlement can free a person or end a valued relation; gifts can be generous and humiliating.",
       "evidence_ids": [
         "F06",
         "F07",
@@ -210,20 +224,22 @@
         "F11"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "11688bffb489b0570511bb45dd9e0c52f30b0ab0ee8aa69c4bd969e64a0d869e"
     },
     {
-      "claim": "Attend to who must understand whom",
-      "core_section": "Judge relations and practical powers",
-      "core_paragraph_sha256": "2638a0f0cb7e26df2f8f9607a8a1413b02c1f2da46f01995d8b283c8b8acbf1c",
+      "claim": "Interpretive labor and a critic’s fallibility",
+      "core_section": "What a relation permits",
+      "core_paragraph_sha256": "713ac35e28e67475166084a8845df04596e40162b4f1d3ec9e57d518f366f05d",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
-      "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+      "assessment": "First-person attention follows demands, handoffs, audience and sanctions; the paperwork example retains the helpful clerk and the critic’s mistakes. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Institutional criticism need not imply universal villainy; analogy establishes neither guilt, motive nor a safe response.",
       "evidence_ids": [
         "F37",
         "F38",
@@ -234,21 +250,23 @@
         "F47"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "2638a0f0cb7e26df2f8f9607a8a1413b02c1f2da46f01995d8b283c8b8acbf1c"
     },
     {
-      "claim": "Judge rules by what they protect and what they make unanswerable",
-      "core_section": "Judge relations and practical powers",
-      "core_paragraph_sha256": "4613db5e24f3d491b70a91caf86b91bc36c88d94fabf06ee9b13058bd543930a",
+      "claim": "Rules, protection and revisability",
+      "core_section": "What a relation permits",
+      "core_paragraph_sha256": "163865b6f78dafa04056f43a9d02563880e2ad2d2cbf92024f04989f72be28f1",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
-      "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+      "assessment": "The rule discussion preserves privacy, access, informal authority, contestation and replacement of useful functions. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Fixed game rules can be enjoyable; open-ended play can be cruel. Consent, actual withdrawal and irreversible effects alter judgment.",
       "evidence_ids": [
         "F13",
         "F14",
@@ -259,7 +277,7 @@
         "F41"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
@@ -267,15 +285,17 @@
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
         "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "4613db5e24f3d491b70a91caf86b91bc36c88d94fabf06ee9b13058bd543930a"
     },
     {
-      "claim": "Favor practical capacities to leave, refuse and reshape common relations",
-      "core_section": "Judge relations and practical powers",
-      "core_paragraph_sha256": "5634f9afb33a96ef8effab09f3edb39c36bb959584b40c880124c6fa7f06d319",
+      "claim": "Freedom, care and commitments with costs",
+      "core_section": "What a relation permits",
+      "core_paragraph_sha256": "ed1e3b9f680f5aaee89573c74afeec10e7c30425dc67dcd19782f5f01be9b4bb",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
-      "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+      "assessment": "The persona’s commitments are stated through hospitality, resources, exit, refusal, reshaping relations and care. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Dependence can enable freedom; refuge can become captivity. Caregivers’ freedom and reasons to remain in a disliked institution remain visible.",
       "evidence_ids": [
         "F15",
         "F16",
@@ -285,22 +305,24 @@
         "F34"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "5634f9afb33a96ef8effab09f3edb39c36bb959584b40c880124c6fa7f06d319"
     },
     {
-      "claim": "Keep the tension Graeber describes between structural reproduction and social possibilities already present",
-      "core_section": "Work between critique and possibility",
-      "core_paragraph_sha256": "ce2a39a52802965f2ecad55bab6159bc300621a3a238c1fb42060dd73ca64c82",
+      "claim": "Structural critique and already existing possibilities",
+      "core_section": "Between critique and possibility",
+      "core_paragraph_sha256": "c9d2f3688a5420ede40a1098e8ec21803ae1f5e870f6130bd544b8c6b8f62edc",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
-      "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+      "assessment": "The continuing tension is expressed from the persona’s standpoint, preserving both reproduced exploitation and unrealized capacities. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "No local example erases constraints; no total account eliminates every alternative; a hopeful ending is not required.",
       "evidence_ids": [
         "F12",
         "F51",
@@ -310,21 +332,23 @@
         "F61"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "ce2a39a52802965f2ecad55bab6159bc300621a3a238c1fb42060dd73ca64c82"
     },
     {
-      "claim": "Offer an intellectual contribution back as something others can alter or refuse",
-      "core_section": "Work between critique and possibility",
-      "core_paragraph_sha256": "3ed8f49fc6425aba7818771e566bb6aa17427e33d16a56cbf3f16cf78e219a6d",
+      "claim": "Alterable contributions and means that embody ends",
+      "core_section": "Between critique and possibility",
+      "core_paragraph_sha256": "96eed8935024ed5748cfb82e6b166a4cbde80badb8a8d418a3c6d4718547f3cb",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
-      "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+      "assessment": "The persona offers contributions others can reject and examines powers created during a change. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Delegation and formal procedure require situated judgment; a partial remedy need not settle the future and promised freedom does not erase present subordination.",
       "evidence_ids": [
         "F11",
         "F12",
@@ -334,21 +358,23 @@
         "F60"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "3ed8f49fc6425aba7818771e566bb6aa17427e33d16a56cbf3f16cf78e219a6d"
     },
     {
-      "claim": "Do not demand a productive excuse for music, conversation, friendship or play",
-      "core_section": "Work between critique and possibility",
-      "core_paragraph_sha256": "383808aeda731432a08a6e1afb3b2f0ecd7370c8865eac31a2561e1b176e120b",
+      "claim": "Pleasure and unresolved value conflicts",
+      "core_section": "Between critique and possibility",
+      "core_paragraph_sha256": "6be51959ab7cbdb5a5da0f2b7874d2e6c3ca798bfa038b9e7e80774cf225828e",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
-      "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+      "assessment": "Play and enjoyment are stated as possible reasons in themselves, alongside art, care and destructive desire. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Pleasure need not be harmless; real attachments can be exploited; freedom does not promise the end of grief or conflict.",
       "evidence_ids": [
         "F16",
         "F25",
@@ -359,58 +385,64 @@
         "F30"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "383808aeda731432a08a6e1afb3b2f0ecd7370c8865eac31a2561e1b176e120b"
     },
     {
-      "claim": "Answer the contribution actually made",
-      "core_section": "Let another mind change the inquiry",
-      "core_paragraph_sha256": "836a8d46da79eb8534f6b9e429e11b48c3f55b88af5bbbb6c1674d92470afa13",
+      "claim": "A dialogue can form its own question",
+      "core_section": "Thinking with someone",
+      "core_paragraph_sha256": "491b7e97a96d49253629cfab5ff56cd75ca3b26a9bca6d5d5f002ab1e875c915",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
-      "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+      "assessment": "First-person response develops through actual contributions; Dubrovsky and Turquier-Zauberman keep their contributions. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Agreement, distinction, disagreement and a changed question are all available; no appropriation or universal formula of assent.",
       "evidence_ids": [
         "F55",
         "F63"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "836a8d46da79eb8534f6b9e429e11b48c3f55b88af5bbbb6c1674d92470afa13"
     },
     {
-      "claim": "When a challenge reaches an inherited premise, name that premise and give the alternative enough room to become intelligible",
-      "core_section": "Let another mind change the inquiry",
-      "core_paragraph_sha256": "a131def8f7b3bb890aacb9cafca37b8a1db8eb04ce616940760309c8151e345a",
+      "claim": "An objection can expose an inherited premise",
+      "core_section": "Thinking with someone",
+      "core_paragraph_sha256": "8ae1ba9fadc8c20c34b010e790708cd054a96dddbcc87ca0a6757a63897c7c89",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
-      "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+      "assessment": "Kacem’s challenge remains a case for fair reconstruction and a qualified ethnographic connection. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "A tentative concession is not a complete conversion. The interlocutor retains authorship of the connection.",
       "evidence_ids": [
         "F63"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "a131def8f7b3bb890aacb9cafca37b8a1db8eb04ce616940760309c8151e345a"
     },
     {
-      "claim": "Allow exploration without an immediate practical payoff",
-      "core_section": "Let another mind change the inquiry",
-      "core_paragraph_sha256": "c56fda6a8b8f41790b1000da9fb4f83c9fc1f9605f91fbd13cafa14cb5d41028",
+      "claim": "Shared inquiry without a required practical payoff",
+      "core_section": "Thinking with someone",
+      "core_paragraph_sha256": "e9591e0c845ea8fd7d4122350c4931ecdb7f8f9ac6cc8c25e5172688546ab43c",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
-      "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+      "assessment": "The persona permits action-oriented questions, conceptual puzzles, new directions and short completed answers. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "No ceremonial question, automatic return to political topics or mandatory application.",
       "evidence_ids": [
         "F25",
         "F30",
@@ -422,21 +454,23 @@
         "F63"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "c56fda6a8b8f41790b1000da9fb4f83c9fc1f9605f91fbd13cafa14cb5d41028"
     },
     {
-      "claim": "Let expression follow the encounter: patient reconstruction, plain explanation, friendly speculation, comic reversal, impatience or direct anger",
-      "core_section": "Let another mind change the inquiry",
-      "core_paragraph_sha256": "dd6bdcd6559de8fe2c322c3ca748bdd2043f7d5ac8ac91c78329eec27a75f700",
+      "claim": "Expression follows stakes and the encounter",
+      "core_section": "Thinking with someone",
+      "core_paragraph_sha256": "98061c4d52cc4bb45076f3184e8b7a5b1d600159bc0ee535bc4c3891e3791678",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
-      "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+      "assessment": "Patient, speculative, comic, impatient and angry expression remain possible in first-person prose. Compared against the previous core and the complete frameworks and voice modules; selected supporting records were reread where attribution or revision was sensitive.",
+      "condition_or_exception": "Conviction cannot supply knowledge; pain is attended to before abstraction and risky defiance is not prescribed casually from a distance.",
       "evidence_ids": [
         "F34",
         "F37",
@@ -446,7 +480,7 @@
         "F59"
       ],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae",
@@ -454,26 +488,28 @@
         "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "The underlying original-text review is inherited from core-rebuild-01 and standing-review-01. This revision reviews the new prose against that evidence; it does not claim a fresh original-text check.",
+      "core_paragraph_hash_encoding": "UTF-8 exact paragraph, without trailing newline",
+      "previous_core_paragraph_sha256": "dd6bdcd6559de8fe2c322c3ca748bdd2043f7d5ac8ac91c78329eec27a75f700"
     },
     {
       "claim": "Description, language, activation, nonmandatory organization, loading, continuity and portrayal",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: All retained discovery/language/loading contracts agree with host and README. Core remains a source-grounded perspective and does not claim historical identity, invented memory or unqualified authority. The nonmechanical organization and safeguards are authoring choices, not historical personality evidence.",
+      "assessment": "Language and activation instructions, routing, continuity and attribution safeguards are retained. An explicit first-person reconstruction note and a separate continuity heading clarify their role. The persona body uses first person without converting evidence episodes into personal memories.",
       "condition_or_exception": "Full default modules remain mandatory; topics conditional. Explicit language requests override; first person is present analysis only. Attribution distinguishes joint authors, participants and editors. No source-memory or test capability claim.",
       "implementation_safeguard": true,
       "evidence_ids": [],
       "dependencies": {
-        "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+        "SKILL.md": "sha256:c502a06b50958952aa8d4bb18e3305078cd61bc83b3e6a0d8e1439bbda81f3d6",
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3",
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Implementation safeguards reviewed against the current core and unchanged host/README usage; these are not historical personality evidence."
     },
     {
       "claim": "Reference continuity: action value",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F01",
@@ -485,12 +521,12 @@
       "dependencies": {
         "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: bureaucracy technology",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F37",
@@ -503,12 +539,12 @@
       "dependencies": {
         "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: cooperation care",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F12",
@@ -522,12 +558,12 @@
       "dependencies": {
         "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: dialogue episodes",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. F62/F63 additions were checked against the original passages and distinguish participant attribution, speculative bridges and overlaps.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F55",
@@ -540,12 +576,12 @@
       "dependencies": {
         "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: history possibility",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F18",
@@ -559,12 +595,12 @@
       "dependencies": {
         "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: inquiry revision",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F48",
@@ -579,12 +615,12 @@
       "dependencies": {
         "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: obligation power",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F06",
@@ -597,12 +633,12 @@
       "dependencies": {
         "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: play inquiry",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. F62/F63 additions were checked against the original passages and distinguish participant attribution, speculative bridges and overlaps.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F25",
@@ -616,12 +652,12 @@
       "dependencies": {
         "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: violence audiences",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F43",
@@ -633,12 +669,12 @@
       "dependencies": {
         "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Reference continuity: work purpose",
       "outcome": "passed",
-      "assessment": "Prior source-review assessment, retained under the explicit lineage below: Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
       "evidence_ids": [
         "F31",
@@ -651,19 +687,19 @@
       "dependencies": {
         "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
       },
-      "review_lineage": "Inherited from core-rebuild-01. The core paragraph or topic text is byte-identical; any expanded framework/voice dependency was checked for compatibility with this retained claim. This is not a new full-source review."
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json."
     },
     {
       "claim": "Value conflict can concern authority to define worthwhile ends, not only distribution",
       "outcome": "passed",
-      "assessment": "Restored the progression from multiple imagined wholes and the unrealized Kayapo ideal to the politics of defining value and arrangements for plural projects.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Graeber argues through Turner; a stated ideal need not express everyone’s wishes, and rejecting a totalizing ideal does not solve coordination.",
       "evidence_ids": [
         "F01",
         "F02"
       ],
       "original_locator": "VA L1368–1402",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -671,13 +707,13 @@
     {
       "claim": "A preferred causal explanation must face its own awkward countercase",
       "outcome": "passed",
-      "assessment": "Retained redirected funding as a partial account, then followed disappointing heavily funded military research into the organization of research and promises required from applicants.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "The countercase narrows explanatory sufficiency; it does not prove the replacement explanation or update dated technology judgments into current facts.",
       "evidence_ids": [
         "F40"
       ],
       "original_locator": "UR L763–797",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -685,14 +721,14 @@
     {
       "claim": "Distinguish power channels before inferring their combination",
       "outcome": "passed",
-      "assessment": "Restored the jointly authored separation of violence, information and charisma, including the successive-removal thought experiment and the possibility of persisting information control.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Joint attribution to Graeber and Wengrow is explicit. The thought experiment does not prove an exhaustive theory or turn knowledge into a right to command.",
       "evidence_ids": [
         "F03",
         "F22"
       ],
       "original_locator": "DA L4618–4708",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -700,13 +736,13 @@
     {
       "claim": "Deliberation can require restoring the capacity to hear and answer",
       "outcome": "passed",
-      "assessment": "Connected acknowledgment of grief and renewed speech with negotiating obligations and possible refusal of a treaty.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Limited analogy; no imposed forgiveness, transplanted ceremony, price on life or substitution of symbolic acknowledgment for material repair.",
       "evidence_ids": [
         "F04"
       ],
       "original_locator": "VA L1884–1936",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -714,13 +750,13 @@
     {
       "claim": "Consensus distinctions depend on the objection and actual possibilities of participation",
       "outcome": "passed",
-      "assessment": "Restored proposal reworking, standing aside, principled blocks and challenging an unprincipled block; connected uneven attendance to meaningful return and contestation.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Not an unrestricted veto or universal meeting procedure. Nominal access does not ensure inclusion; the voting/coercion account remains a broad historical hypothesis.",
       "evidence_ids": [
         "F13"
       ],
       "original_locator": "FR L714–774; AN L1144–1150",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -728,14 +764,14 @@
     {
       "claim": "Historical comparison can itself be an actor’s causal activity",
       "outcome": "passed",
-      "assessment": "Restored creative refusal as a relational alternative to primordial cultural character, with evidence of available alternatives required.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Non-adoption alone cannot prove conscious refusal; refusal can produce domination; the earlier Hopewell discussion remains distinct from later joint work.",
       "evidence_ids": [
         "F50",
         "F53"
       ],
       "original_locator": "UT L887–917",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/frameworks.md": "sha256:97ab150b2ba607575a52c24d8afd5942fb096fcfdf65ae963cfdfaf804755bb3"
       }
@@ -743,13 +779,13 @@
     {
       "claim": "Explore another person’s implications and revise one’s own explanation",
       "outcome": "passed",
-      "assessment": "Preserved the opinion/implication contrast and the revision from a higher-education explanation to noticing children’s existing capacity.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Turquier-Zauberman’s warning about traps remains hers. The exchange does not certify broad educational claims as settled findings.",
       "evidence_ids": [
         "F12"
       ],
       "original_locator": "AN L1302–1340",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       }
@@ -757,13 +793,13 @@
     {
       "claim": "Clarify a misreading while preserving a substantive disagreement",
       "outcome": "passed",
-      "assessment": "Preserved the denial of reducing capital to debt, clarifying wealth/per-capita questions and the distinction between conceptual opening and complete remedy.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Piketty’s distributional objection remains unresolved. Translated, edited dialogue supports interaction structure more securely than exact English verbal habits.",
       "evidence_ids": [
         "F11"
       ],
       "original_locator": "UT L817–875",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       }
@@ -771,13 +807,13 @@
     {
       "claim": "Learn what a demand does from its participants and retain attribution",
       "outcome": "passed",
-      "assessment": "Restored the sequence from payment mechanisms to provocation, checking understanding, asking whose slogan it was and acknowledging Gorz’s prior formulation.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Candi and the movement retain their contribution; no appropriation as Graeber’s discovery, and no routine performance of self-abasement.",
       "evidence_ids": [
         "F17"
       ],
       "original_locator": "BJ L2600–2628",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       }
@@ -785,20 +821,31 @@
     {
       "claim": "A register may change within an argument through counterevidence and self-implication",
       "outcome": "passed",
-      "assessment": "Connected the technological countercase with the mother essay’s movement from public criticism to confronting one’s own disbelief, and the coexistence of affection, regret, humor and anger.",
+      "assessment": "Unchanged module and source evidence retain the preceding review. Compatibility with the rewritten core was checked; no new original-text reading is claimed.",
       "condition_or_exception": "Knowing a theory is not necessarily revising intuitive expectations. Retrospective interpretations and unsupported insinuations are not established events; never manufacture a personal memory.",
       "evidence_ids": [
         "F40",
         "F46"
       ],
       "original_locator": "UR L767–793; UT L1369–1411",
-      "review_lineage": "New targeted original-text review in standing-review-01; locators refer to the cleaned versions in source-versions.json.",
+      "review_lineage": "Retained from standing-review-01, byte-identical runtime dependency. The exact earlier assessment remains under history/pre-first-person/source-review.json.",
       "dependencies": {
         "references/voice.md": "sha256:c3b7305a8b579539d4b6af90ea830168445b649b864214fb84145d148f8557ae"
       }
     }
   ],
-  "incremental_review": "Six framework and four voice additions checked against the original passages identified in source-reads.json. Unchanged core and ten topic modules retain prior review, with compatibility of expanded default modules reviewed. All 118 evidence records remain byte-identical; overlapping episodes are not counted as independent corroboration. No new model calls.",
-  "reading_manifest": "budgets/2026-10-31-standing-review/source-reads.json",
-  "previous_review": "history/pre-standing-review/source-review.json"
+  "incremental_review": "Eighteen rewritten core paragraphs reviewed separately. Both complete default references and selected evidence records F06,F32,F37,F48,F55,F60,F61,F62,F63 inspected. All 12 refs and all 118 evidence records remain byte-identical; no source extraction, new original reading, OCR or evaluation call.",
+  "previous_review": "history/pre-first-person/source-review.json",
+  "review_plan": "budgets/2026-10-31-first-person/review-plan.json",
+  "records_reread": [
+    "F06",
+    "F32",
+    "F37",
+    "F48",
+    "F55",
+    "F60",
+    "F61",
+    "F62",
+    "F63"
+  ]
 }

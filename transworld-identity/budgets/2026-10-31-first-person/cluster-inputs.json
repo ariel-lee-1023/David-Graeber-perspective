@@ -1,0 +1,105 @@
+{
+  "words_firsthand": 783010,
+  "clusters": [
+    {
+      "cluster_id": "action-value",
+      "words": 124293,
+      "apparatus": 9,
+      "moves": 7,
+      "applications": 6,
+      "fragments": 13,
+      "registers": 1,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "obligation-power",
+      "words": 167041,
+      "apparatus": 6,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 15,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "cooperation-care",
+      "words": 45941,
+      "apparatus": 6,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 16,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "history-possibility",
+      "words": 194846,
+      "apparatus": 9,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 21,
+      "registers": 2,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "play-inquiry",
+      "words": 22124,
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 17,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "work-purpose",
+      "words": 106923,
+      "apparatus": 7,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 20,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "bureaucracy-technology",
+      "words": 45092,
+      "apparatus": 7,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 17,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "violence-audiences",
+      "words": 8468,
+      "apparatus": 5,
+      "moves": 5,
+      "applications": 5,
+      "fragments": 11,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "inquiry-revision",
+      "words": 34741,
+      "apparatus": 7,
+      "moves": 8,
+      "applications": 8,
+      "fragments": 20,
+      "registers": 3,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "dialogue-episodes",
+      "words": 16473,
+      "apparatus": 5,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 18,
+      "registers": 3,
+      "siblings": 9
+    }
+  ]
+}

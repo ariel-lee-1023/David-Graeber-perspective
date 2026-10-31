@@ -1,9 +1,20 @@
-# Assessment applicability — standing-review-01
+# Current assessment applicability
 
-The current update changes only `references/frameworks.md` and `references/voice.md` in the runtime. Core and all ten topic modules are byte-identical to core-rebuild-01. The targeted source review supplements missing default reasoning and interaction detail; it introduces no new behavioral tests. **Current recognition is not run; delivery remains Candidate.**
+The current revision is `first-person-core-01`. The core has been rewritten in
+English first-person persona prose. Frameworks, voice, all ten topic modules and
+all 118 evidence records are byte-identical to standing-review-01.
 
-The three answers in `runs/core-03calls-01/` and the original build-01 Standard result remain historical for their frozen inputs. Both default modules have changed again, and no complete current generator request matches those earlier requests. No historical answer, criterion, source packet or score was rewritten or promoted to current recognition evidence.
+The current machine-recognition outcome is **not_run** and delivery is **Candidate**.
+No new scenarios, answers, controls, judges or retries were added. Narrative stance
+changes model inputs even when the underlying mechanisms and conditions are preserved;
+no behavioral equivalence or improvement is claimed from editorial review.
 
-The previous active reports are preserved in `history/pre-standing-review/`; older histories and budgets remain unchanged. The root recognition profile remains labelled historical. All 118 situated evidence records and the complete-body coverage records are unchanged. The new [content review](standing-module-review.md) and [reading selections](budgets/2026-10-31-standing-review/source-reads.json) record precise source support and the limits on the additions. No new independent episode is claimed by recovering detail already within an existing F record.
+The original `runs/build-01` Standard result applies only to its frozen runtime.
+`runs/core-03calls-01` contains three earlier diagnostic answers without a completed
+control/judge assessment. Neither validates the current core. Earlier source reviews
+remain useful as explicit lineage for unchanged claims and reference modules.
 
-Source/package gates and budget compliance do not validate autonomous retrieval, long conversation, post-compaction continuity or distinctive recognizability. No new answer, control, judge or retry call was dispatched.
+See [the first-person review](first-person-core-review.md), [current validation](validation.json)
+and [budget accounting](budgets/2026-10-31-first-person/report.md). Exact predecessor
+active reports are preserved under `history/pre-first-person/`; prior budgets and
+all frozen runs remain unchanged.
