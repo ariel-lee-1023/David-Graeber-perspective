@@ -617,5 +617,15 @@
     "outcome": "passed_for_frozen_original_runtime_only",
     "previous_active_report": "history/pre-core-diagnostics/validation.json",
     "applicability": "Current runtime differs; historical result preserved without transferring its pass."
+  },
+  "budget_audit": {
+    "date": "2026-10-31",
+    "report": "budgets/2026-10-31/report.md",
+    "results": "budgets/2026-10-31/results.json",
+    "results_sha256": "57b8f6177c7e33d6a8b8fb5e0a05c205461ef39e83937a17bcd027871cb84cf9",
+    "scope": "13-file retrospective planning audit, with documented formula-input mappings and retained numerical exceptions. Not research admission.",
+    "runtime_changed": false,
+    "new_evaluation_calls": 0,
+    "acceptance_changed": false
   }
 }

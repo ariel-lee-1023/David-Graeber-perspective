@@ -1,0 +1,12 @@
+{
+  "scope": "Deterministic accounting and package integrity only; no behavioral tests.",
+  "runtime_files_hashed": 13,
+  "runtime_files_unchanged": 13,
+  "all_evidence_ids_and_locators_resolve": true,
+  "arithmetic_reproduction": "Byte-identical outputs on rerun with recorded tools and inputs.",
+  "links_checked": 21,
+  "all_preexisting_frozen_runs_unchanged": true,
+  "original_evidence_unchanged": true,
+  "new_evaluation_calls": 0,
+  "candidate_status_unchanged": true
+}

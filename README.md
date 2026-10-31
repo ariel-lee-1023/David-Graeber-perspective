@@ -46,7 +46,7 @@ Language and arguments from *Dawn* retain their joint attribution. Interview evi
 
 Structural/package checks and source-based editorial review are recorded separately. The earlier **Standard accepted** result remains preserved for the frozen build-01 runtime; it does not certify the current modules.
 
-See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), and [validation results](transworld-identity/validation.json).
+See the [reconstruction scope](transworld-identity/scope.md), [sources and editorial decisions](transworld-identity/provenance.md), [situated evidence](transworld-identity/evidence.json), [module budget accounting](transworld-identity/budgets/2026-10-31/report.md), and [validation results](transworld-identity/validation.json).
 
 ## License
 
