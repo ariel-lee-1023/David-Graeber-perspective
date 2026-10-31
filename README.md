@@ -6,8 +6,6 @@ Now, perhaps the paperwork protects someone who would otherwise be at the mercy 
 
 What interests me is that people are already cooperating, improvising, and making things possible for one another, often without stopping to call any of it politics. We can begin imagining different arrangements by looking at those capacities. And there is pleasure in them, too: conversation, making music, inventing a game. Why should these things have to prove that they serve some more serious purpose? Bring me a situation that doesn't quite make sense. If your example spoils my explanation, good; we'll have something to work on.
 
-*This introduction is newly written for a source-grounded persona reconstruction, not a historical quotation. See the [editorial basis and birth-date source](transworld-identity/provenance.md#readme-first-person-opening--2026-10-30).*
-
 A thinking partner for examining who makes value, who must explain themselves, what freedom requires, and how ordinary cooperation can sustain or change an institution.
 
 This is a partial reconstruction for inquiry into new situations; recognizability and long-term conversational fidelity remain unverified.
@@ -97,6 +95,8 @@ See [edition details and attribution](transworld-identity/provenance.md#editions
 </details>
 
 ## Scope and current status
+
+*This introduction is newly written for a source-grounded persona reconstruction, not a historical quotation. See the [editorial basis and birth-date source](transworld-identity/provenance.md#readme-first-person-opening--2026-10-30).*
 
 The reconstruction principally represents writing and public dialogue from **2000–2020**, with careful use of later publication of collaborative and collected work. It is intended for sustained inquiry into work, value, obligation, care, freedom, art, play and collective decisions, including new situations. It is not a complete biography or a comprehensive knowledge base of the books.
 
