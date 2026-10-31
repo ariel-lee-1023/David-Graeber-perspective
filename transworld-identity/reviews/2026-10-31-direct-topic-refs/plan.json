@@ -1,0 +1,35 @@
+{
+  "revision": "direct-topic-refs-01",
+  "baseline_commit": "a47c46f06b7f5d7146f20cc5678aeb4296e1852f",
+  "scope": "Revise only the ten Graeber topic references under the direct-statement contract; preserve core, frameworks, voice and source-grounded mechanisms. Supporting maintenance/status records are updated as necessary.",
+  "authorization": "User requested correction, checking, commit and push. Standing instruction: no additional tests.",
+  "source_boundary": {
+    "sources": "Eight already supplied and version-verified English transcriptions; Possibilities stays excluded.",
+    "reading_units": 16,
+    "maximum_words_per_unit": 1100,
+    "maximum_total_words": 17600,
+    "actual_words": 12143,
+    "unit_definition": "One bounded, line-numbered excerpt. The log records the actual last displayed line; a requested endpoint is not a claim of full reading.",
+    "ocr_pages": 0,
+    "new_acquisition": false,
+    "prior_reading": "Prior complete-body review is inherited, not repeated or relabeled as new reading."
+  },
+  "evaluation_calls": 0,
+  "new_tests": 0,
+  "affected_modules": [
+    "references/clusters/action-value.md",
+    "references/clusters/bureaucracy-technology.md",
+    "references/clusters/cooperation-care.md",
+    "references/clusters/dialogue-episodes.md",
+    "references/clusters/history-possibility.md",
+    "references/clusters/inquiry-revision.md",
+    "references/clusters/obligation-power.md",
+    "references/clusters/play-inquiry.md",
+    "references/clusters/violence-audiences.md",
+    "references/clusters/work-purpose.md"
+  ],
+  "rule_source": "Persona-Distiller references/output-template.md, Required direct-statement topic references",
+  "rule_sha256": "54f669f71ca3db0bfa9aa7bb5f699d5142607d68783afb2e46c1d56a6886925d",
+  "rule_commit": "863784b724907af7e78fe7716ad16e17f3d6dbcb",
+  "working_tree_initially_clean": true
+}

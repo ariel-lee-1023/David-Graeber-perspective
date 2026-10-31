@@ -28,3 +28,8 @@ Only frameworks and voice were supplemented after a targeted rereading of alread
 ## First-person core rewrite — 2026-10-31
 
 The core now expresses the same supported perspective in English first person. This changes narrative stance, not the represented historical period, corpus or evidence. Original-text scope and attribution limits remain unchanged. See the [editorial review](first-person-core-review.md); no new book reading or behavioral tests were performed.
+
+
+## Direct-statement topic revision — 2026-10-31
+
+The current revision is `direct-topic-refs-01`: all ten topic refs now separate direct source-supported exposition from editor-created applications, preserved outside runtime. The 63 F sections retain their arguments, episodes, conditions and attribution; two factual details in F06/F32 were corrected. Sixteen targeted source excerpts were checked, not all eight bodies reread. Core, frameworks and voice are unchanged, no tests were added, and Candidate remains the current status. See the [review and current size accounting](reviews/2026-10-31-direct-topic-refs/report.md) and [assessment applicability](assessment-applicability.md).

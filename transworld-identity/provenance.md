@@ -289,3 +289,14 @@ All 13 runtime files, all source/evidence records, current validation and budget
 ## README reconstruction-note placement — 2026-10-31
 
 At the user’s explicit request, the reconstruction notice and its editorial/birth-date source link were moved verbatim from below the introduction to the beginning of Scope and current status. This placement overrides the metatool’s default adjacent-note position for this README. All other README content, runtime files and assessment inputs remain unchanged; Candidate status is retained and no new evaluation calls were made. The relocated paragraph and source anchor were checked in Markdown; no new rendered-preview check was performed for this relocation.
+
+
+## Direct-statement topic references — 2026-10-31
+
+At the user’s request, the ten Graeber topic modules were revised against Persona-Distiller’s current C-series direct-statement contract. Baseline commit: `a47c46f06b7f5d7146f20cc5678aeb4296e1852f`. The [review](reviews/2026-10-31-direct-topic-refs/report.md) records each module’s decisions, source qualifications, two factual corrections, exact reading boundary and current measurements. All F01–F63 headings and prior explicit L locators survive. Core, frameworks and voice remain byte-identical.
+
+The complete changed prose was reread. Direct exposition preserves causes, conditions, counterexamples and unfinished arguments. Actual conversational participants, historical actors and coauthors retain their names and ownership. Editor-created modern applications and portrayal instructions are [preserved separately](reviews/2026-10-31-direct-topic-refs/editorial-applications.md), never loaded by runtime routes. This is not a global pronoun deletion or a conversion of references into invented autobiography.
+
+All eight supplied cleaned-source hashes match the existing source-version record. The sixteen targeted readings total 12,143 whitespace-delimited words; prior full-body review is inherited. F06 corrects the lawyer/financier sequence and several-day interval; F32 corrects Chloe’s role and preserves her subsequent department-head reversal. Exact preceding active records are in `history/pre-direct-topic-refs/`; historical runs, source versions and earlier budget records are unchanged.
+
+New tests and evaluation calls are zero. Current package/source outcomes and hashes are recorded in [validation](validation.json); recognition remains not_run and delivery Candidate. The README’s introduction, birthday, reconstruction-note placement, questions and setup remain unchanged; only current-status wording and the accounting link are updated. No render check is claimed for this status-only patch. Publication is explicitly authorized by the user.

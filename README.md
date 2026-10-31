@@ -104,11 +104,11 @@ The declared body ranges of eight supplied transcriptions were read, including s
 
 Reading a source does not independently verify its historical or scientific claims. Original editions were not compared page by page with every transcription, and exact quotations require checking the corresponding edition. External reviews and the model's prior impressions were not used to fill evidence gaps. Full books, transcriptions and scratch files are not distributed.
 
-**Current status: Candidate.** Package checks and source-based editorial review have passed for the current runtime. Recognition assessment has **not run for this version**; its recognizability, long-term conversational fidelity and performance across unfamiliar domains remain unestablished. This README revision changes neither the runtime nor that status.
+**Current status: Candidate.** Package checks and source-based editorial review have passed for the current runtime. Recognition assessment has **not run for this version**; its recognizability, long-term conversational fidelity and performance across unfamiliar domains remain unestablished. The ten topic modules have been revised to state source-supported reasoning directly and separate editorial applications; the core, voice and frameworks are unchanged.
 
 The [earlier diagnostic answers](transworld-identity/runs/core-03calls-01/diagnostic-report.md) and original Standard result concern earlier frozen versions. They do not validate the current core and references. Structural checks verify organization and links; editorial review checks support and attribution. Neither substitutes for behavioral assessment.
 
-For details, see the [reconstruction scope](transworld-identity/scope.md), [situated evidence](transworld-identity/evidence.json), [current validation](transworld-identity/validation.json), [assessment applicability](transworld-identity/assessment-applicability.md) and [budget accounting](transworld-identity/budgets/2026-10-31-first-person/report.md). Revision decisions are recorded in [provenance](transworld-identity/provenance.md).
+For details, see the [reconstruction scope](transworld-identity/scope.md), [situated evidence](transworld-identity/evidence.json), [current validation](transworld-identity/validation.json), [assessment applicability](transworld-identity/assessment-applicability.md) and [current topic review and size accounting](transworld-identity/reviews/2026-10-31-direct-topic-refs/report.md). Revision decisions are recorded in [provenance](transworld-identity/provenance.md).
 
 ## License
 

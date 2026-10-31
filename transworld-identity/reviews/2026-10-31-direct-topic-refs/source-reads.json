@@ -1,0 +1,146 @@
+[
+  {
+    "source_id": "VA",
+    "start_line": 242,
+    "end_line": 260,
+    "requested_end": 260,
+    "words": 622,
+    "word_cap": 900,
+    "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+  },
+  {
+    "source_id": "FR",
+    "start_line": 108,
+    "end_line": 139,
+    "requested_end": 152,
+    "words": 1083,
+    "word_cap": 1100,
+    "sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db"
+  },
+  {
+    "source_id": "DE",
+    "start_line": 228,
+    "end_line": 250,
+    "requested_end": 250,
+    "words": 610,
+    "word_cap": 1000,
+    "sha256": "3f606890d0b1f5d597370d01734f9e65d2f784f47a05a55ac80148a4fc5bcd59"
+  },
+  {
+    "source_id": "AN",
+    "start_line": 508,
+    "end_line": 526,
+    "requested_end": 526,
+    "words": 719,
+    "word_cap": 1000,
+    "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+  },
+  {
+    "source_id": "AN",
+    "start_line": 968,
+    "end_line": 984,
+    "requested_end": 984,
+    "words": 722,
+    "word_cap": 1000,
+    "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+  },
+  {
+    "source_id": "UR",
+    "start_line": 889,
+    "end_line": 899,
+    "requested_end": 899,
+    "words": 817,
+    "word_cap": 1100,
+    "sha256": "2a4137754c9ba27f04359a6b1bef03276b606248d9a125e7138adda6d42aa80c"
+  },
+  {
+    "source_id": "DA",
+    "start_line": 5308,
+    "end_line": 5330,
+    "requested_end": 5330,
+    "words": 911,
+    "word_cap": 1000,
+    "sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930"
+  },
+  {
+    "source_id": "BJ",
+    "start_line": 720,
+    "end_line": 741,
+    "requested_end": 741,
+    "words": 931,
+    "word_cap": 1000,
+    "sha256": "6f761c8d1889d0f49d1c7c71b60ed758f4198b777f624d7dfac8d09f44299772"
+  },
+  {
+    "source_id": "UT",
+    "start_line": 1984,
+    "end_line": 1999,
+    "requested_end": 2000,
+    "words": 1010,
+    "word_cap": 1100,
+    "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+  },
+  {
+    "source_id": "UT",
+    "start_line": 1300,
+    "end_line": 1311,
+    "requested_end": 1311,
+    "words": 641,
+    "word_cap": 1000,
+    "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+  },
+  {
+    "source_id": "DA",
+    "start_line": 5332,
+    "end_line": 5344,
+    "requested_end": 5344,
+    "words": 533,
+    "word_cap": 1100,
+    "sha256": "b96b992fd573bd8e07d7176b4a3ef915165cfaa784e29a5442ff89d563c45930"
+  },
+  {
+    "source_id": "VA",
+    "start_line": 3324,
+    "end_line": 3344,
+    "requested_end": 3344,
+    "words": 992,
+    "word_cap": 1000,
+    "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+  },
+  {
+    "source_id": "FR",
+    "start_line": 140,
+    "end_line": 152,
+    "requested_end": 152,
+    "words": 460,
+    "word_cap": 850,
+    "sha256": "935bfa704c84830dbb811f6efad3cf9cf3b0370b52089d28869f4aff1e3a19db"
+  },
+  {
+    "source_id": "AN",
+    "start_line": 1018,
+    "end_line": 1024,
+    "requested_end": 1024,
+    "words": 435,
+    "word_cap": 1000,
+    "sha256": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+  },
+  {
+    "source_id": "VA",
+    "start_line": 3354,
+    "end_line": 3379,
+    "requested_end": 3382,
+    "words": 1026,
+    "word_cap": 1100,
+    "sha256": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+  },
+  {
+    "source_id": "UT",
+    "start_line": 2195,
+    "end_line": 2203,
+    "requested_end": 2203,
+    "words": 631,
+    "word_cap": 1000,
+    "sha256": "9aaa84ef6c2263bb9c24f0af062f322d47485949ded798a2a82a6b53329342d8"
+  }
+]

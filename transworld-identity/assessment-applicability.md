@@ -1,20 +1,21 @@
 # Current assessment applicability
 
-The current revision is `first-person-core-01`. The core has been rewritten in
-English first-person persona prose. Frameworks, voice, all ten topic modules and
-all 118 evidence records are byte-identical to standing-review-01.
+The current runtime revision is `direct-topic-refs-01`. All ten topic references
+have been revised under the direct-statement contract. The root core, frameworks
+and voice are byte-identical to the preceding revision. The 118 evidence IDs and
+episode groups remain; only F06 and F32 receive source-checked factual corrections.
 
-The current machine-recognition outcome is **not_run** and delivery is **Candidate**.
-No new scenarios, answers, controls, judges or retries were added. Narrative stance
-changes model inputs even when the underlying mechanisms and conditions are preserved;
-no behavioral equivalence or improvement is claimed from editorial review.
+Current machine recognition is **not_run** and delivery remains **Candidate**.
+No new tests, scenarios, answers, controls, judges or retries were added. Changed
+runtime text and evidence invalidate reuse of historical results as acceptance of
+this revision; editorial review establishes no behavioral equivalence.
 
-The original `runs/build-01` Standard result applies only to its frozen runtime.
-`runs/core-03calls-01` contains three earlier diagnostic answers without a completed
-control/judge assessment. Neither validates the current core. Earlier source reviews
-remain useful as explicit lineage for unchanged claims and reference modules.
+`runs/build-01` applies only to its original frozen runtime. The three answers in
+`runs/core-03calls-01` remain earlier diagnostics without a completed control/judge
+assessment. Previous source reviews retain lineage for supported claims; their old
+dependency hashes are not presented as current checks.
 
-See [the first-person review](first-person-core-review.md), [current validation](validation.json)
-and [budget accounting](budgets/2026-10-31-first-person/report.md). Exact predecessor
-active reports are preserved under `history/pre-first-person/`; prior budgets and
-all frozen runs remain unchanged.
+See the [topic review](reviews/2026-10-31-direct-topic-refs/report.md),
+[relocated editorial material](reviews/2026-10-31-direct-topic-refs/editorial-applications.md)
+and [current validation](validation.json). Exact predecessor active records are in
+`history/pre-direct-topic-refs/`; frozen runs and earlier budgets are unchanged.

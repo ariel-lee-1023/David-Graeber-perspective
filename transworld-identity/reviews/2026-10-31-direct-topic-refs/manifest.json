@@ -1,0 +1,943 @@
+{
+  "revision": "direct-topic-refs-01",
+  "baseline_commit": "a47c46f06b7f5d7146f20cc5678aeb4296e1852f",
+  "module_changes": [
+    {
+      "path": "references/clusters/action-value.md",
+      "before_sha256": "8713ead7478abc3b852c0a9201da0176beee46a698c4361727be4e22e84e8ea9",
+      "after_sha256": "c1ecd5b4990cc0068dfa3b1ff728baec31f8c83396681fbee754f26270d1356f",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 9,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 11,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 13,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 23,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 29,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 33,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "direct_statement"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/bureaucracy-technology.md",
+      "before_sha256": "1645f20b801d447d162d60c4bef347cd5902a92acac39cdcf397e91d6aa96321",
+      "after_sha256": "de5567aeb7bb5a372423b283bdf0ad8ad7de3eb982279191f781028213af0728",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 29,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 59,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/cooperation-care.md",
+      "before_sha256": "0de441f1006a795efb518997e3e814c34bce46ce35942d2b9eb4a0f485b132a0",
+      "after_sha256": "99fe8f4549dd7d2e36cc297712c2369e7007cbd6a3e1f671e4a233a2cfcfdf5f",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 11,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 59,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 67,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 69,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 71,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/dialogue-episodes.md",
+      "before_sha256": "d3c45afe16177adc6d647e62348e765737da36b0dcb0c669baa0065f1e3414f2",
+      "after_sha256": "b67a3b8c4f868d64f4570cc729ce7fd77fe46ab34e5028402fecfb777b86da55",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 9,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 51,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/history-possibility.md",
+      "before_sha256": "2092019b796caaa5267c7f210a4691af8438e9b088cf38fd03b4c4883be840a0",
+      "after_sha256": "51a0de7ed98410837f4cfafe5ea5ed149674200f607a94440c9f02dbda6e659e",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 11,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 59,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 67,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 69,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 71,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 73,
+          "kind": "direct_statement"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/inquiry-revision.md",
+      "before_sha256": "dd046f466ce82348b0242f38e7ae902a43decc56db3a9f56d1335e19867df897",
+      "after_sha256": "1a5fd995bf93a17679fe29e5a2e8ffbda780ec618206a5a3c8ecc829fe14a5ad",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 29,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 67,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 71,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 73,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 77,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 79,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 81,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/obligation-power.md",
+      "before_sha256": "35edd6c76754af23a40285f52795b3859309e09b4bf6b93a679fb65865bc8fd9",
+      "after_sha256": "b3074d33c0a92d8cd088768cb7d572bf9b65de6dfcaede5282acc723517f055e",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 9,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 11,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "direct_statement"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/play-inquiry.md",
+      "before_sha256": "8c403ea28ba81eef981b9292d6dbce35c3a958ce28a94f33aedcae3e49d39099",
+      "after_sha256": "ff48ec9a859fdeffd49f0a966266fe2675dab925d643919188f8f2f04c73ac44",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 9,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 29,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 39,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 41,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 53,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 59,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 67,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 69,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 71,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 73,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/violence-audiences.md",
+      "before_sha256": "66d2e3123a9554209df0606a65ea7be987847f7c14264e25bec3ba243ce20c8e",
+      "after_sha256": "0afc3ce3292b12bd392e5eadaf3d362c5c69092b23ff9b34dc8801794dddedfd",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 9,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 11,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 19,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 23,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 29,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 45,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 55,
+          "kind": "separate_editorial"
+        }
+      ]
+    },
+    {
+      "path": "references/clusters/work-purpose.md",
+      "before_sha256": "2798824525f691ece4fa74d7833b6d9bb42b15c5a08f740dd11868e62ffd217e",
+      "after_sha256": "04e6a466a79bf354ef29f07ba20f58a46cdcccf588f95092f8751ff9b0f4ddee",
+      "decisions": [
+        {
+          "old_line": 3,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 7,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 13,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 17,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 21,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 23,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 27,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 31,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 33,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 37,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 43,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 47,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 49,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 51,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 53,
+          "kind": "separate_editorial"
+        },
+        {
+          "old_line": 57,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 59,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 61,
+          "kind": "direct_statement"
+        },
+        {
+          "old_line": 63,
+          "kind": "separate_editorial"
+        }
+      ]
+    }
+  ],
+  "unchanged_runtime": [
+    "SKILL.md",
+    "references/frameworks.md",
+    "references/voice.md"
+  ],
+  "evidence_corrections": [
+    "F06",
+    "F32"
+  ],
+  "editorial_paragraphs_preserved": 58,
+  "all_63_F_headings_retained": true
+}
