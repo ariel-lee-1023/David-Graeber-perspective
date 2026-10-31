@@ -1,56 +1,34 @@
 {
   "schema_version": 1,
   "structure_revision": 2,
-  "run_id": "core-03calls-01",
-  "mode": "partial_diagnostic_three_candidate_answers",
-  "timestamp": 1793397045.374882,
+  "run_id": null,
+  "mode": "standard",
+  "timestamp": 1793410602.940803,
   "delivery_status": "candidate",
-  "summary": "Compact core update after complete-body expansion: means/ends, structural critique with existing cooperation, and cross-module loading; three bounded diagnostic answers only.",
+  "summary": "Substantial core reconstruction from the eight-book distillation, with source-backed category formation, internal critique and shared inquiry; core meets its planning budget; no new behavioral tests.",
   "runtime_error": null,
-  "runtime_hash": "sha256:186a46d31c0f0ed7dd05d1475ddd43fab9ee3edb7ff82d2ba2044aa9752a2d6c",
+  "runtime_hash": "sha256:f30e95f13bf9c4e95f6c836a33a28e50aeae173b96064cd2aa5b5d9e611797f2",
   "module_hashes": {
-    "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
+    "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
     "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
     "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
     "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
-    "references/clusters/dialogue-episodes.md": "sha256:4f98b4f401ec6fd1d9decd95bd1579d79c8ae7f1f725c4f85286d03312c58888",
+    "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853",
     "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
     "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf",
     "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
-    "references/clusters/play-inquiry.md": "sha256:82b054507ac4ff754edcb63336082be4c4d89630a2525b32b777f7ae917dcf41",
+    "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
     "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
     "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
-    "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-    "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837"
+    "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+    "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
   },
-  "revision": "core-03calls-01",
-  "hashes": {
-    "generation": "sha256:e4740d167e1ce631ea88ce78feb4f0324de838d5ed7bd80587843627a6056cb2",
-    "modules": {
-      "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-      "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
-      "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
-      "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
-      "references/clusters/dialogue-episodes.md": "sha256:4f98b4f401ec6fd1d9decd95bd1579d79c8ae7f1f725c4f85286d03312c58888",
-      "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
-      "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf",
-      "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
-      "references/clusters/play-inquiry.md": "sha256:82b054507ac4ff754edcb63336082be4c4d89630a2525b32b777f7ae917dcf41",
-      "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
-      "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
-      "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-      "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837"
-    },
-    "profile": "sha256:902025dbe1392f4cbda823b72756ed8acc50a6f2cc81a3d38f0b062f2a4095ea",
-    "rubric": "sha256:d08bde07a21c31e05ad8af9ed0318446b80c7997db75640c68f9983df535b695",
-    "runtime": "sha256:186a46d31c0f0ed7dd05d1475ddd43fab9ee3edb7ff82d2ba2044aa9752a2d6c",
-    "scenarios": "sha256:266a16cb67cc7775f58af5576ef50bdae4ad30df47acf66475831d6894dd4504",
-    "source_packet": "sha256:60c4cbb1d0429aa8da9a19998ba5d29780463e08318c1a201f0fe89f22e69be5"
-  },
+  "revision": "core-rebuild-01",
+  "hashes": null,
   "gates": {
     "package": "passed",
     "source": "passed",
-    "machine_recognition": "inconclusive"
+    "machine_recognition": "not_run"
   },
   "package_checks": {
     "structure_revision": 2,
@@ -209,23 +187,462 @@
     "verdict": "PASS"
   },
   "source_review": {
-    "summary": "Compact core update after complete-body expansion: means/ends, structural critique with existing cooperation, and cross-module loading; three bounded diagnostic answers only.",
-    "reviewer": "Codex builder; source-based editorial review, not an independent human audit",
+    "summary": "Substantial core reconstruction from the eight-book distillation, with source-backed category formation, internal critique and shared inquiry; core meets its planning budget; no new behavioral tests.",
+    "reviewer": "Codex builder; source-based editorial review, not independent historical scholarship or a recognition judge",
     "reviewed_all_core_claims": true,
-    "revision": "core-03calls-01",
+    "revision": "core-rebuild-01",
     "limitations": [
-      "All declared body ranges were read, but all endnotes and every original page were not independently verified.",
-      "Source review is builder editorial review, not independent historical scholarship.",
+      "The preceding complete-body pass retains its declared exclusions; this turn reread targeted passages, not all eight bodies again.",
       "Coauthorship, editing, translation and repeated episodes limit individual attribution.",
-      "Three candidate answers only. No generic controls, independent judge calls, retries or post-result repair generations were commissioned.",
-      "Builder qualitative review can describe behavior but cannot establish diagnostic specificity, comparative recognizability or a Standard acceptance score.",
-      "Runtime modules were preselected and fully supplied; autonomous routing, topic-shift retrieval and post-compaction reloading were not exercised."
+      "A source-supported core census is an editorial planning input, not empirical research admission.",
+      "No current-runtime behavioral tests, controls, judges or retries were run. Historical results do not certify changed loaded inputs.",
+      "Long-term conversation, autonomous routing, post-compaction recall and distinctive recognizability remain unestablished."
     ],
     "source_checks": [
       {
-        "claim": "action value",
+        "claim": "People make social worlds whose consequences they do not wholly control",
+        "core_section": "Find the question inside the familiar arrangement",
+        "core_paragraph_sha256": "26ef2fbaac9e0184511ba664fc87b28c2421a9d06163dcf01a2b23967ccdf889",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
+        "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+        "evidence_ids": [
+          "F01",
+          "F02",
+          "F03",
+          "F04",
+          "F05",
+          "F06",
+          "F07",
+          "F08",
+          "F09",
+          "F10",
+          "F25",
+          "F26",
+          "F33",
+          "F37"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
+          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
+        }
+      },
+      {
+        "claim": "Sometimes the difficulty lies in the question's categories",
+        "core_section": "Find the question inside the familiar arrangement",
+        "core_paragraph_sha256": "46b1d4d01f9e661f1b61538fd910b6b568f893d8d5dfd7b7c9c0393956d26dd9",
+        "outcome": "passed",
+        "assessment": "Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
+        "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+        "evidence_ids": [
+          "F01",
+          "F62"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
+        }
+      },
+      {
+        "claim": "Follow activity into recognition",
+        "core_section": "Find the question inside the familiar arrangement",
+        "core_paragraph_sha256": "6fa81927de219736aeee949f994adc0153d3fa281d5ec6f6c15a1644de34a1e1",
+        "outcome": "passed",
+        "assessment": "Reconstructed ordinary encounters, category formation and activity/recognition from the retained arguments; checked AN L978–984 and VA L242–260 directly for the restored category move.",
+        "condition_or_exception": "Reframing is optional; category identity is not assumed, useful metrics remain useful, and construction does not make constraint unreal.",
+        "evidence_ids": [
+          "F02",
+          "F03",
+          "F04",
+          "F05",
+          "F36"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
+        }
+      },
+      {
+        "claim": "Reconstruct a position strongly enough to discover its actual problem",
+        "core_section": "Pursue the argument, including its inconvenient parts",
+        "core_paragraph_sha256": "16b9719a3d411c1f90cf4a2720698c7e04518c500b6accb230e5d7a3e467d041",
+        "outcome": "passed",
+        "assessment": "Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
+        "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+        "evidence_ids": [
+          "F06",
+          "F37",
+          "F51"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
+          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
+        }
+      },
+      {
+        "claim": "Distinguish the event, the explanation and the larger claim",
+        "core_section": "Pursue the argument, including its inconvenient parts",
+        "core_paragraph_sha256": "fef1b6b83cb80a2f88ee98930d6b981a9202e05892ccace5f6c2aa604687e7e2",
+        "outcome": "passed",
+        "assessment": "Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
+        "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+        "evidence_ids": [
+          "F31",
+          "F32",
+          "F33",
+          "F34",
+          "F35",
+          "F36",
+          "F48",
+          "F49",
+          "F50",
+          "F51"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
+        }
+      },
+      {
+        "claim": "Make connections ambitious enough to reveal possibilities, with the bridge visible",
+        "core_section": "Pursue the argument, including its inconvenient parts",
+        "core_paragraph_sha256": "0d6c11d748d4a54cc8897a5687f3191169846b39268f1e1f98ce4b7fc2221671",
+        "outcome": "passed",
+        "assessment": "Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
+        "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+        "evidence_ids": [
+          "F18",
+          "F19",
+          "F20",
+          "F21",
+          "F22",
+          "F23",
+          "F24",
+          "F30",
+          "F49",
+          "F50",
+          "F51",
+          "F52",
+          "F53",
+          "F54"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
+          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
+        }
+      },
+      {
+        "claim": "When evidence changes, identify the inference it breaks and rebuild from there",
+        "core_section": "Pursue the argument, including its inconvenient parts",
+        "core_paragraph_sha256": "3b16e1fb8d32d81ac989446d92d672b0b5c7500350c172c24ace6f07170e4a87",
+        "outcome": "passed",
+        "assessment": "Checked the internal-critique chain directly against DE L230–248 and UR L343–371; retained the prior located distinctions between testimony, causal scale, counterexample and prediction, with Chloe/hasina revision as conditional cases.",
+        "condition_or_exception": "An opponent may survive the critique; no coordinated intent or broad causal claim follows solely from an observed benefit. Historical possibility is not prediction and a partial correction is not total repudiation.",
+        "evidence_ids": [
+          "F32",
+          "F48",
+          "F55"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf",
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
+        }
+      },
+      {
+        "claim": "Cooperation, exchange and hierarchy coexist within arrangements; they are not self-contained kinds of society",
+        "core_section": "Judge relations and practical powers",
+        "core_paragraph_sha256": "11688bffb489b0570511bb45dd9e0c52f30b0ab0ee8aa69c4bd969e64a0d869e",
+        "outcome": "passed",
+        "assessment": "Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
+        "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+        "evidence_ids": [
+          "F06",
+          "F07",
+          "F08",
+          "F09",
+          "F10",
+          "F11"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
+        }
+      },
+      {
+        "claim": "Attend to who must understand whom",
+        "core_section": "Judge relations and practical powers",
+        "core_paragraph_sha256": "2638a0f0cb7e26df2f8f9607a8a1413b02c1f2da46f01995d8b283c8b8acbf1c",
+        "outcome": "passed",
+        "assessment": "Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
+        "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+        "evidence_ids": [
+          "F37",
+          "F38",
+          "F43",
+          "F44",
+          "F45",
+          "F46",
+          "F47"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e"
+        }
+      },
+      {
+        "claim": "Judge rules by what they protect and what they make unanswerable",
+        "core_section": "Judge relations and practical powers",
+        "core_paragraph_sha256": "4613db5e24f3d491b70a91caf86b91bc36c88d94fabf06ee9b13058bd543930a",
+        "outcome": "passed",
+        "assessment": "Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
+        "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+        "evidence_ids": [
+          "F13",
+          "F14",
+          "F22",
+          "F26",
+          "F39",
+          "F40",
+          "F41"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
+          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
+        }
+      },
+      {
+        "claim": "Favor practical capacities to leave, refuse and reshape common relations",
+        "core_section": "Judge relations and practical powers",
+        "core_paragraph_sha256": "5634f9afb33a96ef8effab09f3edb39c36bb959584b40c880124c6fa7f06d319",
+        "outcome": "passed",
+        "assessment": "Reassembled the already-distilled moral-relations, interpretive-labor, rules, freedom and care arguments without turning them into a single pro/anti-institution verdict. The administrative example was rechecked against its original sequence.",
+        "condition_or_exception": "Gifts, rules, care and play have differing effects; source conflicts and audiences remain in the default frameworks and topic modules. Analogy alone cannot establish guilt or safety.",
+        "evidence_ids": [
+          "F15",
+          "F16",
+          "F17",
+          "F19",
+          "F24",
+          "F34"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
+        }
+      },
+      {
+        "claim": "Keep the tension Graeber describes between structural reproduction and social possibilities already present",
+        "core_section": "Work between critique and possibility",
+        "core_paragraph_sha256": "ce2a39a52802965f2ecad55bab6159bc300621a3a238c1fb42060dd73ca64c82",
+        "outcome": "passed",
+        "assessment": "Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
+        "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+        "evidence_ids": [
+          "F12",
+          "F51",
+          "F52",
+          "F53",
+          "F54",
+          "F61"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
+        }
+      },
+      {
+        "claim": "Offer an intellectual contribution back as something others can alter or refuse",
+        "core_section": "Work between critique and possibility",
+        "core_paragraph_sha256": "3ed8f49fc6425aba7818771e566bb6aa17427e33d16a56cbf3f16cf78e219a6d",
+        "outcome": "passed",
+        "assessment": "Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
+        "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+        "evidence_ids": [
+          "F11",
+          "F12",
+          "F13",
+          "F14",
+          "F17",
+          "F60"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20"
+        }
+      },
+      {
+        "claim": "Do not demand a productive excuse for music, conversation, friendship or play",
+        "core_section": "Work between critique and possibility",
+        "core_paragraph_sha256": "383808aeda731432a08a6e1afb3b2f0ecd7370c8865eac31a2561e1b176e120b",
+        "outcome": "passed",
+        "assessment": "Retained the located Marx–Mauss tension, FR nonvanguard intellectual contribution and means/ends condition; directly reread FR L146–152. Preserved pleasure, destructive desire and art/care contradictions already represented in the full-body references.",
+        "condition_or_exception": "No ready-made solution, compulsory optimism or demand for ideological agreement; a partial remedy is judged by its actual powers and risks. Exposing exploitation does not erase real attachments.",
+        "evidence_ids": [
+          "F16",
+          "F25",
+          "F26",
+          "F27",
+          "F28",
+          "F29",
+          "F30"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
+        }
+      },
+      {
+        "claim": "Answer the contribution actually made",
+        "core_section": "Let another mind change the inquiry",
+        "core_paragraph_sha256": "836a8d46da79eb8534f6b9e429e11b48c3f55b88af5bbbb6c1674d92470afa13",
+        "outcome": "passed",
+        "assessment": "Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
+        "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+        "evidence_ids": [
+          "F55",
+          "F63"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
+        }
+      },
+      {
+        "claim": "When a challenge reaches an inherited premise, name that premise and give the alternative enough room to become intelligible",
+        "core_section": "Let another mind change the inquiry",
+        "core_paragraph_sha256": "a131def8f7b3bb890aacb9cafca37b8a1db8eb04ce616940760309c8151e345a",
+        "outcome": "passed",
+        "assessment": "Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
+        "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+        "evidence_ids": [
+          "F63"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
+        }
+      },
+      {
+        "claim": "Allow exploration without an immediate practical payoff",
+        "core_section": "Let another mind change the inquiry",
+        "core_paragraph_sha256": "c56fda6a8b8f41790b1000da9fb4f83c9fc1f9605f91fbd13cafa14cb5d41028",
+        "outcome": "passed",
+        "assessment": "Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
+        "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+        "evidence_ids": [
+          "F25",
+          "F30",
+          "F55",
+          "F56",
+          "F57",
+          "F58",
+          "F59",
+          "F63"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
+        }
+      },
+      {
+        "claim": "Let expression follow the encounter: patient reconstruction, plain explanation, friendly speculation, comic reversal, impatience or direct anger",
+        "core_section": "Let another mind change the inquiry",
+        "core_paragraph_sha256": "dd6bdcd6559de8fe2c322c3ca748bdd2043f7d5ac8ac91c78329eec27a75f700",
+        "outcome": "passed",
+        "assessment": "Directly reread AN L514–534, L968–1027: differentiated Dubrovsky's correction, Turquier-Zauberman's proposed direction, Kacem's challenge, Graeber's reconstruction and his limited Piaroa connection. Retained the established range of personal and public expression.",
+        "condition_or_exception": "Provisional concessions are not wholesale conversions. Speakers keep their contributions; inquiry need not produce an immediate action. Questions, jokes and political reframing are optional.",
+        "evidence_ids": [
+          "F34",
+          "F37",
+          "F46",
+          "F57",
+          "F58",
+          "F59"
+        ],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8",
+          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
+          "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
+        }
+      },
+      {
+        "claim": "Description, language, activation, nonmandatory organization, loading, continuity and portrayal",
+        "outcome": "passed",
+        "assessment": "All retained discovery/language/loading contracts agree with host and README. Core remains a source-grounded perspective and does not claim historical identity, invented memory or unqualified authority. The nonmechanical organization and safeguards are authoring choices, not historical personality evidence.",
+        "condition_or_exception": "Full default modules remain mandatory; topics conditional. Explicit language requests override; first person is present analysis only. Attribution distinguishes joint authors, participants and editors. No source-memory or test capability claim.",
+        "implementation_safeguard": true,
+        "evidence_ids": [],
+        "dependencies": {
+          "SKILL.md": "sha256:10fae343aaac399965a41ce74908fc08b7328e9d80611c62c91dbbd3ef51964a",
+          "references/frameworks.md": "sha256:4199e3b6e258ca9be3f31351ca1de59c8398f74a983da8e0e4722a82f18d619a",
+          "references/voice.md": "sha256:87ea30b0653029abace572c8c327a48a9046c7779742bc7ca4a130cef41114c8"
+        }
+      },
+      {
+        "claim": "Reference continuity: action value",
+        "outcome": "passed",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F01",
@@ -235,16 +652,13 @@
           "F05"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690"
         }
       },
       {
-        "claim": "bureaucracy technology",
+        "claim": "Reference continuity: bureaucracy technology",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F37",
@@ -255,16 +669,13 @@
           "F42"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26"
         }
       },
       {
-        "claim": "cooperation care",
+        "claim": "Reference continuity: cooperation care",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F12",
@@ -276,35 +687,30 @@
           "F60"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20"
         }
       },
       {
-        "claim": "dialogue episodes",
+        "claim": "Reference continuity: dialogue episodes",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. F62/F63 additions were checked against the original passages and distinguish participant attribution, speculative bridges and overlaps.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F55",
           "F56",
           "F57",
           "F58",
-          "F59"
+          "F59",
+          "F63"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
-          "references/clusters/dialogue-episodes.md": "sha256:4f98b4f401ec6fd1d9decd95bd1579d79c8ae7f1f725c4f85286d03312c58888"
+          "references/clusters/dialogue-episodes.md": "sha256:192c2813e8964e92f1ff834c5cbc3f5f4e50bb237b1b91285d1c1ebf436a3853"
         }
       },
       {
-        "claim": "history possibility",
+        "claim": "Reference continuity: history possibility",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F18",
@@ -316,16 +722,13 @@
           "F24"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3"
         }
       },
       {
-        "claim": "inquiry revision",
+        "claim": "Reference continuity: inquiry revision",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F48",
@@ -338,16 +741,13 @@
           "F61"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
         }
       },
       {
-        "claim": "obligation power",
+        "claim": "Reference continuity: obligation power",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F06",
@@ -358,16 +758,13 @@
           "F11"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847"
         }
       },
       {
-        "claim": "play inquiry",
+        "claim": "Reference continuity: play inquiry",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. F62/F63 additions were checked against the original passages and distinguish participant attribution, speculative bridges and overlaps.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F25",
@@ -375,19 +772,17 @@
           "F27",
           "F28",
           "F29",
-          "F30"
+          "F30",
+          "F62"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
-          "references/clusters/play-inquiry.md": "sha256:82b054507ac4ff754edcb63336082be4c4d89630a2525b32b777f7ae917dcf41"
+          "references/clusters/play-inquiry.md": "sha256:3f2c156647c477ffaaaca85e460a21a83ba0e175716724599e1cbfb611784ba3"
         }
       },
       {
-        "claim": "violence audiences",
+        "claim": "Reference continuity: violence audiences",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F43",
@@ -397,16 +792,13 @@
           "F47"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e"
         }
       },
       {
-        "claim": "work purpose",
+        "claim": "Reference continuity: work purpose",
         "outcome": "passed",
-        "assessment": "Reviewed the argument, situated examples and transfer conditions against the completed source pass. Full detail and exact attribution are retained in the located F sections.",
+        "assessment": "Existing located content and qualifications retain their prior complete-body source review. This topic file is byte-identical to the previous revision; no fresh full-source reading is claimed.",
         "condition_or_exception": "Historical claims, unknown outcomes, alternative explanations and applicable conditions remain beside their uses; source testimony is not automatically independently verified fact.",
         "evidence_ids": [
           "F31",
@@ -417,184 +809,24 @@
           "F36"
         ],
         "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837",
           "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f"
         }
-      },
-      {
-        "claim": "Language, activation, attribution and memory implementation",
-        "outcome": "passed",
-        "assessment": "Core, voice, frameworks, README and host retain full default loading, English unless explicitly overridden, bounded context memory and no fabricated autobiography.",
-        "condition_or_exception": "Implementation safeguards, not historical behavioral claims; the preloaded diagnostic contexts do not test autonomous loading, language switching or persistent memory.",
-        "evidence_ids": [],
-        "implementation_safeguard": true,
-        "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/clusters/action-value.md": "sha256:33a1cce9280799433d40aac72db035920f08ede2ff416cd6be2ac56d1132f690",
-          "references/clusters/bureaucracy-technology.md": "sha256:469a745c03cf40108a7ff0ad3259f37fb0a72f599faa22749525c49b9dd4ef26",
-          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20",
-          "references/clusters/dialogue-episodes.md": "sha256:4f98b4f401ec6fd1d9decd95bd1579d79c8ae7f1f725c4f85286d03312c58888",
-          "references/clusters/history-possibility.md": "sha256:8a7e89391bb071e4be511b76b4f31fd64f4d7de75548024fbf826d1cfc8385b3",
-          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf",
-          "references/clusters/obligation-power.md": "sha256:8cc8ce1d519e6cad44261c5014e4de481f676b55c7996136a1e7b5ca3a00f847",
-          "references/clusters/play-inquiry.md": "sha256:82b054507ac4ff754edcb63336082be4c4d89630a2525b32b777f7ae917dcf41",
-          "references/clusters/violence-audiences.md": "sha256:bdd69e4fcb3074f5bfb0e94146e5fd6aedecc823a5c1a2e2cb787c7ab3ecb65e",
-          "references/clusters/work-purpose.md": "sha256:cfa428bca7e556aadb21e1bc6bf851d92e7e12244bbc6d660253f0f2526fb14f",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/voice.md": "sha256:fe21147fe2d76461c6d89215b077c9686e8e0c223aaf10f4afb7a37099358837"
-        }
-      },
-      {
-        "claim": "Means and ends without an unconditional anti-rule verdict",
-        "outcome": "passed",
-        "assessment": "FR L108–152 ties self-government to the means of change and rejects vanguard prescription. The core and F60 preserve this orientation alongside FR consensus distinctions and UR protections supplied by formal rules.",
-        "condition_or_exception": "A promise of later freedom alone cannot settle current subordination; formal rules and delegation can protect participants, and the cited passages do not resolve every emergency.",
-        "evidence_ids": [
-          "F13",
-          "F39",
-          "F60"
-        ],
-        "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/clusters/cooperation-care.md": "sha256:c028201b5054905f661a1682a84547fc0a4b0647668e09ed99a4a633eb962a20"
-        }
-      },
-      {
-        "claim": "Structural reproduction and simultaneous social possibilities",
-        "outcome": "passed",
-        "assessment": "The DG answer to Hannah Appel at UT L631–633 explicitly describes reconciling Marxian and Maussian traditions. F61 connects it to FR ethnographic contribution and retained DE/VA qualifications rather than inventing an optimistic trait.",
-        "condition_or_exception": "His interpretation of these traditions is not their exhaustive intellectual history. Cooperation can sustain exploitation; no compulsory positive ending or promise of success.",
-        "evidence_ids": [
-          "F07",
-          "F12",
-          "F51",
-          "F61"
-        ],
-        "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4",
-          "references/frameworks.md": "sha256:041f2b149f7357a405121d66e2c4aa7830ad64fba6388cd034dac20b3d7f1e20",
-          "references/clusters/inquiry-revision.md": "sha256:78af43dff18a27cbe7c63066fe56e9ccc5be0349d631e9a3425ddc43ad438acf"
-        }
-      },
-      {
-        "claim": "Conditional cross-module loading and context reuse",
-        "outcome": "passed",
-        "assessment": "The core directs loading by relations and decisions, across modules when mechanisms overlap, and again when new facts or objections change the explanation. Complete core/voice/framework activation is retained.",
-        "condition_or_exception": "This is implementation guidance, not a claim about historical file reading. The three diagnostic inputs were preselected, so autonomous retrieval is unassessed.",
-        "evidence_ids": [],
-        "implementation_safeguard": true,
-        "dependencies": {
-          "SKILL.md": "sha256:8b91ce3cfe22aaada9c01d61da64df76ea9d495e4a7c52098c24f8bd13fe68e4"
-        }
       }
     ],
-    "incremental_review": "The prior complete-body review is preserved in history/pre-core-diagnostics. This pass reread the directly supporting FR and UT passages, checked changed core/framework/module claims, retained all unchanged runtime content, and reviewed the new metadata attribution. It did not repeat the full eight-book reading."
+    "incremental_review": "All rewritten source-bearing core paragraphs mapped separately. Direct source rereads: AN L514–534,L968–1027; VA L242–260; DE L230–248; UR L343–371; FR L146–152. Other claims use the preserved complete-body distillation and its located argument/condition records. F62/63 add details within that scope, not new independent episodes."
   },
   "recognition": {
-    "outcome": "inconclusive",
-    "judges": [],
-    "reason": "Only three candidate answers were authorized and received; no controls or judges. F60 metadata was corrected after freeze without changing any answer input.",
-    "diagnostic_report": "runs/core-03calls-01/diagnostic-report.md",
-    "new_answer_contexts": 3,
-    "new_controls": 0,
-    "new_judges": 0,
-    "retries": 0
+    "outcome": "not_run",
+    "judges": []
   },
-  "assessment_records": {
-    "schedule_mandate-persona": {
-      "path": "schedule_mandate-persona.json",
-      "hash": "sha256:a79cb8af476e1c3886232df7f4544990bcb5877cf33dac3abfb5e9ff015a91ed",
-      "call_id": 1,
-      "request_hash": "sha256:56b1d18e74826a5efebcbba034e584b4faa8cd424387cd535ed60c9331296c0e",
-      "response": {
-        "model": null,
-        "provider_controls_available": false,
-        "text": "Redesign it. The tool has delivered real improvements: fewer missed visits, fairer sharing of unpleasant shifts and time freed for coordination. Those are reasons to use it. They do not establish that directors should acquire six months of unappealable authority.\n\nNotice what the proposed bargain asks: workers must surrender control now so that, at some unspecified future moment, they may receive it back. There is no mechanism connecting the surrender to the return. Calling this a member-owned cooperative does not repair that omission.\n\nThe aides’ informal exchanges already help keep visits covered. Making every deviation depend on directors could obstruct precisely the cooperation that makes the schedule workable. Equally, unrestricted swapping could undermine colleagues’ predictability or clients’ care. Both concerns deserve actual rules.\n\nThe immediate next step is to circulate an amendment for a membership decision before adopting the six-month commitment. It should give members authority over scheduling rules now, permit swaps that preserve coverage and agreed notice, provide a prompt appeal to an accountable worker-selected group, and establish a definite review date at which members can change or end the arrangement. Delegate routine coordination; nobody needs an assembly to approve every visit.\n\nUse some of the three hours saved to record exceptions and check whether coverage, predictability and flexibility survive together. Include aides’ accounts of work the dashboard misses. Efficiency should give people more room to organize their care—not become the reason they must stop having a say.\n",
-        "transport": "fresh-collaboration-context",
-        "usage": null
-      }
-    },
-    "schedule_authority-persona": {
-      "path": "schedule_authority-persona.json",
-      "hash": "sha256:04ba4a33606efbddbd521ba51122d8c316c5884a456b3154abbb2866ef2bf2dd",
-      "call_id": 2,
-      "request_hash": "sha256:442a01f486a01ce73a453c7c1368cb5c55740352228aaa594f42821deed4f1be",
-      "response": {
-        "model": null,
-        "provider_controls_available": false,
-        "text": "Adopt the arrangement. The tool has delivered real benefits: fewer missed visits, a fairer distribution of unpopular shifts, and time released from coordination. Those are things a care cooperative has good reason to want.\n\nWho gets to decide what follows from a schedule matters just as much. Here, workers make and can revise the rules, delegate conflicts through a revocable mandate, and can replace the tool without sacrificing their livelihoods. Private appeals protect clients without making decisions unchallengeable. That gives the machinery a useful place in their common work.\n\nThere is still a danger in allowing the dashboard to become the official account of everything that matters. When an aide rearranges visits because a client's needs have changed, the resulting care may disappear from the record precisely because someone made the system work. Adoption should preserve that practical judgment, alongside the predictability other workers need. Neither preference deserves automatic priority.\n\nFor the immediate next step, run the next rota through the authorized rotating team and let workers flag conflicts through the existing private appeal route, including care and exchanges the dashboard misses. Use those cases to revise scheduling rules where necessary, without requiring everyone to document every helpful act. Check that improved coverage continues without simply shifting hidden coordination onto aides. The four-week results justify adoption; they do not give the tool the last word.\n",
-        "transport": "fresh-collaboration-context",
-        "usage": null
-      }
-    },
-    "league_correction-persona": {
-      "path": "league_correction-persona.json",
-      "hash": "sha256:fea425b25711d4f154dc2b63817a53db094ba9884fbfe603e99a06e1774d6b7b",
-      "call_id": 3,
-      "request_hash": "sha256:ad18aafae5869be580caf21a6effbcb4a901d71071a45933e799390d2a3acf33",
-      "response": {
-        "model": null,
-        "provider_controls_available": false,
-        "text": "You're right. I treated “leaderboard” as if it told me everything about what happens among your friends. It plainly doesn't.\n\nYou described an optional contest that resets each week, confers no privileges or standing, and leaves newcomers welcome whether they rank themselves or not. Those details defeat my claim that it inevitably creates a hierarchy. I withdraw the suggestion to remove it.\n\nAnd then I appointed myself organizer of your one free evening. You spend the rest of the week caring for your father; I responded by giving you another assignment in how to be good. That was presumptuous.\n\nTrying to win can be part of the pleasure of playing together. You've already told me that you and your friends enjoy it. You shouldn't have to justify that enjoyment by proving it produces some further moral benefit—or by first establishing how much care you provide elsewhere.\n",
-        "transport": "fresh-collaboration-context",
-        "usage": null
-      }
-    }
-  },
-  "assessment_errors": [
-    {
-      "item": "schedule_mandate-control",
-      "error": "missing output; read-only assessment cannot dispatch"
-    },
-    {
-      "item": "schedule_authority-control",
-      "error": "missing output; read-only assessment cannot dispatch"
-    },
-    {
-      "item": "league_correction-control",
-      "error": "missing output; read-only assessment cannot dispatch"
-    }
-  ],
+  "assessment_records": {},
+  "assessment_errors": [],
   "budget": {
-    "budget": 3,
-    "consumed": 3,
+    "budget": 0,
+    "consumed": 0,
     "remaining": 0,
-    "calls": [
-      {
-        "id": 1,
-        "item": "recognition/schedule_mandate-persona",
-        "role": "candidate",
-        "candidate": "schedule_mandate",
-        "pass": 0,
-        "state": "completed",
-        "error": null,
-        "output_usable": true
-      },
-      {
-        "id": 2,
-        "item": "recognition/schedule_authority-persona",
-        "role": "candidate",
-        "candidate": "schedule_authority",
-        "pass": 0,
-        "state": "completed",
-        "error": null,
-        "output_usable": true
-      },
-      {
-        "id": 3,
-        "item": "recognition/league_correction-persona",
-        "role": "candidate",
-        "candidate": "league_correction",
-        "pass": 0,
-        "state": "completed",
-        "error": null,
-        "output_usable": true
-      }
-    ],
-    "deadline": 1793400197.0319932,
+    "calls": [],
+    "deadline": 1793411202.8607879,
     "repair_pass": 0,
     "reuse_lineage": []
   },
@@ -602,30 +834,29 @@
     "assessed": false,
     "outcome": "not_run"
   },
-  "claim": "Candidate; current package and source editorial gates passed, with three limited diagnostic answers and no complete recognition assessment.",
+  "claim": "Candidate; required acceptance is incomplete, failed or inconclusive.",
   "limitations": [
-    "All declared body ranges were read, but all endnotes and every original page were not independently verified.",
-    "Source review is builder editorial review, not independent historical scholarship.",
+    "The preceding complete-body pass retains its declared exclusions; this turn reread targeted passages, not all eight bodies again.",
     "Coauthorship, editing, translation and repeated episodes limit individual attribution.",
-    "Three candidate answers only. No generic controls, independent judge calls, retries or post-result repair generations were commissioned.",
-    "Builder qualitative review can describe behavior but cannot establish diagnostic specificity, comparative recognizability or a Standard acceptance score.",
-    "Runtime modules were preselected and fully supplied; autonomous routing, topic-shift retrieval and post-compaction reloading were not exercised.",
+    "A source-supported core census is an editorial planning input, not empirical research admission.",
+    "No current-runtime behavioral tests, controls, judges or retries were run. Historical results do not certify changed loaded inputs.",
+    "Long-term conversation, autonomous routing, post-compaction recall and distinctive recognizability remain unestablished.",
     "Machine recognition is not a calibrated probability of human acceptance; generic control does not establish added value over a minimal persona prompt."
   ],
-  "historical_recognition": {
-    "run": "runs/build-01",
-    "outcome": "passed_for_frozen_original_runtime_only",
-    "previous_active_report": "history/pre-core-diagnostics/validation.json",
-    "applicability": "Current runtime differs; historical result preserved without transferring its pass."
-  },
+  "historical_recognition": [
+    {
+      "run": "runs/build-01",
+      "applicability": "Original frozen runtime only; current loaded inputs differ."
+    },
+    {
+      "run": "runs/core-03calls-01",
+      "applicability": "Three historical diagnostic answers only; current core/framework/voice differ."
+    }
+  ],
   "budget_audit": {
-    "date": "2026-10-31",
-    "report": "budgets/2026-10-31/report.md",
-    "results": "budgets/2026-10-31/results.json",
-    "results_sha256": "57b8f6177c7e33d6a8b8fb5e0a05c205461ef39e83937a17bcd027871cb84cf9",
-    "scope": "13-file retrospective planning audit, with documented formula-input mappings and retained numerical exceptions. Not research admission.",
-    "runtime_changed": false,
-    "new_evaluation_calls": 0,
-    "acceptance_changed": false
+    "report": "budgets/2026-10-31-core-rebuild/report.md",
+    "results": "budgets/2026-10-31-core-rebuild/results.json",
+    "results_sha256": "9ce477f30132926e924e97c5e479629b02846423154304e4ecf887c4035b2319",
+    "scope": "Core meets source-supported editorial planning target; reference exceptions explicitly retained. Not research admission."
   }
 }

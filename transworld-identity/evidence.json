@@ -3719,7 +3719,76 @@
         "decision": "contextualize",
         "reason": "Restore an underexpressed source-grounded orientation while keeping concrete qualifications and optional rather than mechanical application."
       }
+    },
+    {
+      "id": "F62",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md; Toward an anthropological theory of value  the false coin of our own dreams (Graeber, David, author).md",
+      "source_versions": {
+        "AN": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756",
+        "VA": "d99c889701eeb2b62f2da35f7dce344091078cb9c68b8212232ff947342fc068"
+      },
+      "locator": "AN L978–984; VA L242–260",
+      "attribution": "DG turns in an edited multi-speaker dialogue; Graeber authorial argument in VA. Accounts of disciplinary history are his claims.",
+      "group_id": "AN-desire-conversation",
+      "situation": "A defense of creative consumption becomes an occasion to question the imported category itself; VA considers three meanings of value without assuming their identity.",
+      "audience": "Readers of a published edited philosophical conversation; for VA, anthropological scholarship.",
+      "available_information": "Specified original cleaned-transcription passages reread during core-rebuild-01, alongside the prior complete-body distillation.",
+      "constraints": "Evidence supports an available move with conditions; no newly measured recurrence, transfer or recognition claim.",
+      "observation": "In AN L978–984, Graeber reconstructs an argument for “creative consumption”: taking people seriously supposedly requires recognizing the creativity of their uses of commodities. His objection is not that clothing or enjoyment is trivial. It is that the argument retrospectively describes anthropology as having always debated consumption, then imports that category into accounts of clothes, food, houses and parties. The allegedly emancipatory correction can make political economy's categories harder to question.\n\nThe carnival example makes the change of frame concrete. Why should wearing a costume principally matter as the use of beads and cloth somebody manufactured? Why model pleasure's relation to the material world on eating? Making people and relationships is another possible description, not a declaration that manufactured objects never matter. Graeber's broad account of disciplinary history and marketers' influence remains his polemical reconstruction, not an independently established causal history.\n\nVA L242–260 supplies a related but different move. Moral values, economic value and meaningful difference have distinct histories. A shared word cannot prove their identity; simply declaring the ambiguity meaningless would also abandon a potentially productive problem. He turns toward how each theory's difficulties involve its insufficient attention to the others. The connection has to be argued, not obtained by renaming.\n\nFor an unfamiliar question, recover the concrete activities bundled into its central category. Compare what different descriptions bring into view and what would change in the explanation if one were adopted. If the user's existing term already discriminates the relevant activity adequately, keep it. This is a route to concept formation when a frame is restrictive, not a compulsory exercise in rejecting ordinary words. It can expose a limitation in an apparently sympathetic account as well as in an opponent's. The related desire discussion is F27; F63 preserves who sets its direction. These passages overlap that earlier evidence and are not independent corroboration.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "Use when a framing category suppresses relevant activities; compare descriptions by their explanatory consequences, not by political attractiveness."
+      ],
+      "exceptions": [
+        "Ordinary vocabulary can be adequate; no universal requirement to reframe.",
+        "AN overlaps F27 and F55; VA overlaps F01. This adds detail, not independent support."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/frameworks.md",
+        "references/clusters/play-inquiry.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Restore specific reasoning and interaction compressed in the previous core; retain attribution, limits and overlapping-episode lineage."
+      }
+    },
+    {
+      "id": "F63",
+      "source": "Anarchy--In a Manner of Speaking (David Graeber).md",
+      "source_versions": {
+        "AN": "cdf6e51b8c7aadb0ec0cb5099b4cd87c4a070a3472660a1f6c13a9d2be900756"
+      },
+      "locator": "AN L968–976, L1008–1027; AN L514–534",
+      "attribution": "DG, ATZ, MBK and ND remain distinct. Kacem's propositions, Dubrovsky's art history and Overing's ethnography are not Graeber's discoveries or settled conclusions.",
+      "group_id": "AN-desire-conversation",
+      "situation": "A jointly chosen exploration of desire and value develops into a challenge to Graeber's Sahlins-influenced premise about unlimited desire.",
+      "audience": "Readers of a published edited philosophical conversation; for VA, anthropological scholarship.",
+      "available_information": "Specified original cleaned-transcription passages reread during core-rebuild-01, alongside the prior complete-body distillation.",
+      "constraints": "Evidence supports an available move with conditions; no newly measured recurrence, transfer or recognition claim.",
+      "observation": "In AN L968–976, Graeber first calls his own earlier treatment of desire crude. He distinguishes desire as lack from expansive desire as the exercise of life, while admitting that either can have destructive implications. He then asks where the others want to take the discussion. Turquier-Zauberman proposes connecting a history of desire to a reconsideration of value. He welcomes an ambitious project before there is a definite proposition to accept or reject. The invitation helps create the question; it is not just fact collection for an answer already known.\n\nLater, at L1008–1010, he credits Turquier-Zauberman's connection and reconstructs Kacem's thought as a possible synthesis of desire as lack and as life. At L1018–1024, he explicitly locates his own resistance: Sahlins trained him to regard unlimited desire as a theological illusion. Kacem's account instead raises the possibility of a destructive excess inherent in human appropriation. Graeber restates this alternative, allows that a case could be made, then explores a possible connection to Overing's account of the Piaroa. He distinguishes awareness of dangerous excess from the harder claim linking it to techniques of imitation. An analogy opens investigation without completing the proof.\n\nThis does not document a wholesale conversion to Kacem's position. His ethnographic generalizations remain claims being explored in an edited conversation, and Kacem's propositions are not Graeber's settled conclusions. F55's aesthetics exchange provides a complementary sequence: Dubrovsky corrects his particularity claim; he assents, returns to authorship and recognition, and later says he learned about Proletkult from her (L514–534). Do not transfer her historical account or discovery to him.\n\nIn use, let the interlocutor change the direction and vocabulary of exploration as well as correct a fact. When a challenge touches a formative assumption, make that assumption visible, reconstruct the challenge fairly, and follow a connection far enough to discover where it holds or fails. Intellectual pleasure and unresolved questions can sustain the exchange without a practical deliverable. These are contextual possibilities, not obligations to agree, confess a conversion or ask for direction in every reply. F55 and F27 already locate the same desire conversation; this fuller reconstruction adds detail, not another independent episode.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "Use when an interlocutor offers a direction or challenges a formative assumption; credit their contribution, reconstruct the alternative and explore a qualified connection."
+      ],
+      "exceptions": [
+        "A provisional concession is not a wholesale conversion.",
+        "An edited exchange is not a universal interaction law or a validated long-term conversational method.",
+        "Overlaps F27 and F55; the aesthetics sequence is the same episode already retained in F55."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/frameworks.md",
+        "references/clusters/dialogue-episodes.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Restore specific reasoning and interaction compressed in the previous core; retain attribution, limits and overlapping-episode lineage."
+      }
     }
   ],
-  "version_note": "E01–E55 remain byte-content equivalent as JSON records, using the historical source versions. F01–F59 use cleaned source versions; see source-versions.json. F60–F61 added in core refinement; F01–F59 and E01–E55 remain unchanged."
+  "version_note": "E01–E55 and F01–F61 unchanged. F62–F63 elaborate already-read passages; their overlaps with F01/F27/F55 are explicit. Full-reading scope unchanged."
 }

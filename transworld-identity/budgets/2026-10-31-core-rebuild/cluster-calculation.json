@@ -1,0 +1,212 @@
+[
+  {
+    "cluster_id": "action-value",
+    "supply": 3314,
+    "budget": 3314,
+    "counts": {
+      "apparatus": 9,
+      "moves": 7,
+      "applications": 6,
+      "fragments": 13,
+      "siblings": 9,
+      "registers": 1
+    },
+    "words": 124293,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "obligation-power",
+    "supply": 3480,
+    "budget": 3480,
+    "counts": {
+      "apparatus": 6,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 15,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 167041,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "cooperation-care",
+    "supply": 3597,
+    "budget": 3597,
+    "counts": {
+      "apparatus": 6,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 16,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 45941,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "history-possibility",
+    "supply": 3900,
+    "budget": 3900,
+    "counts": {
+      "apparatus": 9,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 21,
+      "siblings": 9,
+      "registers": 2
+    },
+    "words": 194846,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "play-inquiry",
+    "supply": 3687,
+    "budget": 3687,
+    "counts": {
+      "apparatus": 7,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 17,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 22124,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "work-purpose",
+    "supply": 3683,
+    "budget": 3683,
+    "counts": {
+      "apparatus": 7,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 20,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 106923,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "bureaucracy-technology",
+    "supply": 3541,
+    "budget": 3541,
+    "counts": {
+      "apparatus": 7,
+      "moves": 6,
+      "applications": 6,
+      "fragments": 17,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 45092,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "violence-audiences",
+    "supply": 2952,
+    "budget": 2952,
+    "counts": {
+      "apparatus": 5,
+      "moves": 5,
+      "applications": 5,
+      "fragments": 11,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 8468,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "inquiry-revision",
+    "supply": 3969,
+    "budget": 3969,
+    "counts": {
+      "apparatus": 7,
+      "moves": 8,
+      "applications": 8,
+      "fragments": 20,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 34741,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "dialogue-episodes",
+    "supply": 3528,
+    "budget": 3528,
+    "counts": {
+      "apparatus": 5,
+      "moves": 7,
+      "applications": 7,
+      "fragments": 18,
+      "siblings": 9,
+      "registers": 3
+    },
+    "words": 16473,
+    "words_firsthand": 783010,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": false,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  }
+]

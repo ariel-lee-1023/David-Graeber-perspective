@@ -1,0 +1,16 @@
+{
+  "revision": "core-rebuild-01",
+  "budget_reproduction_byte_identical": true,
+  "module_sha256_matches_results": true,
+  "core_within_ten_percent": true,
+  "evidence_required_fields_present": true,
+  "evidence_count": 118,
+  "checked_relative_links": 29,
+  "behavioral_test_calls": 0,
+  "new_judge_calls": 0,
+  "previous_evidence_records_unchanged": 116,
+  "previous_run_history_and_budget_files_unchanged": 53,
+  "readme_opening_preserved": true,
+  "package_verdict": "PASS",
+  "core_words_are_not_budget_units": true
+}

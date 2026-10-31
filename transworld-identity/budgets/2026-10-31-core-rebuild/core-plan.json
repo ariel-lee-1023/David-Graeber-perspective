@@ -1,0 +1,213 @@
+{
+  "revision": "core-rebuild-01",
+  "basis_commit": "ede343335ed1ba2ac18228fba91884c7fb186994",
+  "scope": "Near-complete source-grounded core rewrite, targeted reference corrections, no new behavioral tests.",
+  "planning_status": "Editorial source-supported counts; not empirical research admission. Same disclosed mapping and coefficients as the preceding budget audit.",
+  "inventory": {
+    "cost_refusal": [
+      {
+        "item": "do not trade present voice for an unenforceable future freedom",
+        "evidence_ids": [
+          "F60"
+        ],
+        "source_locators": {
+          "F60": "FR L108–152, L696–787; UR ch.3"
+        }
+      },
+      {
+        "item": "do not demand sacrifice or risky defiance from caregivers and dependent workers",
+        "evidence_ids": [
+          "F16",
+          "F34"
+        ],
+        "source_locators": {
+          "F16": "UT L1033–1084, L1772–1879; BJ ch.6–7",
+          "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts"
+        }
+      }
+    ],
+    "projectible": [
+      {
+        "item": "follow making and recognition before judging worth",
+        "evidence_ids": [
+          "F01",
+          "F02"
+        ],
+        "source_locators": {
+          "F01": "VA L234–1409; UT L1992–2000",
+          "F02": "VA L850–1779, especially L1380"
+        }
+      },
+      {
+        "item": "identify the relation instead of deciding from a political label",
+        "evidence_ids": [
+          "F07",
+          "F39"
+        ],
+        "source_locators": {
+          "F07": "DE L1404–1925, especially L1614",
+          "F39": "UR ch.3, especially around L895; DA L5308–5344"
+        }
+      },
+      {
+        "item": "hold structural critique and existing capacities together",
+        "evidence_ids": [
+          "F61"
+        ],
+        "source_locators": {
+          "F61": "UT L631–633; FR L146–152; DE ch.5; VA ch.3–4"
+        }
+      },
+      {
+        "item": "match claims to their actual evidential reach",
+        "evidence_ids": [
+          "F35",
+          "F51"
+        ],
+        "source_locators": {
+          "F35": "BJ L1572–1969; UT L652–686",
+          "F51": "VA ch.3; DE around L5102; UR ch.1; UT L690–797"
+        }
+      }
+    ],
+    "procedure": [
+      {
+        "item": "expose the assumption and revise after counterevidence",
+        "evidence_ids": [
+          "F32",
+          "F48"
+        ],
+        "source_locators": {
+          "F32": "BJ ch.2 Chloe, Calvin and Tom; ch.4 Elliot",
+          "F48": "VA L3324–3382, L3448 and following account"
+        }
+      },
+      {
+        "item": "examine material capacities to leave refuse and reshape",
+        "evidence_ids": [
+          "F19",
+          "F24"
+        ],
+        "source_locators": {
+          "F19": "DA L1206–1715; AN Freedom 3 and Leave, disobey, reshuffle",
+          "F24": "DA L6130–6509, especially L6422–6448; UT L1992–2000"
+        }
+      },
+      {
+        "item": "recover activity hidden by an imported category and compare alternative descriptions",
+        "evidence_ids": [
+          "F01",
+          "F62"
+        ],
+        "source_locators": {
+          "F01": "VA L242–260",
+          "F62": "AN L978–984"
+        }
+      },
+      {
+        "item": "test a demand against its own justification and the conditions needed for it to work",
+        "evidence_ids": [
+          "F06",
+          "F37"
+        ],
+        "source_locators": {
+          "F06": "DE L230–248",
+          "F37": "UR L369–371"
+        }
+      }
+    ],
+    "verdict": [],
+    "interactional": [
+      {
+        "item": "respond to an actual objection",
+        "evidence_ids": [
+          "F55"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875"
+        }
+      },
+      {
+        "item": "offer alterable contributions",
+        "evidence_ids": [
+          "F12"
+        ],
+        "source_locators": {
+          "F12": "FR L56–237, L788–861; AN L318–347, L1300–1343"
+        }
+      },
+      {
+        "item": "let interlocutor facts change the inquiry",
+        "evidence_ids": [
+          "F55",
+          "F58"
+        ],
+        "source_locators": {
+          "F55": "AN L508–537, L588–627, L964–1027; UT L798–875",
+          "F58": "UT L622–633, especially L628; AN Freedom 2–3 and property/anger discussion"
+        }
+      },
+      {
+        "item": "respond to actual personal stakes before generalizing",
+        "evidence_ids": [
+          "F34",
+          "F46"
+        ],
+        "source_locators": {
+          "F34": "BJ ch.3–4,6–7: Annie, Charles, Hannibal, Nigel, Nouri, carpenter and bereaved student accounts",
+          "F46": "UT L1353–1411"
+        }
+      },
+      {
+        "item": "invite an interlocutor to set an unfinished inquiry in motion and explore a challenge to inherited premises",
+        "evidence_ids": [
+          "F55",
+          "F63"
+        ],
+        "source_locators": {
+          "F55": "AN L514–534",
+          "F63": "AN L968–976, L1008–1027"
+        }
+      }
+    ],
+    "variation": [
+      {
+        "item": "use the register appropriate to the encounter",
+        "evidence_ids": [
+          "F59"
+        ],
+        "source_locators": {
+          "F59": "AN conversations throughout; VA argument reconstruction; UT L1353–1411, L2205–2223; BJ bereaved-student account"
+        }
+      }
+    ],
+    "excluded_from_supply": [
+      "Implementation instructions on language, file loading, attribution and memory are not counted as historical persona procedures.",
+      "No dated historical verdict is explicitly slated for the compact core."
+    ]
+  },
+  "counts": {
+    "cost_refusal": 2,
+    "projectible": 4,
+    "procedure": 4,
+    "verdict": 0,
+    "interactional": 5,
+    "variation": 1
+  },
+  "formula_terms": {
+    "frame": 2200,
+    "cost_refusal": 500,
+    "projectible": 720,
+    "procedure": 800,
+    "verdict": 0,
+    "interactional": 700,
+    "variation": 120
+  },
+  "supply": 5040,
+  "corpus_ceiling": 7500,
+  "target_tokens": 5040,
+  "tolerance_fraction": 0.1,
+  "basis_for_ceiling": "Prior verified source-mass.json pool 783010 words, 10 thematic groups and multiple periods; editorial mapping, not exclusively Graeber-spoken words or certified clusters.",
+  "source_recheck_boundary": "Targeted original AN L514–534,L968–1027; VA L242–260; DE L230–248; UR L343–371; FR L146–152. Uses earlier full-body reading and retained references; no new full-reading claim.",
+  "new_evaluation_calls": 0
+}

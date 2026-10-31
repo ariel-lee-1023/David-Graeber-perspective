@@ -1,0 +1,703 @@
+{
+  "schema_version": 1,
+  "basis_commit": "ede343335ed1ba2ac18228fba91884c7fb186994",
+  "method": "Default scoring.md size formulas with documented editorial counts and source-mass mapping; no empirical admission scores or certified register measurements are fabricated.",
+  "coefficients_changed": false,
+  "module_coefficients": {
+    "FIXED_FRAME": 600,
+    "PROHIB_BASE": 80,
+    "PER_SIBLING": 15,
+    "MASS_COEF": 400,
+    "FLOOR": 1800,
+    "CEILING": 6000,
+    "SIBLING_CAP": 9,
+    "REGISTER_PRICE": 220,
+    "REGISTER_CAP": 3,
+    "TERMS": {
+      "apparatus": {
+        "price": 90,
+        "cap": 12
+      },
+      "moves": {
+        "price": 90,
+        "cap": 12
+      },
+      "applications": {
+        "price": 85,
+        "cap": 8
+      },
+      "fragments": {
+        "price": 30,
+        "cap": 24
+      }
+    }
+  },
+  "tokenizer": {
+    "kind": "heuristic, not a model-specific BPE count",
+    "tokens_per_han_char": 1.6666666666666667,
+    "tokens_per_latin_word": 1.3,
+    "digit_run_base": 1.2,
+    "digit_length_divisor": 3,
+    "punctuation_run": 1,
+    "whitespace_run": 1
+  },
+  "formula_source_hashes": {
+    "references/scoring.md": "8900cc0e23f4f83aa561ec87610f1656287d0f4e23eed589702ab1dca6450a19",
+    "scripts/token_count.py": "3cd9377a830b084265a5558240535b155b6ae168498c2ea031da092c3e6c205a",
+    "scripts/cluster_budget.py": "f5dee665ec4666b0fe0ea9d548c555451e50f9d0e214ba340b28008ece202c5b"
+  },
+  "inventory_sha256": "495444199bc8db9de2e67a120a01ee97927896a6334544787ea7b627a33a8dbb",
+  "source_mass_sha256": "8befe648e27f951547984b98457e88d1589438a287e6a8f122af551bbc4f4645",
+  "modules": [
+    {
+      "path": "SKILL.md",
+      "target_tokens": 5040,
+      "actual_tokens": 5177.37,
+      "delta_tokens": 137.37,
+      "delta_percent": 2.73,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "cost_refusal": 2,
+        "projectible": 4,
+        "procedure": 4,
+        "verdict": 0,
+        "interactional": 5,
+        "variation": 1
+      },
+      "formula_terms": {
+        "frame": 2200,
+        "cost_refusal": 500,
+        "projectible": 720,
+        "procedure": 800,
+        "verdict": 0,
+        "interactional": 700,
+        "variation": 120
+      },
+      "measurement": {
+        "file": "SKILL.md",
+        "chars": 14197,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1991,
+        "digit_runs": 67,
+        "punctuation_runs": 514,
+        "whitespace_runs": 1950,
+        "tokens_est": 5177.37
+      },
+      "sha256": "2ecbfa1d05733807f01ddefdc9ae6fede235d295add16ec2b3e7203065456474",
+      "decision": "REBUILT. Core source-supported census fixed before drafting: two procedures and one interactional move added to the previous census. All core sections re-organized around the complete-body distillation; implementation safeguards earn no persona-supply allowance.",
+      "sensitivity": {
+        "corpus_ceiling": 7500,
+        "target_with_conservative_4000_ceiling": 4000
+      }
+    },
+    {
+      "path": "references/frameworks.md",
+      "target_tokens": 7000,
+      "actual_tokens": 5141.63,
+      "delta_tokens": -1858.37,
+      "delta_percent": -26.55,
+      "within_ten_percent": false,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "constructs": 29,
+        "procedure": 9,
+        "epistemic": 6,
+        "verdict": 9,
+        "moves": 6,
+        "personal": 4
+      },
+      "formula_terms": {
+        "frame": 700,
+        "constructs": 2400,
+        "procedure": 1200,
+        "epistemic": 780,
+        "verdict": 810,
+        "moves": 660,
+        "personal": 280,
+        "construct_index_allowance": 725
+      },
+      "measurement": {
+        "file": "references/frameworks.md",
+        "chars": 13787,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 2015,
+        "digit_runs": 59,
+        "punctuation_runs": 375,
+        "whitespace_runs": 2029,
+        "tokens_est": 5141.63
+      },
+      "sha256": "fc313fad09e99f414e8500fc7be610d17d7e37bba6a35c31060cc82cb2505997",
+      "decision": "KEEP. The legacy formula budgets separate entries and an index; current prose combines them and routes concrete cases to topic modules. Do not duplicate those cases or add an index solely to consume the allowance."
+    },
+    {
+      "path": "references/voice.md",
+      "target_tokens": 4420,
+      "actual_tokens": 3321.77,
+      "delta_tokens": -1098.23,
+      "delta_percent": -24.85,
+      "within_ten_percent": false,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "registers": 5,
+        "rules": 18,
+        "avoid": 0,
+        "pairs": 0,
+        "nopool_pairs": 0,
+        "within_family_gradient": 0
+      },
+      "formula_terms": {
+        "frame": 600,
+        "registers": 2200,
+        "gradient": 0,
+        "rules": 1620,
+        "avoid": 0,
+        "pairs": 0,
+        "nopool_pairs": 0
+      },
+      "measurement": {
+        "file": "references/voice.md",
+        "chars": 8879,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1297,
+        "digit_runs": 40,
+        "punctuation_runs": 259,
+        "whitespace_runs": 1302,
+        "tokens_est": 3321.77
+      },
+      "sha256": "58fc3d666deb39a1d1ca4dd74d4e4c5a193eae42f8429e563ee422ab713eae58",
+      "decision": "KEEP. Five evidenced expressive occasions are represented concisely; they are not five statistically certified families. No quantified avoidance table or artificial contrast pairs are added to satisfy a legacy layout.",
+      "sensitivity": {
+        "single_family_target": 2770
+      }
+    },
+    {
+      "path": "references/clusters/action-value.md",
+      "target_tokens": 3314,
+      "actual_tokens": 3311.2,
+      "delta_tokens": -2.8,
+      "delta_percent": -0.08,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 9,
+        "moves": 7,
+        "applications": 6,
+        "fragments": 13,
+        "registers": 1,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 810,
+        "moves": 630,
+        "applications": 510,
+        "fragments": 390,
+        "prohibitions": 215,
+        "mass": 159,
+        "registers": 0
+      },
+      "measurement": {
+        "file": "references/clusters/action-value.md",
+        "chars": 9101,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1308,
+        "digit_runs": 29,
+        "punctuation_runs": 225,
+        "whitespace_runs": 1326,
+        "tokens_est": 3311.2
+      },
+      "sha256": "8713ead7478abc3b852c0a9201da0176beee46a698c4361727be4e22e84e8ea9",
+      "decision": "KEEP. Retain rival arguments, distinct ethnographic examples and the difference between efficacy, meaning and social consequence. No passage is removed to reduce the residual.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3155,
+          3555
+        ],
+        "single_register_target_same_mass": 3314
+      }
+    },
+    {
+      "path": "references/clusters/obligation-power.md",
+      "target_tokens": 3480,
+      "actual_tokens": 3344.67,
+      "delta_tokens": -135.33,
+      "delta_percent": -3.89,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 6,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 15,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 540,
+        "moves": 540,
+        "applications": 510,
+        "fragments": 450,
+        "prohibitions": 215,
+        "mass": 185,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/obligation-power.md",
+        "chars": 9283,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1326,
+        "digit_runs": 26,
+        "punctuation_runs": 221,
+        "whitespace_runs": 1344,
+        "tokens_est": 3344.67
+      },
+      "sha256": "35edd6c76754af23a40285f52795b3859309e09b4bf6b93a679fb65865bc8fd9",
+      "decision": "KEEP. Retain the causal correction and unresolved remedy objections; they prevent debt critique becoming a fixed instruction to cancel every obligation.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3295,
+          3695
+        ],
+        "single_register_target_same_mass": 3040
+      }
+    },
+    {
+      "path": "references/clusters/cooperation-care.md",
+      "target_tokens": 3597,
+      "actual_tokens": 4536.7,
+      "delta_tokens": 939.7,
+      "delta_percent": 26.12,
+      "within_ten_percent": false,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 6,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 16,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 540,
+        "moves": 630,
+        "applications": 595,
+        "fragments": 480,
+        "prohibitions": 215,
+        "mass": 97,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/cooperation-care.md",
+        "chars": 12445,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1803,
+        "digit_runs": 39,
+        "punctuation_runs": 286,
+        "whitespace_runs": 1822,
+        "tokens_est": 4536.7
+      },
+      "sha256": "0de441f1006a795efb518997e3e814c34bce46ce35942d2b9eb4a0f485b132a0",
+      "decision": "KEEP. Retain access conditions, institutional interfaces, evolution of care, costs of attachment and the means/ends qualification. These do different work even where they share sources.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3500,
+          3900
+        ],
+        "single_register_target_same_mass": 3157
+      }
+    },
+    {
+      "path": "references/clusters/history-possibility.md",
+      "target_tokens": 3900,
+      "actual_tokens": 4224.4,
+      "delta_tokens": 324.4,
+      "delta_percent": 8.32,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 9,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 21,
+        "registers": 2,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 810,
+        "moves": 630,
+        "applications": 595,
+        "fragments": 630,
+        "prohibitions": 215,
+        "mass": 200,
+        "registers": 220
+      },
+      "measurement": {
+        "file": "references/clusters/history-possibility.md",
+        "chars": 12005,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1678,
+        "digit_runs": 35,
+        "punctuation_runs": 272,
+        "whitespace_runs": 1696,
+        "tokens_est": 4224.4
+      },
+      "sha256": "2092019b796caaa5267c7f210a4691af8438e9b088cf38fd03b4c4883be840a0",
+      "decision": "KEEP. Retain distinct counterexamples, archaeological qualifications and the Osage revision chain. Shared authorship is preserved; length is not converted into individual-attribution confidence.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3700,
+          4100
+        ],
+        "single_register_target_same_mass": 3680
+      }
+    },
+    {
+      "path": "references/clusters/play-inquiry.md",
+      "target_tokens": 3687,
+      "actual_tokens": 4390.0,
+      "delta_tokens": 703.0,
+      "delta_percent": 19.07,
+      "within_ten_percent": false,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 7,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 17,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 630,
+        "moves": 630,
+        "applications": 595,
+        "fragments": 510,
+        "prohibitions": 215,
+        "mass": 67,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/play-inquiry.md",
+        "chars": 12243,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1752,
+        "digit_runs": 32,
+        "punctuation_runs": 269,
+        "whitespace_runs": 1771,
+        "tokens_est": 4390.0
+      },
+      "sha256": "8c403ea28ba81eef981b9292d6dbce35c3a958ce28a94f33aedcae3e49d39099",
+      "decision": "KEEP. Preserve F62's concrete category critique and distinct VA comparison, with overlap and polemical-history qualifications. The added chain supplies the rewritten core; any remaining surplus is disclosed rather than removed by dropping necessary conditions.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3620,
+          4020
+        ],
+        "single_register_target_same_mass": 3247
+      }
+    },
+    {
+      "path": "references/clusters/work-purpose.md",
+      "target_tokens": 3683,
+      "actual_tokens": 3635.17,
+      "delta_tokens": -47.83,
+      "delta_percent": -1.3,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 7,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 20,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 630,
+        "moves": 540,
+        "applications": 510,
+        "fragments": 600,
+        "prohibitions": 215,
+        "mass": 148,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/work-purpose.md",
+        "chars": 9864,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1439,
+        "digit_runs": 29,
+        "punctuation_runs": 249,
+        "whitespace_runs": 1457,
+        "tokens_est": 3635.17
+      },
+      "sha256": "2798824525f691ece4fa74d7833b6d9bb42b15c5a08f740dd11868e62ffd217e",
+      "decision": "KEEP. Retain the heterogeneous worker accounts and unknown outcomes; collapsing them would erase different conditions behind similar job labels.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3535,
+          3935
+        ],
+        "single_register_target_same_mass": 3243
+      }
+    },
+    {
+      "path": "references/clusters/bureaucracy-technology.md",
+      "target_tokens": 3541,
+      "actual_tokens": 3477.8,
+      "delta_tokens": -63.2,
+      "delta_percent": -1.78,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 7,
+        "moves": 6,
+        "applications": 6,
+        "fragments": 17,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 630,
+        "moves": 540,
+        "applications": 510,
+        "fragments": 510,
+        "prohibitions": 215,
+        "mass": 96,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/bureaucracy-technology.md",
+        "chars": 9595,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1394,
+        "digit_runs": 18,
+        "punctuation_runs": 222,
+        "whitespace_runs": 1406,
+        "tokens_est": 3477.8
+      },
+      "sha256": "1645f20b801d447d162d60c4bef347cd5902a92acac39cdcf397e91d6aa96321",
+      "decision": "KEEP. Retain positive uses of procedure and the technological antithesis; an across-the-board anti-bureaucratic verdict would lose the judgment conditions.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3445,
+          3845
+        ],
+        "single_register_target_same_mass": 3101
+      }
+    },
+    {
+      "path": "references/clusters/violence-audiences.md",
+      "target_tokens": 2952,
+      "actual_tokens": 2866.47,
+      "delta_tokens": -85.53,
+      "delta_percent": -2.9,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 5,
+        "moves": 5,
+        "applications": 5,
+        "fragments": 11,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 450,
+        "moves": 450,
+        "applications": 425,
+        "fragments": 330,
+        "prohibitions": 215,
+        "mass": 42,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/violence-audiences.md",
+        "chars": 7756,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1144,
+        "digit_runs": 18,
+        "punctuation_runs": 178,
+        "whitespace_runs": 1159,
+        "tokens_est": 2866.47
+      },
+      "sha256": "66d2e3123a9554209df0606a65ea7be987847f7c14264e25bec3ba243ce20c8e",
+      "decision": "KEEP. Retain chronology, audience, personal risk and the unresolved maxim contradiction. Do not expand the short module with speculative psychological explanations.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          2910,
+          3310
+        ],
+        "single_register_target_same_mass": 2512
+      }
+    },
+    {
+      "path": "references/clusters/inquiry-revision.md",
+      "target_tokens": 3969,
+      "actual_tokens": 4531.0,
+      "delta_tokens": 562.0,
+      "delta_percent": 14.16,
+      "within_ten_percent": false,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 7,
+        "moves": 8,
+        "applications": 8,
+        "fragments": 20,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 630,
+        "moves": 720,
+        "applications": 680,
+        "fragments": 600,
+        "prohibitions": 215,
+        "mass": 84,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/inquiry-revision.md",
+        "chars": 12517,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1818,
+        "digit_runs": 28,
+        "punctuation_runs": 272,
+        "whitespace_runs": 1835,
+        "tokens_est": 4531.0
+      },
+      "sha256": "dd046f466ce82348b0242f38e7ae902a43decc56db3a9f56d1335e19867df897",
+      "decision": "KEEP. Retain multiple types of revision, not one generic rule to admit error. Historical contradiction, better data, failed prediction and a broken analogy require different responses.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3885,
+          4285
+        ],
+        "single_register_target_same_mass": 3529
+      }
+    },
+    {
+      "path": "references/clusters/dialogue-episodes.md",
+      "target_tokens": 3528,
+      "actual_tokens": 3771.53,
+      "delta_tokens": 243.53,
+      "delta_percent": 6.9,
+      "within_ten_percent": true,
+      "target_kind": "source-grounded editorial planning target, not research-certified budget",
+      "counts": {
+        "apparatus": 5,
+        "moves": 7,
+        "applications": 7,
+        "fragments": 18,
+        "registers": 3,
+        "siblings": 9
+      },
+      "formula_terms": {
+        "fixed_frame": 600,
+        "apparatus": 450,
+        "moves": 630,
+        "applications": 595,
+        "fragments": 540,
+        "prohibitions": 215,
+        "mass": 58,
+        "registers": 440
+      },
+      "measurement": {
+        "file": "references/clusters/dialogue-episodes.md",
+        "chars": 10238,
+        "chars_han": 0,
+        "chars_kana": 0,
+        "words_latin": 1498,
+        "digit_runs": 29,
+        "punctuation_runs": 252,
+        "whitespace_runs": 1509,
+        "tokens_est": 3771.53
+      },
+      "sha256": "d3c45afe16177adc6d647e62348e765737da36b0dcb0c669baa0065f1e3414f2",
+      "decision": "KEEP. F63 reconstructs the invitation, formative premise, qualified concession and incomplete bridge; no extra independent support is inferred from overlapping F55.",
+      "sensitivity": {
+        "source_mass_term_range": [
+          0,
+          400
+        ],
+        "target_range_for_unknown_full_mass": [
+          3470,
+          3870
+        ],
+        "single_register_target_same_mass": 3088
+      }
+    }
+  ],
+  "runtime_load": {
+    "actual_default": 13640.77,
+    "actual_plus_two_largest_distinct_topics": 22708.47,
+    "actual_all_runtime": 51729.71,
+    "actual_refs_total": 46552.34,
+    "legacy_two_module_formula": 21441.4,
+    "loading_limit": "Current routing permits more than two topic modules. The legacy two-module formula is a comparison scenario, not an enforced worst-case ceiling. User input, history, tool output and response allowance are additional."
+  },
+  "runtime_modified": true,
+  "new_evaluation_calls": 0,
+  "strict_research_budget_compliance": "not_established; this is a source-supported planning application under the explicit no-new-tests instruction",
+  "revision": "core-rebuild-01",
+  "core_plan_sha256": "c4ca0d129c5bbc1da8367d212f366a032dffd73bf6dce5a6dfd3d3a3edaf7f61",
+  "source_mass_file": "../2026-10-31/source-mass.json",
+  "source_mass_revision_note": "Reuse prior explicit spans as a conservative floor. AN category and dialogue passages were already included; the newly explicit VA L242–260 play-module comparison is omitted from the mass corrective in this revision. No additional mass allowance is claimed. Source mass contributes at most 400 tokens; sensitivity remains visible."
+}

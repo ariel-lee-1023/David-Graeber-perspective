@@ -1,3 +1,5 @@
+> Historical profile for `core-03calls-01`; not a frozen profile or recognition result for the rebuilt core. See [current applicability](assessment-applicability.md).
+
 # Recognition profile — core refinement
 
 This source-backed profile is frozen for a three-generation partial diagnostic. No control or independent judge calls are authorized in this run. It does not establish Standard acceptance. The previous profile is preserved in history/pre-core-diagnostics and build-01.
